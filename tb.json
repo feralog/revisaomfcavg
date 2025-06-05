@@ -1,0 +1,392 @@
+[
+  {
+    "question": "Qual é o principal agente etiológico da tuberculose (TB) do ponto de vista sanitário?",
+    "options": [
+      "Mycobacterium bovis",
+      "Mycobacterium africanum",
+      "Mycobacterium tuberculosis",
+      "Mycobacterium canetti",
+      "Mycobacterium microti"
+    ],
+    "correctIndex": 2,
+    "explanation": "Embora o complexo Mycobacterium tuberculosis inclua sete espécies capazes de causar tuberculose, a espécie Mycobacterium tuberculosis é a mais importante do ponto de vista sanitário e a principal causa de TB em humanos. As outras espécies listadas são menos comuns como causa de doença em humanos em geral.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Como ocorre predominantemente a transmissão da tuberculose?",
+    "options": [
+      "Contato com sangue de uma pessoa infectada",
+      "Ingestão de alimentos contaminados com o bacilo",
+      "Picada de insetos vetores",
+      "Inalação de aerossóis expelidos por pessoas com TB pulmonar ou laríngea ativa",
+      "Contato direto com lesões de pele de TB cutânea"
+    ],
+    "correctIndex": 3,
+    "explanation": "A tuberculose é uma doença de transmissão aérea, ocorrendo pela inalação de aerossóis contendo o bacilo, que são expelidos pela tosse, espirro ou fala de pessoas com TB pulmonar ou laríngea ativa. Outras vias, como sangue, alimentos, vetores ou contato direto com lesões cutâneas, não são o modo predominante de transmissão da forma mais comum e transmissível da TB.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual das seguintes formas de tuberculose NÃO transmite a doença?",
+    "options": [
+      "Tuberculose pulmonar bacilífera",
+      "Tuberculose laríngea",
+      "Tuberculose pulmonar cavitária",
+      "Formas exclusivamente extrapulmonares",
+      "Tuberculose pulmonar com escarro positivo"
+    ],
+    "correctIndex": 3,
+    "explanation": "A transmissão da tuberculose ocorre a partir de pessoas com TB pulmonar ou laríngea que eliminam bacilos. As formas exclusivamente extrapulmonares, onde o bacilo não está presente nas vias aéreas, não transmitem a doença. As outras opções descrevem formas de TB que são tipicamente transmissíveis.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a principal recomendação para a prevenção primária da tuberculose em recém-nascidos?",
+    "options": [
+      "Administração de antibióticos profiláticos",
+      "Isolamento respiratório por 30 dias",
+      "Imunização com a vacina BCG",
+      "Teste tuberculínico seriado",
+      "Suplementação com vitamina D"
+    ],
+    "correctIndex": 2,
+    "explanation": "A imunização com a vacina BCG, preferencialmente logo após o nascimento (em recém-nascidos com peso ≥ 2kg), é a principal medida de prevenção primária contra formas graves de tuberculose na infância. Antibióticos profiláticos, isolamento, teste tuberculínico seriado e suplementação vitamínica não são as medidas primárias de prevenção recomendadas para todos os recém-nascidos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Como a vacina BCG deve ser administrada?",
+    "options": [
+      "Via oral, em dose única",
+      "Via subcutânea, no braço esquerdo",
+      "Via intramuscular, no glúteo",
+      "Via intradérmica, na inserção do músculo deltoide direito",
+      "Via intravenosa, em ambiente hospitalar"
+    ],
+    "correctIndex": 3,
+    "explanation": "A vacina BCG é administrada por via intradérmica, na região da inserção inferior do músculo deltoide do braço direito. As outras vias e locais de administração estão incorretos para a vacina BCG.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a conduta recomendada para a vacinação com BCG em crianças a partir dos 5 anos de idade vivendo com HIV (PVHIV)?",
+    "options": [
+      "Devem ser vacinadas, mesmo que sintomáticas.",
+      "Devem ser vacinadas apenas se apresentarem contagem de CD4 alta.",
+      "Não devem ser vacinadas, mesmo que assintomáticas e sem sinais de imunodeficiência.",
+      "Devem receber duas doses da vacina para garantir a resposta.",
+      "A vacinação é opcional e depende da decisão dos pais."
+    ],
+    "correctIndex": 2,
+    "explanation": "A partir dos 5 anos de idade, pessoas vivendo com HIV (PVHIV) não devem ser vacinadas com a BCG, mesmo que sejam assintomáticas e não apresentem sinais de imunodeficiência. Para crianças com HIV menores de 5 anos, a vacinação pode ocorrer se assintomáticas e sem sinais de imunodepressão.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os principais métodos laboratoriais para o diagnóstico da tuberculose ativa?",
+    "options": [
+      "Apenas sorologia para anticorpos anti-M. tuberculosis",
+      "Hemograma completo e dosagem de proteína C reativa",
+      "Baciloscopia direta, Teste Rápido Molecular para TB (TRM-TB) e cultura para micobactéria",
+      "Tomografia computadorizada de tórax e broncoscopia com biópsia",
+      "Prova tuberculínica (PPD) e IGRA"
+    ],
+    "correctIndex": 2,
+    "explanation": "Os principais exames laboratoriais para confirmar o diagnóstico da tuberculose ativa incluem a baciloscopia direta do escarro, o Teste Rápido Molecular para TB (TRM-TB) e a cultura para micobactéria com teste de sensibilidade. A sorologia não é recomendada. Hemograma e PCR são inespecíficos. TC e broncoscopia são complementares. PPD e IGRA diagnosticam infecção latente, não a doença ativa.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os sintomas clássicos da tuberculose pulmonar em adolescentes e adultos jovens?",
+    "options": [
+      "Dor abdominal intensa, diarreia e vômitos.",
+      "Tosse com duração de três semanas ou mais, febre vespertina, sudorese noturna e emagrecimento.",
+      "Cefaleia, rigidez de nuca e fotofobia.",
+      "Lesões cutâneas pruriginosas e icterícia.",
+      "Poliúria, polidipsia e visão turva."
+    ],
+    "correctIndex": 1,
+    "explanation": "Os sintomas clássicos da tuberculose pulmonar em adolescentes e adultos jovens incluem tosse persistente (geralmente por três semanas ou mais), febre predominantemente no período vespertino, sudorese noturna intensa, emagrecimento inexplicado e cansaço/fadiga. As outras opções descrevem sintomas de outras condições.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quantas amostras de escarro são recomendadas para a baciloscopia de diagnóstico da tuberculose pulmonar?",
+    "options": [
+      "Uma amostra coletada a qualquer hora do dia.",
+      "Três amostras seriadas, uma por dia durante três dias.",
+      "Duas amostras: uma coletada na primeira consulta e outra na manhã do dia seguinte.",
+      "Uma amostra após broncoscopia.",
+      "Apenas uma amostra se o paciente for sintomático respiratório há mais de 4 semanas."
+    ],
+    "correctIndex": 2,
+    "explanation": "Para o diagnóstico da tuberculose pulmonar por baciloscopia de escarro, recomenda-se a coleta de duas amostras: a primeira no momento da identificação do sintomático respiratório (geralmente na consulta) e a segunda na manhã do dia seguinte, preferencialmente ao despertar, independentemente do resultado da primeira amostra.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a principal característica da Infecção Latente pelo M. tuberculosis (ILTB)?",
+    "options": [
+      "Presença de sintomas respiratórios intensos e exames de imagem alterados.",
+      "Eliminação ativa de bacilos no escarro, com alta transmissibilidade.",
+      "O bacilo M. tuberculosis permanece viável no organismo sem causar doença ativa.",
+      "Resposta inflamatória aguda no pulmão, detectável por radiografia.",
+      "Necessidade de tratamento com esquema quádruplo de antibióticos por 6 meses."
+    ],
+    "correctIndex": 2,
+    "explanation": "Na Infecção Latente pelo M. tuberculosis (ILTB), a pessoa está infectada pelo bacilo, mas este permanece em estado de latência, viável, sem causar sinais ou sintomas de doença ativa. Não há eliminação de bacilos nem alterações radiográficas sugestivas de doença ativa. O tratamento da ILTB, quando indicado, é diferente do da TB ativa.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os dois principais testes utilizados para o diagnóstico da Infecção Latente pelo M. tuberculosis (ILTB)?",
+    "options": [
+      "Baciloscopia de escarro e cultura para micobactéria.",
+      "Radiografia de tórax e tomografia computadorizada.",
+      "Prova Tuberculínica (PT ou PPD) e ensaios de liberação de interferon-gama (IGRA).",
+      "Teste Rápido Molecular para TB (TRM-TB) e sorologia.",
+      "Hemograma completo e velocidade de hemossedimentação (VHS)."
+    ],
+    "correctIndex": 2,
+    "explanation": "Os testes utilizados para diagnosticar a Infecção Latente pelo M. tuberculosis (ILTB) são a Prova Tuberculínica (PT, também conhecida como PPD) e os ensaios de liberação de interferon-gama (IGRAs). Baciloscopia, cultura e TRM-TB diagnosticam TB ativa. Exames de imagem podem sugerir TB ativa ou sequelas. Sorologia não é recomendada. Hemograma e VHS são inespecíficos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é uma vantagem importante dos testes IGRA sobre a Prova Tuberculínica (PT) para o diagnóstico de ILTB?",
+    "options": [
+      "São mais baratos e fáceis de administrar.",
+      "Não requerem uma segunda visita para leitura.",
+      "São menos influenciados pela vacinação prévia com BCG.",
+      "Podem diferenciar infecção latente de doença ativa.",
+      "Possuem maior sensibilidade em crianças pequenas."
+    ],
+    "correctIndex": 2,
+    "explanation": "Uma vantagem significativa dos IGRAs sobre a Prova Tuberculínica é que eles não são influenciados pela vacinação prévia com BCG e são menos afetados por infecções por micobactérias não tuberculosas, conferindo maior especificidade. Embora possam evitar a visita de leitura, a principal vantagem citada é a menor interferência da BCG.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a recomendação sobre a testagem para HIV em pessoas com diagnóstico de tuberculose ativa?",
+    "options": [
+      "Deve ser realizada apenas em pacientes com fatores de risco para HIV.",
+      "É opcional e depende da solicitação do paciente.",
+      "Deve ser ofertada a todas as pessoas com tuberculose.",
+      "É indicada somente se o tratamento da TB não apresentar melhora.",
+      "Deve ser realizada apenas em casos de TB extrapulmonar."
+    ],
+    "correctIndex": 2,
+    "explanation": "Recomenda-se a oferta do teste para diagnóstico de HIV (rápido ou sorológico) a todas as pessoas com diagnóstico de tuberculose, devido à importante coinfecção TB-HIV e ao impacto no manejo e prognóstico de ambas as doenças. O diagnóstico precoce do HIV e o início da terapia antirretroviral reduzem a mortalidade.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual o esquema básico de tratamento para casos novos de TB pulmonar em adultos (exceto formas meningoencefálica e osteoarticular), de acordo com o material?",
+    "options": [
+      "Rifampicina e Isoniazida por 9 meses.",
+      "Rifampicina, Isoniazida, Pirazinamida e Etambutol por 2 meses, seguido por Rifampicina e Isoniazida por 7 meses.",
+      "Estreptomicina, Isoniazida, Pirazinamida e Etambutol por 3 meses, seguido por Isoniazida e Etambutol por 6 meses.",
+      "Rifampicina, Isoniazida, Pirazinamida e Etambutol (RHZE) por 2 meses, seguido por Rifampicina e Isoniazida (RH) por 4 meses.",
+      "Levofloxacino, Moxifloxacino, Bedaquilina e Linezolida por 6 meses."
+    ],
+    "correctIndex": 3,
+    "explanation": "O esquema básico para tratamento da tuberculose em adultos e adolescentes a partir de 10 anos (casos novos, exceto formas meningoencefálica e osteoarticular) consiste em uma fase intensiva de 2 meses com Rifampicina (R), Isoniazida (H), Pirazinamida (Z) e Etambutol (E), seguida por uma fase de manutenção de 4 meses com Rifampicina (R) e Isoniazida (H).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a principal recomendação para o Tratamento Diretamente Observado (TDO) da tuberculose?",
+    "options": [
+      "Ser realizado apenas em pacientes com TB multirresistente.",
+      "Ser realizado semanalmente durante a fase intensiva.",
+      "Ser uma estratégia recomendada para todas as pessoas com diagnóstico de TB, com ingestão dos medicamentos sob observação.",
+      "Ser obrigatório apenas para pacientes em situação de rua ou privados de liberdade.",
+      "Consistir na entrega mensal dos medicamentos na unidade de saúde."
+    ],
+    "correctIndex": 2,
+    "explanation": "O Tratamento Diretamente Observado (TDO) é uma estratégia recomendada para todas as pessoas com diagnóstico de TB. Consiste na ingestão diária dos medicamentos (ou excepcionalmente, três vezes na semana) sob a observação direta de um profissional de saúde ou outros profissionais capacitados, durante todo o tratamento, para melhorar a adesão.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Na investigação epidemiológica da tuberculose, o que deve ser feito com todo caso suspeito?",
+    "options": [
+      "Iniciar tratamento empírico imediatamente.",
+      "Aguardar a resolução espontânea dos sintomas por 4 semanas.",
+      "Ser investigado, buscando-se a confirmação diagnóstica e o início oportuno do tratamento.",
+      "Ser encaminhado diretamente para isolamento hospitalar.",
+      "Realizar apenas um raio-X de tórax e, se normal, descartar o caso."
+    ],
+    "correctIndex": 2,
+    "explanation": "Todo caso suspeito de TB deve ser investigado com o objetivo de confirmar o diagnóstico, preferencialmente por métodos laboratoriais, e iniciar o tratamento de forma oportuna para interromper a cadeia de transmissão da doença. Outras abordagens podem atrasar o diagnóstico ou ser inadequadas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual dos seguintes instrumentos de vigilância epidemiológica é utilizado para registrar e acompanhar os casos de tuberculose, incluindo o tratamento?",
+    "options": [
+      "Apenas o prontuário individual do paciente.",
+      "O Livro de Registro de Pessoa com Sintoma Respiratório e o Livro de Registro e Acompanhamento dos casos de Tuberculose.",
+      "O Boletim Epidemiológico Semanal.",
+      "O Cartão Nacional de Saúde (CNS).",
+      "O Sistema de Informação de Mortalidade (SIM)."
+    ],
+    "correctIndex": 1,
+    "explanation": "O Livro de Registro de Pessoa com Sintoma Respiratório (SR) é usado para rastreio. Para os casos confirmados, o Livro de Registro e Acompanhamento dos casos de Tuberculose é um instrumento fundamental, juntamente com a Ficha de Notificação e o Prontuário do Paciente, para registrar dados do caso e monitorar o tratamento até o desfecho.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a principal importância de se investigar a tuberculose pulmonar quando uma forma extrapulmonar é diagnosticada?",
+    "options": [
+      "Para aumentar a sensibilidade do diagnóstico da forma extrapulmonar.",
+      "Porque a TB extrapulmonar sempre se origina de um foco pulmonar ativo.",
+      "Devido à frequente associação da TB extrapulmonar à pulmonar, sendo esta última a principal responsável pela transmissão.",
+      "Para determinar se o paciente precisará de um esquema de tratamento mais longo.",
+      "Porque a TB pulmonar associada indica maior gravidade da doença extrapulmonar."
+    ],
+    "correctIndex": 2,
+    "explanation": "É comum a TB extrapulmonar estar associada à forma pulmonar. A TB pulmonar é a principal responsável pela manutenção da cadeia de transmissão da doença. Portanto, investigar a presença de TB pulmonar em casos de TB extrapulmonar é crucial para o controle da doença na comunidade, além de poder influenciar o manejo do paciente.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um efeito adverso como 'Suor/urina de cor avermelhada' durante o tratamento da TB é geralmente causado por qual medicamento e qual a conduta?",
+    "options": [
+      "Isoniazida; suspender o tratamento e referenciar.",
+      "Pirazinamida; administrar anti-histamínico.",
+      "Etambutol; realizar exame oftalmológico urgente.",
+      "Rifampicina; orientar o paciente que é um efeito comum e benigno, sem necessidade de suspender.",
+      "Estreptomicina; avaliar função renal."
+    ],
+    "correctIndex": 3,
+    "explanation": "A rifampicina é o medicamento que comumente causa alteração na cor do suor e da urina para tons avermelhados ou alaranjados. Este é considerado um efeito adverso menor, benigno, e a conduta é orientar o paciente sobre essa possibilidade, sem a necessidade de suspender o medicamento por este motivo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que são 'Sintomáticos Respiratórios' (SR) na busca ativa de casos de tuberculose pulmonar?",
+    "options": [
+      "Pessoas com qualquer tipo de alergia respiratória.",
+      "Indivíduos que tiveram contato próximo com pacientes com TB extrapulmonar.",
+      "Pessoas com tosse por três semanas ou mais (ou conforme protocolo local).",
+      "Pacientes internados com pneumonia.",
+      "Crianças com chiado no peito recorrente."
+    ],
+    "correctIndex": 2,
+    "explanation": "Na busca ativa de casos de tuberculose pulmonar, um 'Sintomático Respiratório' (SR) é classicamente definido como uma pessoa que apresenta tosse por três semanas ou mais. Protocolos locais podem ter variações, mas a tosse prolongada é o sintoma chave para a identificação e investigação de SRs.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente inicia tratamento para TB pulmonar. Segundo o fluxograma 'Instrumentos de registro utilizados na investigação epidemiológica da tuberculose' (Figura 4), após a confirmação do caso e notificação, quais etapas subsequentes são cruciais no manejo e vigilância?",
+    "options": [
+      "Apenas o acompanhamento mensal com baciloscopia.",
+      "Realização de exames nos contatos, início do tratamento, acompanhamento do caso e encerramento.",
+      "Alta imediata após o primeiro mês de tratamento se houver melhora clínica.",
+      "Notificar apenas se o paciente apresentar efeitos adversos graves.",
+      "Descartar a necessidade de exames em contatos se o paciente for PPD negativo."
+    ],
+    "correctIndex": 1,
+    "explanation": "O fluxograma da Figura 4 indica que, após um caso ser confirmado e notificado, as etapas seguintes incluem a investigação dos contatos, o início do tratamento do caso índice, o acompanhamento regular do tratamento e, finalmente, o registro do encerramento do caso (cura, abandono, óbito, etc.). Acompanhamento apenas com baciloscopia é incompleto. Alta precoce não é padrão. Notificação é para todos os casos confirmados. Investigação de contatos é fundamental.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente apresenta uma radiografia de tórax com 'opacidades algodonosas' e uma 'escavação' (caverna tuberculosa) no lobo superior do pulmão. Esses achados são mais sugestivos de qual condição?",
+    "options": [
+      "Infecção Latente por M. tuberculosis (ILTB) sem progressão.",
+      "Tuberculose pulmonar crônica com apenas fibrose residual.",
+      "Tuberculose pulmonar ativa.",
+      "Pneumonia bacteriana comunitária típica.",
+      "Derrame pleural de pequena monta."
+    ],
+    "correctIndex": 2,
+    "explanation": "Opacidades algodonosas e a presença de escavação (caverna) são achados radiológicos comuns e fortemente sugestivos de tuberculose pulmonar ativa. A ILTB geralmente não apresenta alterações radiográficas de atividade. Fibrose é mais comum em doença crônica/sequela. Pneumonia bacteriana pode ter outros padrões. Derrame pleural é um achado diferente.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Observando a tabela de 'Risco de adoecimento por tuberculose nas populações vulneráveis', qual é a principal inferência para a saúde pública?",
+    "options": [
+      "A tuberculose afeta todas as populações de forma homogênea.",
+      "O risco de adoecimento é exclusivamente genético e não influenciado por fatores sociais.",
+      "Existem grupos populacionais específicos, como indígenas, pessoas vivendo com HIV, em situação de rua e privadas de liberdade, que apresentam um risco significativamente maior de adoecer por TB, demandando estratégias de controle direcionadas.",
+      "A população geral não necessita de programas de controle da TB, apenas as populações vulneráveis.",
+      "O aumento do risco nessas populações é apenas um artefato estatístico sem relevância clínica."
+    ],
+    "correctIndex": 2,
+    "explanation": "A tabela demonstra que populações vulneráveis (Indígenas, Pessoas vivendo com HIV, Pessoas em situação de rua, Pessoas privadas de liberdade) têm um risco substancialmente maior de adoecer por tuberculose em comparação com a população geral. Isso indica a necessidade de políticas e estratégias de saúde pública focadas e intensificadas para esses grupos, visando o diagnóstico precoce, tratamento e prevenção, a fim de reduzir a carga da doença e as iniquidades em saúde.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Uma criança de 3 anos, contato intradomiciliar de um adulto com tuberculose pulmonar bacilífera, apresenta tosse persistente e febre vespertina há duas semanas. A baciloscopia de escarro induzido foi negativa. Considerando o 'QUADRO 2 – Diagnóstico da tuberculose pulmonar em crianças e adolescentes com baciloscopia negativa', qual critério adicional aumentaria significativamente a pontuação para um diagnóstico provável de TB?",
+    "options": [
+      "História de alergia alimentar.",
+      "Radiografia de tórax completamente normal.",
+      "Prova tuberculínica (PT) fortemente reatora (ex: ≥10mm ou ≥5mm em contextos específicos).",
+      "Ausência de perda de peso ou ganho de peso adequado para a idade.",
+      "Cartão vacinal incompleto para outras doenças."
+    ],
+    "correctIndex": 2,
+    "explanation": "O QUADRO 2 utiliza um sistema de pontuação para auxiliar no diagnóstico de TB em crianças com bacteriologia negativa. Sendo um contato de adulto com TB (critério de pontuação), a presença de uma prova tuberculínica (PT ou PPD) reatora, especialmente se fortemente reatora, adicionaria pontos significativos, aumentando a probabilidade de diagnóstico de TB. Uma radiografia normal ou ausência de perda de peso diminuiriam a pontuação ou não acrescentariam. Alergia alimentar e vacinação para outras doenças não são critérios diretos nesse escore.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Por que o teste IGRA pode ser preferível à Prova Tuberculínica (PT) para diagnosticar ILTB em um adulto que reside em uma região com alta cobertura vacinal de BCG na infância e possível exposição a micobactérias não tuberculosas (MNT)?",
+    "options": [
+      "O IGRA é o único teste que confirma doença ativa, enquanto a PT apenas sugere contato.",
+      "O IGRA tem menor custo e pode ser realizado em qualquer laboratório sem necessidade de equipamentos especiais.",
+      "A PT frequentemente resulta em reações falso-negativas em indivíduos vacinados com BCG, e o IGRA corrige isso.",
+      "O IGRA não é influenciado pela vacinação prévia com BCG e é menos afetado por MNT, oferecendo maior especificidade diagnóstica em tal cenário.",
+      "A PT requer múltiplas amostras de sangue, enquanto o IGRA necessita apenas de uma aplicação intradérmica."
+    ],
+    "correctIndex": 3,
+    "explanation": "Os IGRAs oferecem maior especificidade diagnóstica em populações vacinadas com BCG e em áreas com prevalência de MNT porque são menos influenciados por esses fatores em comparação com a PT. A PT pode apresentar reações falso-positivas devido à BCG ou MNT. Nenhum dos dois testes confirma doença ativa. O IGRA requer equipamentos específicos. A PT é intradérmica e o IGRA é um teste sanguíneo.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente em tratamento para tuberculose com o esquema RHZE apresenta icterícia (pele e olhos amarelados) e vômitos persistentes. Consultando o 'QUADRO 11 – Efeitos adversos maiores', qual seria a conduta inicial mais apropriada?",
+    "options": [
+      "Aumentar a dose dos medicamentos para combater a infecção mais rapidamente.",
+      "Manter o tratamento e administrar um antiemético potente.",
+      "Suspender imediatamente o tratamento e encaminhar para avaliação em unidade de referência.",
+      "Adicionar um protetor hepático e continuar o esquema normalmente.",
+      "Diminuir a frequência da medicação para dias alternados."
+    ],
+    "correctIndex": 2,
+    "explanation": "Icterícia e vômitos persistentes são listados como efeitos adversos maiores no QUADRO 11, potencialmente indicando hepatite medicamentosa. A conduta recomendada para efeitos adversos maiores é geralmente a suspensão do(s) medicamento(s) suspeito(s) e a avaliação urgente da pessoa em uma unidade de referência para investigação e manejo adequado. Manter ou ajustar o tratamento sem avaliação especializada pode agravar o quadro.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Analisando a imagem da 'Ficha de Notificação/Investigação de Tuberculose do SINAN', qual a importância de coletar informações sobre 'Populações Especiais' (Privada de Liberdade, Profissional de Saúde, Situação de Rua, Imigrante)?",
+    "options": [
+      "Apenas para fins estatísticos, sem impacto no manejo clínico individual.",
+      "Para identificar se o paciente tem direito a benefícios sociais adicionais.",
+      "Para direcionar ações de vigilância epidemiológica e controle específicas, já que essas populações podem ter maior vulnerabilidade e necessitar de abordagens diferenciadas.",
+      "Para determinar o tipo de esquema terapêutico, pois cada população especial recebe um tratamento diferente.",
+      "Para restringir o acesso ao tratamento gratuito oferecido pelo SUS."
+    ],
+    "correctIndex": 2,
+    "explanation": "A coleta de dados sobre pertencimento a 'Populações Especiais' na ficha do SINAN é crucial para a vigilância epidemiológica. Essas populações frequentemente apresentam maior risco de adoecimento, piores desfechos ou necessitam de estratégias de busca ativa, diagnóstico e adesão ao tratamento adaptadas às suas realidades. Essa informação ajuda a monitorar a epidemia e planejar intervenções de saúde pública mais eficazes, não para restringir acesso ou apenas para estatística sem ação.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente com TB pulmonar está na fase intensiva do tratamento com RHZE. A esposa do paciente, que é assintomática, realizou uma Prova Tuberculínica que resultou em 12mm de endurecimento. Ela foi vacinada com BCG ao nascer. Qual a interpretação mais provável e a conduta inicial para a esposa?",
+    "options": [
+      "Diagnóstico de TB ativa; iniciar imediatamente o esquema RHZE.",
+      "Reação alérgica à tuberculina; nenhuma conduta adicional necessária.",
+      "Infecção Latente por TB (ILTB); avaliar indicação de tratamento para ILTB.",
+      "Falso positivo devido à BCG; repetir a PT em 6 meses.",
+      "Ausência de infecção, pois 12mm é considerado não reator para contatos de TB ativa."
+    ],
+    "correctIndex": 2,
+    "explanation": "Sendo contato de um caso de TB pulmonar (bacilífero), uma Prova Tuberculínica de 12mm é considerada reatora, indicando infecção pelo M. tuberculosis. Como ela está assintomática e não há evidência de doença ativa, o diagnóstico mais provável é Infecção Latente por TB (ILTB). A conduta será avaliar se há indicação de tratamento da ILTB para prevenir o adoecimento futuro. Não é TB ativa (sem sintomas/investigação adicional). Não é necessariamente falso positivo só pela BCG em um contato com PPD reator. 12mm é reator nesse contexto.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Ao observar a imagem de uma radiografia de tórax com 'Opacidades retículo-micro-nodulares difusas em ambos os pulmões (tuberculose miliar)', qual o mecanismo de disseminação do bacilo que mais provavelmente originou esse padrão?",
+    "options": [
+      "Disseminação broncogênica a partir de uma única caverna.",
+      "Disseminação hematogênica (pela corrente sanguínea).",
+      "Extensão direta de um foco pleural para o parênquima pulmonar.",
+      "Inalação massiva e simultânea de bacilos em um ambiente contaminado.",
+      "Obstrução de um brônquio principal levando a atelectasia e infecção secundária."
+    ],
+    "correctIndex": 1,
+    "explanation": "O padrão miliar na tuberculose, caracterizado por múltiplos pequenos nódulos (<2mm) difusamente distribuídos pelos pulmões (e potencialmente outros órgãos), resulta da disseminação hematogênica do Mycobacterium tuberculosis. O bacilo entra na corrente sanguínea a partir de um foco primário ou reativado e se semeia amplamente. Disseminação broncogênica tende a ser mais localizada ou seguir vias aéreas. Extensão direta ou inalação massiva teriam outros padrões radiológicos.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual a principal justificativa para a recomendação do Tratamento Diretamente Observado (TDO) como estratégia para melhorar a adesão ao tratamento da tuberculose, mesmo quando o paciente parece cooperativo?",
+    "options": [
+      "Reduzir o custo dos medicamentos, pois permite o uso de doses menores.",
+      "Garantir que o paciente não venda os medicamentos no mercado ilegal.",
+      "Assegurar a ingestão correta dos medicamentos, prevenindo o abandono e o desenvolvimento de resistência bacteriana, que são grandes desafios no controle da TB.",
+      "Facilitar o diagnóstico de efeitos adversos, pois o profissional observa o paciente diariamente.",
+      "Substituir a necessidade de exames de acompanhamento, como a baciloscopia de escarro."
+    ],
+    "correctIndex": 2,
+    "explanation": "A principal justificativa do TDO é garantir a adesão ao longo tratamento da tuberculose. A ingestão irregular ou o abandono do tratamento são fatores de risco para falha terapêutica, recaídas e, crucialmente, para o desenvolvimento de resistência aos medicamentos. O TDO visa assegurar que o paciente tome a medicação corretamente e complete o tratamento, sendo uma estratégia chave para o sucesso individual e para a saúde pública. Embora possa ajudar a identificar efeitos adversos, seu foco primário é a adesão. Não reduz custo de medicamentos ou substitui exames.",
+    "type": "raciocínio"
+  }
+]

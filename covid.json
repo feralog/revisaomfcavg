@@ -1,0 +1,392 @@
+[
+  {
+    "question": "Qual é o agente etiológico da Covid-19?",
+    "options": [
+      "Influenza A H1N1, um orthomixovírus",
+      "SARS-CoV-2, um betacoronavírus",
+      "Mers-CoV, um alfacoronavírus",
+      "Vírus Sincicial Respiratório (VSR), um pneumovírus",
+      "Adenovírus, um mastadenovírus"
+    ],
+    "correctIndex": 1,
+    "explanation": "A Covid-19 é uma infecção respiratória aguda causada pelo coronavírus SARS-CoV-2, que é classificado como um betacoronavírus. As outras opções listam diferentes vírus respiratórios.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o período de incubação usual da Covid-19?",
+    "options": [
+      "Menos de 24 horas",
+      "2 a 3 dias, com mediana de 1 dia",
+      "Entre 1 e 14 dias, com mediana de 5 a 6 dias",
+      "15 a 21 dias, com mediana de 18 dias",
+      "Mais de 28 dias"
+    ],
+    "correctIndex": 2,
+    "explanation": "O período de incubação da Covid-19, tempo entre a infecção e o aparecimento dos sintomas, varia entre 1 e 14 dias, sendo a mediana de 5 a 6 dias. Períodos fora dessa faixa são menos comuns.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Como ocorre predominantemente a transmissão do SARS-CoV-2?",
+    "options": [
+      "Apenas por contato com superfícies contaminadas.",
+      "Exclusivamente por via fecal-oral.",
+      "Por contato, gotículas respiratórias, ou por partículas ou aerossóis.",
+      "Através da picada de mosquitos vetores.",
+      "Apenas por transfusão de sangue."
+    ],
+    "correctIndex": 2,
+    "explanation": "A transmissão do SARS-CoV-2 ocorre principalmente por contato direto com secreções contaminadas, por gotículas respiratórias expelidas ao falar, tossir ou espirrar, e também por partículas menores ou aerossóis que podem permanecer suspensos no ar.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em relação à transmissibilidade da Covid-19, quando a maioria das transmissões ocorre?",
+    "options": [
+      "Apenas de pessoas assintomáticas.",
+      "Principalmente de pessoas em fase de convalescença, após a resolução dos sintomas.",
+      "De pessoas sintomáticas para outras, e também durante o período de incubação (geralmente 48 horas antes do início dos sintomas).",
+      "Exclusivamente de pacientes hospitalizados em estado grave.",
+      "Apenas após 7 dias do início dos sintomas."
+    ],
+    "correctIndex": 2,
+    "explanation": "A maioria das transmissões da Covid-19 ocorre de pessoas sintomáticas para outras. No entanto, a transmissão também pode ocorrer durante o período de incubação, tipicamente 48 horas antes do início dos sintomas. A transmissão por assintomáticos é possível, mas a maior transmissibilidade ocorre quando as pessoas estão pré-sintomáticas ou sintomáticas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual das seguintes condições NÃO é listada como um fator de risco para formas graves de Covid-19?",
+    "options": [
+      "Idade igual ou superior a 60 anos.",
+      "Prática regular de atividade física moderada.",
+      "Obesidade.",
+      "Imunodepressão e imunossupressão.",
+      "Diabetes melito, tipo 1 ou 2."
+    ],
+    "correctIndex": 1,
+    "explanation": "Diversos fatores de risco para Covid-19 grave são listados, incluindo idade avançada (≥60 anos), obesidade, imunodepressão e diabetes. A prática regular de atividade física moderada é geralmente associada a melhores desfechos de saúde e não é um fator de risco para Covid-19 grave.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Como é caracterizado um caso leve de Covid-19?",
+    "options": [
+      "Presença de sepse e choque séptico.",
+      "Saturação de O2 menor que 95% em ar ambiente.",
+      "Presença de sintomas não específicos como tosse, dor de garganta ou coriza, seguido ou não de anosmia, ageusia, febre, etc.",
+      "Necessidade de suporte respiratório em unidade de terapia intensiva.",
+      "Teste laboratorial positivo e ausência total de sintomas."
+    ],
+    "correctIndex": 2,
+    "explanation": "Um caso leve de Covid-19 é caracterizado pela presença de sintomas não específicos, como tosse, dor de garganta, coriza, podendo ser acompanhado de perda de olfato (anosmia) ou paladar (ageusia), diarreia, dor abdominal, febre, calafrios, mialgia, fadiga e/ou cefaleia. Sinais de gravidade como baixa saturação de oxigênio ou necessidade de UTI definem casos graves ou críticos. A ausência de sintomas com teste positivo define um caso assintomático.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual critério define um caso grave de Covid-19, de acordo com as manifestações clínicas descritas?",
+    "options": [
+      "Tosse persistente e febre persistente diária apenas.",
+      "Ausência de sintomas, mas com teste RT-qPCR positivo.",
+      "Síndrome gripal que apresente dispneia/desconforto respiratório ou saturação de O2 menor que 95% em ar ambiente.",
+      "Dor de garganta e coriza por mais de 7 dias.",
+      "Presença de anosmia e ageusia sem outros sintomas."
+    ],
+    "correctIndex": 2,
+    "explanation": "Um caso grave de Covid-19 é considerado quando há síndrome respiratória aguda grave (SRAG). Isso inclui uma síndrome gripal que evolui com dispneia/desconforto respiratório, pressão persistente no tórax, saturação de oxigênio menor que 95% em ar ambiente, ou coloração azulada de lábios ou rosto.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os principais métodos laboratoriais de biologia molecular para diagnóstico da Covid-19?",
+    "options": [
+      "Apenas testes rápidos de antígeno.",
+      "ELISA e Imunoensaio por Eletroquimioluminescência (ECLIA).",
+      "RT-qPCR e RT-LAMP.",
+      "Radiografia de tórax e Tomografia Computadorizada.",
+      "Cultura viral em células Vero."
+    ],
+    "correctIndex": 2,
+    "explanation": "Os métodos laboratoriais de biologia molecular para o diagnóstico da Covid-19 incluem principalmente o RT-qPCR (Reação em Cadeia da Polimerase com Transcrição Reversa em tempo real) e o RT-LAMP (Amplificação Isotérmica Mediada por Loop com Transcrição Reversa). ELISA e ECLIA são testes sorológicos. Testes rápidos podem ser de antígeno ou anticorpo. Radiografia e Tomografia são exames de imagem.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual tipo de vacina é a Coronavac e qual o intervalo recomendado entre as doses primárias?",
+    "options": [
+      "Vacina de RNA mensageiro; intervalo de 21 dias.",
+      "Vacina de vetor viral; dose única.",
+      "Vacina de vírus inativado; intervalo de 2 a 4 semanas.",
+      "Vacina de subunidade proteica; intervalo de 3 meses.",
+      "Vacina de DNA; intervalo de 6 semanas."
+    ],
+    "correctIndex": 2,
+    "explanation": "A vacina Coronavac, fabricada pela Sinovac, é uma vacina de vírus inativado. O intervalo recomendado para a segunda dose no esquema primário é de 2 a 4 semanas após a primeira dose.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é uma contraindicação específica mencionada para a vacina Pfizer/Biontech (monovalente) em sua formulação original?",
+    "options": [
+      "Pessoas com mais de 60 anos.",
+      "Pacientes com diabetes.",
+      "Gestantes e lactantes (na formulação original e recomendações iniciais).",
+      "Indivíduos com histórico de alergia a ovo.",
+      "Pessoas com doenças cardíacas."
+    ],
+    "correctIndex": 2,
+    "explanation": "Para a vacina Pfizer/Biontech (monovalente) em sua apresentação inicial, era mencionado que não deveria ser aplicada em gestantes e lactantes, e recomendava-se que mulheres em idade fértil não engravidassem por 2 meses após a última dose. É importante notar que as recomendações de vacinação podem evoluir com novos estudos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a principal característica da vacina da Jassen (Johnson & Johnson) em relação ao esquema de doses primárias?",
+    "options": [
+      "Esquema de três doses.",
+      "Duas doses com intervalo de 6 meses.",
+      "Dose única.",
+      "Duas doses com intervalo de 21 dias.",
+      "Uma dose anual."
+    ],
+    "correctIndex": 2,
+    "explanation": "A vacina da Jassen contra a Covid-19 é administrada em dose única para o esquema primário. As outras opções descrevem esquemas de múltiplas doses.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A vacina bivalente da Moderna, que protege contra a variante JN.1, é indicada prioritariamente para qual grupo?",
+    "options": [
+      "Apenas crianças menores de 5 anos.",
+      "Pessoas com histórico de alergia leve a outras vacinas.",
+      "Pessoas imunocomprometidas (a partir de 6 meses).",
+      "Indivíduos que nunca receberam nenhuma dose de vacina Covid-19.",
+      "Apenas idosos acima de 80 anos."
+    ],
+    "correctIndex": 2,
+    "explanation": "A vacina bivalente da Moderna (Spikevax JN.1) é indicada a partir de 6 meses de idade, com destaque para a indicação para pessoas imunocomprometidas. A dose varia conforme a faixa etária.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é um risco aumentado associado à vacina bivalente da Moderna (Spikevax JN.1)?",
+    "options": [
+      "Risco de desenvolver diabetes.",
+      "Risco aumentado de miocardite e pericardite.",
+      "Risco de reações anafiláticas em todos os vacinados.",
+      "Risco de trombose venosa profunda.",
+      "Risco de desenvolver síndrome de Guillain-Barré."
+    ],
+    "correctIndex": 1,
+    "explanation": "Para a vacina bivalente da Moderna (Spikevax JN.1), é mencionado um risco aumentado de miocardite (inflamação do músculo cardíaco) e pericardite (inflamação do tecido ao redor do coração). Por isso, recomenda-se aguardar 15 minutos na unidade de saúde após a aplicação.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A vacina Pfizer/Biontech (bivalente) possui diferentes apresentações com tampas coloridas. Qual cor de tampa é indicada para crianças de 5 a 11 anos?",
+    "options": [
+      "Tampa verde",
+      "Tampa azul",
+      "Tampa roxa",
+      "Tampa laranja",
+      "Tampa cinza"
+    ],
+    "correctIndex": 3,
+    "explanation": "A vacina Pfizer/Biontech (bivalente) tem apresentações específicas por faixa etária, identificadas pela cor da tampa do frasco. A apresentação com tampa laranja é indicada para crianças de 5 a 11 anos. A tampa roxa é para adultos (acima de 18 anos) e adolescentes (12 a 17 anos).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o tipo de tecnologia utilizada na vacina covid-19-recombinante, Serum/Zalika, Ômicron XBB 1.5?",
+    "options": [
+      "Vírus inativado",
+      "RNA mensageiro (mRNA)",
+      "Vetor viral não replicante",
+      "Proteína S (spike) do SARS-CoV-2 associada ao adjuvante Matrix-M, produzida por tecnologia de DNA recombinante.",
+      "Vírus vivo atenuado"
+    ],
+    "correctIndex": 3,
+    "explanation": "A vacina covid-19-recombinante da Serum/Zalika, específica para a variante Ômicron XBB 1.5, contém a proteína S (spike) do SARS-CoV-2, produzida por tecnologia de DNA recombinante, e está associada ao adjuvante Matrix-M.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual foi o anúncio da Organização Mundial da Saúde (OMS) em 2023 referente à Covid-19?",
+    "options": [
+      "O início de uma nova pandemia por outra variante.",
+      "A erradicação global da Covid-19.",
+      "O fim da emergência de Saúde Pública de Importância Internacional (ESPII) para a Covid-19.",
+      "A obrigatoriedade da vacinação anual para todos os países.",
+      "A descoberta de um tratamento curativo definitivo."
+    ],
+    "correctIndex": 2,
+    "explanation": "Em 2023, a Organização Mundial da Saúde (OMS) declarou o fim da emergência de Saúde Pública de Importância Internacional (ESPII) relacionada à Covid-19, indicando uma transição na forma como a doença é gerenciada globalmente.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A infecção pelo SARS-CoV-2 pode levar ao desenvolvimento de anticorpos neutralizantes. O que se observa em relação aos níveis desses anticorpos em indivíduos com infecção leve ou assintomática comparados aos com doença grave?",
+    "options": [
+      "Níveis de anticorpos são sempre mais altos em infecções leves.",
+      "Não há diferença nos níveis de anticorpos entre os grupos.",
+      "Indivíduos com infecção leve ou assintomática tendem a ter níveis mais baixos de anticorpos.",
+      "Apenas indivíduos com doença grave desenvolvem anticorpos neutralizantes.",
+      "Anticorpos em infecções leves duram mais tempo do que em infecções graves."
+    ],
+    "correctIndex": 2,
+    "explanation": "Estudos indicam que indivíduos com infecção leve ou assintomática pelo SARS-CoV-2 tendem a apresentar níveis mais baixos de anticorpos neutralizantes em comparação com aqueles que tiveram doença grave. Em alguns casos, também pode ocorrer uma diminuição mais rápida dos níveis de anticorpos meses após a infecção em casos leves/assintomáticos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual dos seguintes NÃO é um tipo de diagnóstico laboratorial para Covid-19?",
+    "options": [
+      "RT-qPCR (Biologia molecular)",
+      "Teste rápido de antígeno",
+      "Sorologia para detecção de anticorpos (ELISA, CLIA)",
+      "Hemograma completo para contagem diferencial de leucócitos como método primário de confirmação.",
+      "RT-LAMP (Biologia molecular)"
+    ],
+    "correctIndex": 3,
+    "explanation": "O diagnóstico laboratorial da Covid-19 inclui métodos de biologia molecular (RT-qPCR, RT-LAMP), testes rápidos (de antígeno ou anticorpo) e sorologia (ELISA, CLIA, ECLIA). Um hemograma completo pode mostrar alterações em pacientes com Covid-19, mas não é um método primário para confirmar a infecção pelo SARS-CoV-2.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A vacina da Jassen deve ser conservada em qual faixa de temperatura e qual a sua duração em temperatura ambiente após abertura do frasco multidose?",
+    "options": [
+      "Armazenamento a -20 graus; 24h em temperatura ambiente.",
+      "Armazenamento a 2 a 8 graus; 6h em temperatura ambiente.",
+      "Armazenamento a -80 a -60 graus; 2h em temperatura ambiente.",
+      "Armazenamento a temperatura ambiente (até 25 graus); 48h após abertura.",
+      "Armazenamento a 2 a 8 graus; não pode ser mantida em temperatura ambiente."
+    ],
+    "correctIndex": 1,
+    "explanation": "A vacina da Jassen deve ser armazenada em refrigerador, a uma temperatura de 2 a 8 graus Celsius. Após a abertura do frasco multidose, ela pode ser mantida em temperatura ambiente por até 6 horas (ou por até 30 dias se refrigerada a 2-8 graus).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é uma reação adversa comum listada para a maioria das vacinas contra Covid-19 mencionadas (Coronavac, Pfizer, Jassen)?",
+    "options": [
+      "Perda total e permanente de cabelo.",
+      "Desenvolvimento de alergias alimentares graves.",
+      "Dor local na aplicação, cefaleia, fadiga, mialgia.",
+      "Aumento significativo e persistente da pressão arterial.",
+      "Insuficiência renal aguda."
+    ],
+    "correctIndex": 2,
+    "explanation": "Para diversas vacinas contra a Covid-19, incluindo Coronavac, Pfizer/Biontech (monovalente) e Jassen, reações adversas comuns e geralmente leves a moderadas incluem dor no local da aplicação, cefaleia (dor de cabeça), fadiga e mialgia (dores musculares). Náusea e diarreia também são citadas para algumas delas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente de 65 anos, obeso e diabético, apresenta tosse, febre há 3 dias e relata dificuldade para respirar ao realizar pequenos esforços, com saturação de oxigênio de 93% em ar ambiente. Como seu caso de Covid-19 seria classificado clinicamente?",
+    "options": [
+      "Assintomático, pois a febre é baixa.",
+      "Leve, devido à presença de tosse e febre apenas.",
+      "Moderado, pois tem comorbidades, mas a saturação está acima de 90%.",
+      "Grave, devido à idade, comorbidades, dispneia e saturação de O2 < 95%.",
+      "Crítico, pois já necessita de internação imediata em UTI."
+    ],
+    "correctIndex": 3,
+    "explanation": "O paciente apresenta múltiplos fatores de risco (idade, obesidade, diabetes), sintomas como tosse e febre, e, crucialmente, dispneia (dificuldade para respirar) e saturação de oxigênio de 93% em ar ambiente (que é menor que 95%). Estes são critérios para classificar o caso como grave (Síndrome Respiratória Aguda Grave - SRAG). Um caso crítico envolveria manifestações como sepse, necessidade de suporte respiratório intensivo, etc.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Se um indivíduo é exposto ao SARS-CoV-2 hoje, qual o período mais provável para o início dos sintomas e quando ele provavelmente começaria a transmitir o vírus, mesmo antes de apresentar sintomas?",
+    "options": [
+      "Início dos sintomas em 24h; transmissão a partir do 3º dia de sintomas.",
+      "Início dos sintomas entre 5 a 6 dias; transmissão pode iniciar cerca de 48 horas antes dos sintomas.",
+      "Início dos sintomas após 14 dias; transmissão apenas após o pico dos sintomas.",
+      "Início dos sintomas em 1 a 2 dias; transmissão apenas se desenvolver doença grave.",
+      "Início dos sintomas entre 7 a 10 dias; transmissão apenas por contato direto com secreções visíveis."
+    ],
+    "correctIndex": 1,
+    "explanation": "O período de incubação da Covid-19 tem uma mediana de 5 a 6 dias. A transmissibilidade pode iniciar antes do aparecimento dos sintomas, geralmente cerca de 48 horas antes do início dos mesmos (período pré-sintomático). Portanto, a transmissão pode ocorrer antes que a pessoa se reconheça doente.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Considerando as características das vacinas Pfizer/Biontech (RNAm) e Coronavac (vírus inativado), qual a principal diferença na tecnologia de produção e no material genético do vírus utilizado?",
+    "options": [
+      "Ambas usam vírus vivo atenuado, mas de cepas diferentes.",
+      "Pfizer usa um adenovírus modificado para carregar o DNA do spike; Coronavac usa a proteína spike purificada.",
+      "Pfizer utiliza RNA mensageiro sintético que codifica a proteína spike; Coronavac utiliza o vírus SARS-CoV-2 inteiro, que foi quimicamente inativado (morto).",
+      "Ambas são vacinas de subunidade proteica, mas a Pfizer foca na proteína N e a Coronavac na proteína S.",
+      "Pfizer é uma vacina de DNA plasmidial; Coronavac é uma vacina de peptídeos sintéticos."
+    ],
+    "correctIndex": 2,
+    "explanation": "A vacina da Pfizer/Biontech é uma vacina de RNA mensageiro (RNAm). Ela contém uma molécula de RNAm sintético que carrega as instruções para as células do corpo humano produzirem a proteína spike do SARS-CoV-2, desencadeando uma resposta imune. A Coronavac é uma vacina de vírus inativado, o que significa que utiliza o vírus SARS-CoV-2 inteiro, mas que foi tratado quimicamente para que não possa mais causar doença, embora ainda possa induzir uma resposta imune.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um profissional de saúde se recusa a tomar a vacina bivalente da Moderna (Spikevax JN.1) alegando que já teve Covid-19 e, portanto, está imune. Qual informação sobre a imunidade pós-infecção versus vacinação seria relevante para a discussão?",
+    "options": [
+      "A imunidade pós-infecção é sempre mais robusta e duradoura que a vacinal, tornando a vacina desnecessária.",
+      "A vacinação não oferece benefícios adicionais a quem já teve a doença.",
+      "A imunidade pós-infecção pode variar em força e duração, e os níveis de anticorpos podem diminuir com o tempo, especialmente após infecções leves. As vacinas, incluindo as atualizadas como as bivalentes, são projetadas para induzir uma resposta imune robusta e potencialmente mais ampla contra variantes circulantes, sendo recomendadas mesmo para quem já teve a infecção.",
+      "Apenas a primeira infecção por Covid-19 confere imunidade protetora; reinfecções não geram anticorpos.",
+      "Vacinas bivalentes são menos eficazes que a imunidade natural contra variantes mais antigas."
+    ],
+    "correctIndex": 2,
+    "explanation": "A imunidade adquirida após a infecção natural pela Covid-19 é variável. Pessoas com infecção leve ou assintomática podem ter níveis mais baixos de anticorpos, e a proteção pode diminuir com o tempo. As vacinas, especialmente as atualizadas como as bivalentes (que visam variantes mais recentes como a JN.1), são formuladas para estimular uma resposta imune específica e robusta, podendo oferecer proteção adicional ou mais ampla, inclusive contra reinfecção por novas variantes. Por isso, a vacinação é geralmente recomendada mesmo para indivíduos com histórico de infecção.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Se uma gestante, sem comorbidades, procura orientação sobre a vacina Pfizer/Biontech (bivalente) durante o segundo trimestre de gravidez, qual seria a orientação mais adequada com base nas informações fornecidas para esta vacina específica?",
+    "options": [
+      "A vacina é absolutamente contraindicada em qualquer fase da gestação.",
+      "Ela deve tomar a vacina imediatamente, sem necessidade de consulta médica.",
+      "A vacina é recomendada apenas no primeiro trimestre de gestação.",
+      "Mulheres grávidas ou amamentando devem conversar com o médico antes de tomar a vacina Pfizer/Biontech (bivalente).",
+      "A vacina só pode ser administrada após o parto, durante a amamentação."
+    ],
+    "correctIndex": 3,
+    "explanation": "Para a vacina Pfizer/Biontech (bivalente), o material informa que \"Mulheres grávidas ou amamentando – conversar com o médico antes\". Isso indica que, embora não seja uma contraindicação absoluta, é necessária uma avaliação médica individualizada para ponderar os riscos e benefícios da vacinação durante a gestação ou lactação para esta formulação específica.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um indivíduo recebeu a vacina da Jassen (dose única) há um ano. Ele pergunta se precisa de alguma dose de reforço com uma vacina mais recente, como a Serum/Zalika (Ômicron XBB 1.5). Qual informação sobre as estratégias de vacinação atuais seria relevante para a orientação?",
+    "options": [
+      "A vacina da Jassen oferece proteção vitalícia e não são necessários reforços.",
+      "Ele deve tomar outra dose da vacina da Jassen anualmente.",
+      "As estratégias de vacinação evoluem, e doses de reforço com vacinas atualizadas para variantes mais recentes (como a XBB 1.5) podem ser recomendadas para manter ou ampliar a proteção, especialmente considerando o tempo desde a última dose e as variantes circulantes. Ele deve consultar as recomendações atuais do Ministério da Saúde ou de um profissional de saúde.",
+      "A vacina Serum/Zalika não pode ser usada como reforço para quem tomou Jassen.",
+      "Doses de reforço só são indicadas para quem tomou vacinas de RNAm."
+    ],
+    "correctIndex": 2,
+    "explanation": "As estratégias de vacinação contra a Covid-19 são dinâmicas e buscam adaptar a proteção às variantes circulantes e à duração da imunidade. Doses de reforço com vacinas atualizadas, como aquelas que miram subvariantes da Ômicron (ex: XBB 1.5), são frequentemente recomendadas para indivíduos previamente vacinados, incluindo aqueles que receberam esquemas primários com outras plataformas vacinais, como a da Jassen. É importante verificar as diretrizes atuais das autoridades de saúde para determinar a elegibilidade e o momento adequado para um reforço.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente com sintomas respiratórios leves realiza um teste rápido de antígeno para Covid-19 que resulta positivo. Qual a conduta mais apropriada em termos de diagnóstico e isolamento?",
+    "options": [
+      "Descartar Covid-19, pois testes rápidos de antígeno têm baixa confiabilidade.",
+      "Considerar o diagnóstico de Covid-19, iniciar isolamento respiratório conforme as recomendações atuais e observar a evolução dos sintomas. Um teste RT-qPCR pode ser considerado para confirmação em algumas situações, mas o manejo inicial se baseia no teste rápido positivo em sintomático.",
+      "Aguardar 48 horas e repetir o teste rápido; se positivo novamente, iniciar isolamento.",
+      "Realizar imediatamente um exame de imagem (TCAR de tórax) para confirmar o diagnóstico.",
+      "Não necessita de isolamento se os sintomas forem leves."
+    ],
+    "correctIndex": 1,
+    "explanation": "Um teste rápido de antígeno positivo em um indivíduo sintomático é geralmente considerado indicativo de infecção por SARS-CoV-2. A conduta apropriada inclui iniciar o isolamento para prevenir a transmissão, monitorar os sintomas e seguir as orientações de saúde pública. Embora um RT-qPCR possa ser usado para confirmação, especialmente em contextos específicos ou se houver dúvida, o resultado positivo do teste rápido em um sintomático já direciona as medidas iniciais.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Por que é importante que a vacina Coronavac seja agitada antes de aspirar a dose do frasco multidose?",
+    "options": [
+      "Para ativar o RNA mensageiro contido na vacina.",
+      "Para garantir a correta diluição do adjuvante, que vem separado.",
+      "Sendo uma vacina de vírus inativado, os componentes podem sedimentar, e a agitação garante a homogeneização da suspensão e a correta dosagem do antígeno.",
+      "Para aquecer a vacina à temperatura corporal, melhorando sua eficácia.",
+      "A agitação é necessária para quebrar as partículas virais e liberar as proteínas."
+    ],
+    "correctIndex": 2,
+    "explanation": "A vacina Coronavac é uma vacina de vírus inativado. Em suspensões como esta, os antígenos (vírus inativados) e outros componentes podem se depositar no fundo do frasco com o tempo (sedimentação). Agitar o frasco antes de aspirar a dose é crucial para garantir que a suspensão esteja homogênea, assegurando que cada dose retirada contenha a quantidade correta de antígeno, o que é fundamental para a eficácia da vacina.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente apresenta tosse, dor de garganta, febre e mialgia. Qual critério clínico-epidemiológico poderia ser utilizado para auxiliar no diagnóstico de Covid-19, além da avaliação dos sintomas?",
+    "options": [
+      "Histórico de viagem internacional nos últimos 2 anos.",
+      "Contato próximo com um caso confirmado de Covid-19 nos últimos 14 dias.",
+      "Ausência de vacinação contra a gripe.",
+      "Alergia a penicilina.",
+      "Realização de exame de sangue com plaquetas baixas."
+    ],
+    "correctIndex": 1,
+    "explanation": "O critério clínico-epidemiológico para o diagnóstico de Covid-19 considera, além dos sintomas compatíveis, o histórico de exposição. Ter tido contato próximo com um caso confirmado de Covid-19 nos últimos 14 dias (período de incubação) aumenta a probabilidade de que os sintomas atuais sejam devidos à infecção pelo SARS-CoV-2. Os outros fatores não são critérios epidemiológicos diretos para suspeita de Covid-19.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual a implicação da informação de que \"indivíduos assintomáticos têm menor probabilidade de transmitir o vírus do que aqueles que desenvolvem sintomas\" para as medidas de controle da Covid-19?",
+    "options": [
+      "Pessoas assintomáticas não precisam se preocupar com medidas de prevenção.",
+      "O foco principal das medidas de controle deve ser a identificação e isolamento de casos sintomáticos e seus contatos pré-sintomáticos, embora a possibilidade de transmissão por assintomáticos justifique medidas populacionais como uso de máscaras em certos contextos e boa ventilação.",
+      "Apenas pessoas com sintomas graves devem ser isoladas.",
+      "Testagem em massa de assintomáticos não tem utilidade.",
+      "Medidas como distanciamento físico são desnecessárias se todos usarem máscaras."
+    ],
+    "correctIndex": 1,
+    "explanation": "Se indivíduos sintomáticos e pré-sintomáticos são os principais transmissores, as estratégias de controle devem priorizar a rápida identificação, testagem e isolamento desses casos, bem como o rastreamento de seus contatos. Contudo, como a transmissão por assintomáticos, embora menos provável, ainda é possível, medidas de saúde pública mais amplas (como uso de máscaras em ambientes de risco, higiene das mãos, ventilação) continuam importantes para reduzir a disseminação geral do vírus na comunidade.",
+    "type": "raciocínio"
+  }
+]

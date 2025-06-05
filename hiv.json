@@ -1,0 +1,392 @@
+[
+  {
+    "question": "Qual é o agente etiológico da AIDS e a qual família de vírus ele pertence?",
+    "options": [
+      "Vírus da Hepatite B (HBV), família Hepadnaviridae",
+      "Vírus da Imunodeficiência Humana (HIV), família Lentiviridae (Retrovírus)",
+      "Vírus Herpes Simples (HSV), família Herpesviridae",
+      "Papilomavírus Humano (HPV), família Papillomaviridae",
+      "Vírus Influenza, família Orthomyxoviridae"
+    ],
+    "correctIndex": 1,
+    "explanation": "A Síndrome da Imunodeficiência Adquirida (AIDS) é causada pelo Vírus da Imunodeficiência Humana (HIV). O HIV-1 e HIV-2 são retrovírus pertencentes à família Lentiviridae. As outras opções listam vírus e famílias virais incorretas em relação à AIDS.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual enzima é essencial para a multiplicação do HIV, permitindo a transcrição de seu RNA viral para DNA?",
+    "options": [
+      "DNA Polimerase",
+      "RNA Polimerase",
+      "Transcriptase Reversa",
+      "Helicase",
+      "Ligase"
+    ],
+    "correctIndex": 2,
+    "explanation": "Para se multiplicarem, os retrovírus como o HIV necessitam da enzima transcriptase reversa, que é responsável pela transcrição do ácido ribonucleico (RNA) viral em uma cópia de ácido desoxirribonucleico (DNA). Esta cópia de DNA pode então se integrar ao genoma da célula hospedeira. As outras enzimas listadas têm funções diferentes na replicação ou reparo do material genético.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as principais vias de transmissão do HIV?",
+    "options": [
+      "Apenas por via aérea (tosse ou espirro)",
+      "Contato casual (aperto de mão, abraço) e compartilhamento de utensílios",
+      "Picada de mosquitos e outros insetos vetores",
+      "Via sexual, sanguínea (parenteral, gestação/parto) e aleitamento materno",
+      "Ingestão de água ou alimentos contaminados"
+    ],
+    "correctIndex": 3,
+    "explanation": "O HIV pode ser transmitido por via sexual (através de esperma e secreção vaginal), por via sanguínea (uso compartilhado de agulhas, transfusão de sangue contaminado, e da mãe para o filho durante a gestação ou parto) e pelo aleitamento materno. As outras opções listam vias que não são formas de transmissão do HIV.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o período de incubação do HIV, referente ao tempo entre a infecção e o aparecimento da Síndrome Retroviral Aguda (SRA)?",
+    "options": [
+      "Menos de 24 horas",
+      "2 a 5 dias",
+      "Uma a três semanas",
+      "Dois a quatro meses",
+      "Seis meses a um ano"
+    ],
+    "correctIndex": 2,
+    "explanation": "O tempo entre a infecção pelo HIV e o aparecimento de sinais e sintomas da fase aguda, conhecida como Síndrome Retroviral Aguda (SRA), é geralmente de uma a três semanas. Períodos muito mais curtos ou longos não são característicos para o início da SRA.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Após a infecção aguda pelo HIV, qual é o tempo médio para o desenvolvimento de sinais e sintomas de AIDS, caso não haja tratamento?",
+    "options": [
+      "1 a 2 anos",
+      "3 a 5 anos",
+      "Em média de dez anos",
+      "15 a 20 anos",
+      "Mais de 25 anos"
+    ],
+    "correctIndex": 2,
+    "explanation": "Após a fase de infecção aguda, o período de latência clínica até o desenvolvimento de sinais e sintomas da AIDS (sem tratamento) é, em média, de dez anos. No entanto, sinais de imunodeficiência não característicos de AIDS podem surgir em períodos variáveis após a infecção aguda.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Na resposta imunológica à infecção pelo HIV, qual é a ordem cronológica correta de detecção dos marcadores virais no sangue?",
+    "options": [
+      "Anticorpos, proteína p24, RNA viral",
+      "Proteína p24, RNA viral, anticorpos",
+      "RNA viral, proteína p24, anticorpos",
+      "Anticorpos, RNA viral, proteína p24",
+      "Proteína p24, anticorpos, RNA viral"
+    ],
+    "correctIndex": 2,
+    "explanation": "Os marcadores virais da infecção pelo HIV são detectados no sangue na seguinte ordem cronológica: primeiro o RNA viral, seguido pela proteína p24 e, com a progressão da infecção, os anticorpos contra o vírus.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que é 'janela diagnóstica' no contexto do diagnóstico do HIV?",
+    "options": [
+      "O período em que o tratamento é mais eficaz.",
+      "O tempo em que o indivíduo apresenta sintomas de AIDS.",
+      "O tempo decorrido entre a infecção e a detecção de um marcador da infecção (RNA viral, antígeno p24 ou anticorpos).",
+      "O intervalo entre a coleta da amostra e a liberação do resultado do teste.",
+      "O período em que o indivíduo é mais infeccioso."
+    ],
+    "correctIndex": 2,
+    "explanation": "Janela diagnóstica é o período que se passa entre a infecção pelo HIV e o momento em que um marcador dessa infecção (como RNA viral, antígeno p24 ou anticorpos) pode ser detectado pelos testes diagnósticos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual metodologia é majoritariamente utilizada pelos testes rápidos para diagnóstico do HIV?",
+    "options": [
+      "Reação em Cadeia da Polimerase (PCR)",
+      "Imunocromatografia",
+      "Cultura viral",
+      "Microscopia eletrônica",
+      "Citometria de fluxo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Os testes rápidos para diagnóstico do HIV são, em sua maioria, imunoensaios simples que utilizam a metodologia de imunocromatografia. Eles podem fornecer resultados em até 30 minutos com amostras de sangue total ou fluido oral.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Desde quando a infecção pelo HIV, independentemente do estágio clínico, tornou-se de notificação compulsória no Brasil?",
+    "options": [
+      "1986",
+      "1995",
+      "2000",
+      "2014",
+      "2020"
+    ],
+    "correctIndex": 3,
+    "explanation": "A infecção pelo HIV, independentemente do estágio clínico, tornou-se de notificação compulsória no Brasil a partir de 2014, por meio da Portaria nº 1.271. A AIDS já era de notificação desde 1986, e a infecção em gestantes e crianças expostas desde 2000.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a meta '95-95-95' estabelecida para o controle da epidemia de HIV/AIDS até 2030?",
+    "options": [
+      "95% da população vacinada, 95% dos vacinados imunes, 95% de redução na transmissão.",
+      "95% das pessoas com HIV diagnosticadas, 95% das diagnosticadas em tratamento, 95% das em tratamento com carga viral suprimida.",
+      "95% de redução de novos casos, 95% de redução de mortes, 95% da população com conhecimento sobre HIV.",
+      "95% de acesso a preservativos, 95% de testagem anual, 95% de adesão à PrEP em populações chave.",
+      "95% dos serviços de saúde oferecendo teste, 95% dos testes com resultado em 24h, 95% de vinculação ao serviço pós-diagnóstico."
+    ],
+    "correctIndex": 1,
+    "explanation": "A meta 95-95-95 preconiza que, até 2030, 95% das pessoas vivendo com HIV sejam diagnosticadas, 95% das pessoas diagnosticadas recebam tratamento antirretroviral e 95% das pessoas em tratamento alcancem a supressão da carga viral (abaixo de 1.000 cópias/mL).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os três tipos de intervenções que compõem a estratégia de prevenção combinada do HIV?",
+    "options": [
+      "Diagnóstica, terapêutica e paliativa.",
+      "Individual, comunitária e governamental.",
+      "Biomédicas, comportamentais e estruturais.",
+      "Primária, secundária e terciária.",
+      "Educacional, medicamentosa e cirúrgica."
+    ],
+    "correctIndex": 2,
+    "explanation": "A prevenção combinada do HIV envolve um conjunto de estratégias que se dividem em três tipos de intervenções: biomédicas (como PEP, PrEP, tratamento como prevenção), comportamentais (como uso de preservativos, redução de danos) e estruturais (como enfrentamento ao estigma, políticas públicas).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o esquema de medicamentos e o prazo máximo para início da Profilaxia Pós-Exposição (PEP) sexual ao HIV?",
+    "options": [
+      "Tenofovir + Lamivudina; iniciar em até 24 horas.",
+      "Tenofovir + Lamivudina + Dolutegravir; iniciar em até 72 horas.",
+      "Zidovudina + Lamivudina; iniciar em até 48 horas.",
+      "Tenofovir + Entricitabina; iniciar em até 12 horas.",
+      "Atazanavir/ritonavir + Tenofovir + Lamivudina; iniciar em até 96 horas."
+    ],
+    "correctIndex": 1,
+    "explanation": "O esquema único para PEP sexual ao HIV por 28 dias é composto por Tenofovir (TDF) + Lamivudina (3TC) + Dolutegravir (DTG). A PEP deve ser iniciada o mais rápido possível, preferencialmente nas primeiras 2 horas após a exposição, e no máximo em até 72 horas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Para quais grupos a Profilaxia Pré-Exposição (PrEP) ao HIV é indicada prioritariamente?",
+    "options": [
+      "Todas as pessoas sexualmente ativas, independentemente do risco.",
+      "Pessoas que já tiveram uma exposição de risco e fizeram PEP.",
+      "Grupos específicos não infectados que tenham maior risco de adquirir HIV, como trabalhadoras(es) do sexo e parcerias sorodiferentes.",
+      "Pessoas com diagnóstico recente de HIV para evitar a progressão para AIDS.",
+      "Indivíduos que viajam para áreas com alta prevalência de HIV."
+    ],
+    "correctIndex": 2,
+    "explanation": "A PrEP é indicada para grupos específicos não infectados que apresentam um risco aumentado de adquirir o HIV, como trabalhadoras(es) do sexo e em parcerias sorodiferentes (onde uma pessoa vive com HIV e a outra não). O objetivo é expandir essa profilaxia. Não é para todas as pessoas sexualmente ativas indiscriminadamente, nem para quem já tem HIV.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a principal via de transmissão do HIV na população em geral?",
+    "options": [
+      "Transfusão de sangue contaminado",
+      "Compartilhamento de seringas entre usuários de drogas injetáveis",
+      "Transmissão vertical (mãe para filho)",
+      "Sexual",
+      "Acidentes ocupacionais com material biológico"
+    ],
+    "correctIndex": 3,
+    "explanation": "A principal via de transmissão do HIV é a sexual. Embora outras vias como a sanguínea (incluindo compartilhamento de seringas e transmissão vertical) e acidentes ocupacionais sejam importantes, a via sexual responde pela maioria das novas infecções.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o valor de referência para uma contagem de linfócitos T CD4+ considerada normal em adultos não infectados pelo HIV?",
+    "options": [
+      "Abaixo de 100 células/mm³",
+      "Entre 100 e 200 células/mm³",
+      "Entre 200 e 350 células/mm³",
+      "Entre 350 e 500 células/mm³",
+      "Acima de 500 células/mm³"
+    ],
+    "correctIndex": 4,
+    "explanation": "Uma contagem de linfócitos T CD4+ é considerada normal quando está acima de 500 células/mm³. Valores abaixo disso, especialmente abaixo de 200 células/mm³, indicam imunodeficiência progressiva em pessoas vivendo com HIV.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais exames são utilizados para monitorar a replicação do vírus HIV e a imunidade do paciente, respectivamente?",
+    "options": [
+      "Teste rápido e Western Blot",
+      "Carga Viral (HIV-RNA) e Contagem de CD4/CD8",
+      "Genotipagem do HIV e Hemograma completo",
+      "ELISA e Perfil lipídico",
+      "Teste de antígeno p24 e Função hepática"
+    ],
+    "correctIndex": 1,
+    "explanation": "A Carga Viral (HIV-RNA) é o exame que avalia a quantidade de vírus circulante, ou seja, a replicação viral. A contagem de linfócitos T CD4+ (e a relação CD4/CD8) monitora o estado do sistema imunológico do paciente.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A Síndrome Retroviral Aguda (SRA) ocorre em qual porcentagem de casos de infecção pelo HIV e quando os sintomas geralmente aparecem após a exposição?",
+    "options": [
+      "10-20% dos casos; 2 a 4 dias após exposição.",
+      "25-40% dos casos; 5 a 10 dias após exposição.",
+      "50-90% dos casos; 15 a 30 dias após exposição.",
+      "Quase 100% dos casos; 1 a 2 dias após exposição.",
+      "Menos de 5% dos casos; 60 a 90 dias após exposição."
+    ],
+    "correctIndex": 2,
+    "explanation": "A Síndrome Retroviral Aguda (SRA) ocorre em cerca de 50 a 90% dos indivíduos recém-infectados pelo HIV. Os sintomas costumam aparecer entre 15 a 30 dias após a exposição ao vírus.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual dos seguintes sistemas de informação é utilizado para gerenciar a dispensação de medicamentos antirretrovirais no Brasil?",
+    "options": [
+      "Sinan (Sistema de Informação de Agravos de Notificação)",
+      "SIM (Sistema de Informações sobre Mortalidade)",
+      "Siscel (Sistema de Controle de Exames Laboratoriais)",
+      "Siclom (Sistema de Controle Logístico de Medicamentos)",
+      "CNES (Cadastro Nacional de Estabelecimentos de Saúde)"
+    ],
+    "correctIndex": 3,
+    "explanation": "O Siclom (Sistema de Controle Logístico de Medicamentos) é o sistema que gerencia a dispensação de medicamentos antirretrovirais, permitindo o monitoramento do tratamento das pessoas vivendo com HIV no Brasil. O Sinan registra casos, o SIM óbitos e o Siscel exames laboratoriais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Segundo o material, em 2023, qual grupo racial/cor apresentou a maior proporção de casos notificados de HIV no Brasil?",
+    "options": [
+      "Brancos",
+      "Negros (pardos e pretos)",
+      "Amarelos",
+      "Indígenas",
+      "Asiáticos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Em 2023, a maioria dos casos notificados de HIV foi de pessoas negras, correspondendo a 63,2% (sendo 49,7% pardos e 13,5% pretos). Isso evidencia uma concentração da epidemia nessa população. Pessoas brancas representaram 30,7% dos casos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o papel da Atenção Primária à Saúde (APS) no cuidado contínuo de pessoas vivendo com HIV (PVHIV)?",
+    "options": [
+      "Apenas realizar o teste rápido e encaminhar para o especialista.",
+      "Realizar cirurgias e procedimentos de alta complexidade.",
+      "Oferecer diagnóstico oportuno, vincular aos serviços, reforçar adesão à TARV e auxiliar na supressão da carga viral.",
+      "Exclusivamente gerenciar a dispensação de antirretrovirais.",
+      "Focar apenas na prevenção, sem envolvimento no tratamento ou acompanhamento."
+    ],
+    "correctIndex": 2,
+    "explanation": "A APS tem um papel crucial no cuidado contínuo das PVHIV, que inclui oferecer o diagnóstico oportuno (por meio de teste rápido), promover a vinculação do indivíduo aos serviços de saúde, reforçar a importância da adesão ao tratamento (TARV) e ao seguimento, e contribuir para a supressão da carga viral.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um indivíduo realiza um teste rápido para HIV 10 dias após uma exposição de risco, e o resultado é negativo. Considerando a janela diagnóstica, qual a melhor orientação?",
+    "options": [
+      "O resultado é definitivo, não há infecção.",
+      "Repetir o teste imediatamente com outra marca para confirmar.",
+      "Aguardar e repetir o teste após cerca de 30 dias da exposição, pois o primeiro teste pode estar dentro da janela imunológica.",
+      "Iniciar PEP imediatamente, apesar do resultado negativo.",
+      "Realizar um teste Western Blot para confirmação, pois o teste rápido não é confiável."
+    ],
+    "correctIndex": 2,
+    "explanation": "Dez dias após a exposição pode ser um período muito curto para a detecção de anticorpos, que é o alvo da maioria dos testes rápidos. Este período pode estar dentro da janela imunológica (período entre a infecção e a detecção de anticorpos). A recomendação é repetir a testagem após um período maior, geralmente em torno de 30 dias, para um resultado mais conclusivo, ou considerar testes que detectem marcadores mais precoces como RNA viral ou p24 se houver alta suspeita e necessidade de diagnóstico precoce. A janela imunológica do teste rápido mencionada no material é de 20 dias ou menos, mas para segurança, um intervalo maior ou um aconselhamento para reteste é prudente.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "J. A. S., 22 anos, procura a UPA com febre, odinofagia, cefaleia, tosse seca e exantema máculo-papular no tronco, além de linfadenomegalia cervical e occipital. Qual condição, relacionada à infecção pelo HIV, esses sintomas sugerem fortemente, especialmente se houver histórico de exposição de risco?",
+    "options": [
+      "Fase avançada da AIDS com múltiplas infecções oportunistas.",
+      "Síndrome Retroviral Aguda (SRA).",
+      "Reação alérgica aos medicamentos antirretrovirais.",
+      "Infecção latente pelo HIV, sem manifestações clínicas.",
+      "Uma coinfecção comum, como dengue ou mononucleose, sem relação direta com HIV."
+    ],
+    "correctIndex": 1,
+    "explanation": "Os sintomas apresentados por J. A. S. (febre, odinofagia, cefaleia, exantema, linfadenomegalia) são característicos da Síndrome Retroviral Aguda (SRA), que é a manifestação da infecção primária pelo HIV. Esta fase ocorre de 15 a 30 dias após a exposição ao vírus em 50 a 90% dos casos. Embora os sintomas sejam inespecíficos e possam se assemelhar a outras viroses, no contexto de uma possível exposição ao HIV, a SRA deve ser fortemente considerada.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Considerando que a epidemia de HIV no Brasil é classificada como 'concentrada', o que isso implica para as estratégias de prevenção e testagem?",
+    "options": [
+      "A testagem em massa de toda a população é a única estratégia eficaz.",
+      "As ações de prevenção devem focar exclusivamente na população geral, pois o risco é homogêneo.",
+      "É crucial direcionar esforços de prevenção, diagnóstico e cuidado para populações-chave que apresentam prevalência de HIV significativamente maior (como HSH e profissionais do sexo), sem negligenciar a população geral.",
+      "A transmissão do HIV está limitada a grupos específicos e não afeta a população em geral.",
+      "Significa que a epidemia está diminuindo rapidamente e não necessita de mais intervenções."
+    ],
+    "correctIndex": 2,
+    "explanation": "Uma epidemia concentrada significa que a prevalência do HIV é desproporcionalmente alta em certas populações-chave (como homens que fazem sexo com homens - HSH, e profissionais do sexo), em comparação com a população geral. Isso implica que as estratégias de saúde pública devem ser intensificadas e direcionadas a esses grupos para maior impacto no controle da epidemia, embora a prevenção e testagem na população geral continuem importantes.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Se um país como o Brasil, com profundas desigualdades sociais, visa eliminar a AIDS como problema de saúde pública, qual abordagem é essencial além do tratamento clínico?",
+    "options": [
+      "Focar apenas na distribuição de antirretrovirais, pois é a intervenção mais custo-efetiva.",
+      "Implementar quarentenas para pessoas vivendo com HIV para evitar a transmissão.",
+      "Adotar políticas públicas estruturais e ações amplas que enfrentem o estigma, o preconceito e promovam a inclusão social, além de garantir acesso a saúde, renda, trabalho, saneamento e educação.",
+      "Priorizar a pesquisa de uma vacina, suspendendo outras formas de prevenção e tratamento.",
+      "Restringir o acesso à informação sobre HIV para evitar pânico na população."
+    ],
+    "correctIndex": 2,
+    "explanation": "Eliminar doenças de determinação social como a AIDS exige uma abordagem integral. Além do tratamento clínico, são necessárias políticas públicas estruturais e ações amplas que abordem os determinantes sociais da saúde (DSS), como acesso à saúde, renda, trabalho, saneamento e educação, e que também combatam o estigma, o preconceito e promovam a inclusão social das pessoas afetadas.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente recém-diagnosticado com HIV possui uma contagem de linfócitos T CD4+ de 150 células/mm³. Qual é a implicação clínica desse resultado?",
+    "options": [
+      "O paciente está na fase de infecção aguda (SRA) e a imunidade ainda não foi afetada.",
+      "A contagem de CD4 está dentro da faixa de normalidade, indicando bom controle viral espontâneo.",
+      "O paciente apresenta imunodeficiência avançada, com alto risco de desenvolver infecções oportunistas características da AIDS.",
+      "Este resultado indica que o paciente desenvolveu resistência aos antirretrovirais.",
+      "É um resultado esperado na fase de latência clínica, sem risco imediato de complicações."
+    ],
+    "correctIndex": 2,
+    "explanation": "Uma contagem de linfócitos T CD4+ abaixo de 200 células/mm³ (neste caso, 150 células/mm³) é um critério definidor de AIDS ou indica imunodeficiência avançada em uma pessoa vivendo com HIV. Este nível de imunossupressão aumenta significativamente o risco de o paciente desenvolver infecções oportunistas e outras complicações associadas à AIDS. Uma contagem normal é acima de 500 células/mm³.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Por que é importante oferecer o teste de HIV para todas as pessoas sexualmente ativas que procuram a Atenção Primária à Saúde (APS), mesmo que não relatem comportamentos de alto risco?",
+    "options": [
+      "Para cumprir metas de testagem, independentemente da necessidade individual.",
+      "Porque o teste de HIV é obrigatório para acesso a qualquer serviço da APS.",
+      "Para diagnosticar precocemente a infecção, interromper a cadeia de transmissão, permitir o início oportuno do tratamento e melhorar o prognóstico, visto que muitas pessoas podem não se perceber em risco ou desconhecer o status sorológico de parcerias.",
+      "Apenas para identificar pessoas para estudos de prevalência, sem benefício direto ao indivíduo.",
+      "Porque a APS é responsável apenas pela testagem, encaminhando todos os casos, mesmo negativos, para o SAE."
+    ],
+    "correctIndex": 2,
+    "explanation": "Oferecer o teste de HIV (assim como para sífilis e hepatites B e C) a todas as pessoas sexualmente ativas na APS é uma estratégia fundamental para o diagnóstico oportuno. Muitas infecções podem ser assintomáticas por longos períodos, e as pessoas podem não reconhecer seus riscos. O diagnóstico precoce permite o início do tratamento, reduzindo a morbimortalidade individual e a transmissão na comunidade.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um indivíduo realizou um teste ELISA de quarta geração para HIV, que detecta anticorpos e o antígeno p24. O resultado foi positivo. Qual o próximo passo recomendado para confirmar o diagnóstico?",
+    "options": [
+      "Repetir o ELISA de quarta geração imediatamente para verificar consistência.",
+      "Iniciar o tratamento antirretroviral com base apenas neste resultado.",
+      "Realizar um teste confirmatório, como Western Blot ou Imunoblot, ou um teste molecular (PCR para HIV-RNA) em caso de dúvida.",
+      "Considerar o indivíduo como não infectado, pois o ELISA pode ter falsos positivos.",
+      "Aguardar 6 meses e repetir o ELISA para verificar soroconversão completa."
+    ],
+    "correctIndex": 2,
+    "explanation": "Após um teste de triagem positivo, como um ELISA de quarta geração (que detecta anticorpos e antígeno p24), é necessário realizar um teste confirmatório para fechar o diagnóstico de infecção pelo HIV. Os testes confirmatórios incluem o Western Blot, Imunoblot ou, em situações específicas de dúvida diagnóstica, um teste molecular como o PCR para HIV-RNA. Iniciar tratamento ou considerar não infectado com base apenas no teste de triagem não é a conduta adequada.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual a importância de um sistema como o Siscel (Sistema de Controle de Exames Laboratoriais) na vigilância epidemiológica do HIV/AIDS?",
+    "options": [
+      "Controlar a distribuição de preservativos e material informativo.",
+      "Registrar apenas os casos de óbito por AIDS, complementando o SIM.",
+      "Monitorar a realização de exames de CD4, CD8 e carga viral, que são fundamentais para o acompanhamento clínico das pessoas vivendo com HIV e para avaliar o impacto das intervenções de tratamento em nível populacional.",
+      "Notificar novos casos de infecção pelo HIV, substituindo o Sinan.",
+      "Gerenciar o estoque de testes rápidos nas unidades de saúde."
+    ],
+    "correctIndex": 2,
+    "explanation": "O Siscel registra os exames de CD4, CD8 e carga viral realizados em pessoas vivendo com HIV/AIDS. Esses dados são cruciais não apenas para o manejo clínico individual, mas também para a vigilância epidemiológica, pois permitem monitorar o status imunológico e a supressão viral da população em tratamento, avaliar a adesão, a eficácia da terapia antirretroviral e o progresso em direção às metas de controle, como a terceira meta 95.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Considerando a história natural da infecção pelo HIV, se o paciente J. A. S. (do caso clínico) não tivesse seus sintomas da fase aguda (SRA) reconhecidos e não fosse diagnosticado precocemente, qual seria a provável evolução da sua infecção nos anos seguintes, sem tratamento?",
+    "options": [
+      "Cura espontânea da infecção pelo HIV.",
+      "Permanência indefinida na fase de Síndrome Retroviral Aguda com sintomas intensos.",
+      "Entrada em um período de latência clínica, geralmente assintomático por vários anos, com replicação viral contínua e deterioração gradual do sistema imune, podendo evoluir para AIDS.",
+      "Desenvolvimento imediato de múltiplas infecções oportunistas graves dentro de poucos meses.",
+      "Eliminação completa do vírus pelo sistema imunológico, tornando-se não infeccioso."
+    ],
+    "correctIndex": 2,
+    "explanation": "Após a Síndrome Retroviral Aguda, a história natural da infecção pelo HIV, sem tratamento, geralmente evolui para um período de latência clínica. Durante esta fase, que pode durar em média dez anos, o indivíduo pode ser assintomático ou apresentar sintomas leves, mas o vírus continua se replicando e o sistema imunológico vai se deteriorando progressivamente, até o eventual desenvolvimento da AIDS.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "A terapia antirretroviral (TARV) para HIV é citada como tendo evitado milhões de mortes. Qual é o principal mecanismo pelo qual a TARV atinge esse impacto e também contribui para a prevenção (Tratamento como Prevenção - TcP)?",
+    "options": [
+      "Eliminando completamente o reservatório viral do organismo.",
+      "Estimulando o sistema imunológico a produzir mais células CD4.",
+      "Suprimindo a replicação do HIV a níveis indetectáveis, o que restaura parcialmente a função imune, previne a progressão para AIDS e reduz drasticamente o risco de transmissão do vírus a outras pessoas.",
+      "Atuando como uma vacina, conferindo imunidade permanente contra novas cepas do HIV.",
+      "Curando as infecções oportunistas associadas à AIDS, sem afetar a carga viral do HIV."
+    ],
+    "correctIndex": 2,
+    "explanation": "A Terapia Antirretroviral (TARV) age suprimindo a replicação do HIV. Quando a carga viral se torna indetectável, a progressão da doença para AIDS é prevenida ou retardada, a função imunológica pode se recuperar parcialmente, e, crucialmente, o risco de transmissão do HIV para parcerias sexuais é drasticamente reduzido (conceito de Indetectável = Intransmissível, I=I, que embasa o Tratamento como Prevenção - TcP). A TARV não elimina os reservatórios virais nem funciona como vacina. Embora o manejo de infecções oportunistas seja importante, o impacto primário da TARV na mortalidade e prevenção vem da supressão viral.",
+    "type": "raciocínio"
+  }
+]

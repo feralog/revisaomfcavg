@@ -1,0 +1,379 @@
+[
+  {
+    "question": "Qual é o agente etiológico da sífilis e como a doença progride quando não tratada?",
+    "options": [
+      "Haemophilus ducreyi; progride para uma única úlcera dolorosa e depois se resolve espontaneamente.",
+      "Chlamydia trachomatis; causa linfogranuloma venéreo que afeta principalmente os gânglios linfáticos.",
+      "Treponema pallidum; progride por estágios clínicos (recente e tardia) ao longo dos anos",
+      "Neisseria gonorrhoeae; geralmente causa uretrite ou cervicite aguda, podendo levar à doença inflamatória pélvica.",
+      "Herpes simplex virus; causa lesões vesiculares recorrentes e não possui estágios crônicos progressivos."
+    ],
+    "correctIndex": 2,
+    "explanation": "A sífilis é uma infecção bacteriana sistêmica causada pelo *Treponema pallidum*. Quando não tratada, ela evolui cronicamente por vários estágios clínicos, que são divididos em sífilis recente (primária, secundária, latente recente) e sífilis tardia (latente tardia e terciária). As outras opções descrevem diferentes agentes etiológicos e progressões de doença.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as principais formas de transmissão da sífilis?",
+    "options": [
+      "Apenas por via aérea e contato com fômites.",
+      "Ingestão de água contaminada e picada de insetos.",
+      "Sexual (predominante), vertical e sanguínea",
+      "Apenas por contato direto com sangue infectado.",
+      "Através do compartilhamento de alimentos e bebidas."
+    ],
+    "correctIndex": 2,
+    "explanation": "A sífilis pode ser transmitida por via sexual, que é a forma predominante, por via vertical (da mãe para o feto/recém-nascido) e por via sanguínea. A transmissão por via aérea, fômites, água, insetos ou alimentos não ocorre.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o período de incubação médio da sífilis após o contato sexual infectante?",
+    "options": [
+      "1 a 3 dias",
+      "7 dias",
+      "21 dias",
+      "60 dias",
+      "Mais de 90 dias"
+    ],
+    "correctIndex": 2,
+    "explanation": "O período de incubação da sífilis varia de 10 a 90 dias após o contato sexual infectante, com uma média de 21 dias.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em quais estágios da sífilis adquirida o contágio é maior e por quê?",
+    "options": [
+      "Na sífilis latente tardia, devido à longa duração da infecção.",
+      "Na sífilis terciária, devido à gravidade das lesões gomosas.",
+      "Nos estágios iniciais (sífilis primária e secundária), devido à presença de treponemas em lesões como o cancro duro e condiloma plano",
+      "Apenas durante a sífilis latente recente, pois o sistema imune está mais ativo.",
+      "O contágio é igual em todos os estágios da doença."
+    ],
+    "correctIndex": 2,
+    "explanation": "A transmissibilidade da sífilis adquirida requer a presença de lesões ricas em treponemas, como o cancro duro (primária) e o condiloma plano ou placas mucosas (secundária). Portanto, o contágio é maior nos estágios iniciais da doença, sendo reduzido gradativamente com a progressão para fases mais tardias.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a principal característica da lesão da sífilis primária, conhecida como 'cancro duro'?",
+    "options": [
+      "Múltiplas vesículas agrupadas e dolorosas.",
+      "Úlcera geralmente única, indolor, com borda bem definida, base endurecida e fundo limpo",
+      "Lesão elevada, úmida, de superfície plana e altamente infecciosa.",
+      "Placa avermelhada com descamação intensa e prurido.",
+      "Nódulo subcutâneo que evolui para abscesso."
+    ],
+    "correctIndex": 1,
+    "explanation": "A lesão da sífilis primária, denominada 'cancro duro', é tipicamente uma úlcera rica em treponemas, geralmente única e indolor, com borda bem definida e regular, base endurecida e fundo limpo, localizada no sítio de inoculação da bactéria.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são manifestações cutâneas comuns na sífilis secundária?",
+    "options": [
+      "Apenas lesões gomosas e destrutivas.",
+      "Cancro duro e linfadenopatia regional.",
+      "Pápulas palmoplantares, placas e condilomas planos",
+      "Lesões herpetiformes e dermatite seborreica.",
+      "Apenas alopécia difusa e vitiligo."
+    ],
+    "correctIndex": 2,
+    "explanation": "A sífilis secundária é marcada pela disseminação dos treponemas pelo organismo. Manifestações cutâneas comuns incluem pápulas palmoplantares (lesões elevadas nas palmas das mãos e plantas dos pés), placas mucosas e condilomas planos (lesões elevadas e úmidas, geralmente em áreas de dobras). Alopécia em clareira e madarose são achados eventuais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Como é definida a sífilis latente e como ela é subdividida?",
+    "options": [
+      "Período com sintomas neurológicos intensos; dividida em neurosífilis precoce e tardia.",
+      "Período em que não se observam sinais ou sintomas clínicos; dividida em latente recente (menos de um ano) e latente tardia (mais de um ano de infecção)",
+      "Fase com lesões cutâneas exuberantes; dividida pela localização das lesões (genital ou extragenital).",
+      "Período de sorologia negativa após tratamento bem-sucedido; dividida em curada e não curada.",
+      "Fase em que apenas o cancro duro está presente; dividida em cancro único ou múltiplo."
+    ],
+    "correctIndex": 1,
+    "explanation": "A sífilis latente é o período da infecção em que não se observam sinais ou sintomas clínicos. Ela é subdividida em sífilis latente recente, quando a infecção ocorreu há menos de um ano, e sífilis latente tardia, quando a infecção ocorreu há mais de um ano.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais sistemas são comumente afetados na sífilis terciária e qual tipo de lesão característica pode se formar?",
+    "options": [
+      "Sistema respiratório e gastrointestinal; formação de pólipos.",
+      "Sistema renal e endócrino; formação de cistos.",
+      "Sistemas nervoso e cardiovascular; formação de gomas sifilíticas",
+      "Sistema musculoesquelético e linfático; formação de fibromas.",
+      "Apenas o sistema tegumentar; formação de queloides."
+    ],
+    "correctIndex": 2,
+    "explanation": "Na sífilis terciária, é comum o acometimento dos sistemas nervoso (causando neurossífilis) e cardiovascular (podendo levar a aneurismas de aorta, por exemplo). Também pode ocorrer a formação de gomas sifilíticas, que são tumorações com tendência à liquefação, na pele, mucosas, ossos ou outros tecidos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o tratamento de escolha para sífilis recente (primária, secundária e latente recente) em adultos não gestantes e não alérgicos à penicilina?",
+    "options": [
+      "Doxiciclina 100 mg, via oral, por 7 dias.",
+      "Ceftriaxona 2g, endovenosa, por 10 dias.",
+      "Benzilpenicilina benzatina, 2,4 milhões UI, intramuscular, dose única",
+      "Azitromicina 2g, via oral, dose única.",
+      "Penicilina G cristalina, endovenosa, por 14 dias."
+    ],
+    "correctIndex": 2,
+    "explanation": "Para sífilis recente (primária, secundária e latente recente - até um ano de evolução), o esquema terapêutico recomendado é Benzilpenicilina benzatina, 2,4 milhões UI, por via intramuscular, em dose única (aplicando-se 1,2 milhão UI em cada glúteo).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são algumas das possíveis consequências da transmissão vertical da sífilis durante a gestação?",
+    "options": [
+      "Apenas baixo peso ao nascer e icterícia neonatal leve.",
+      "Aborto, natimorto, parto pré-termo, morte neonatal e manifestações congênitas precoces ou tardias",
+      "Apenas malformações cardíacas e renais.",
+      "Apenas dificuldades de aprendizado na infância tardia.",
+      "Apenas rinite alérgica e asma no recém-nascido."
+    ],
+    "correctIndex": 1,
+    "explanation": "A transmissão vertical da sífilis durante a gestação pode implicar consequências graves, como aborto, natimorto, parto pré-termo, morte neonatal e diversas manifestações congênitas, que podem ser precoces (surgindo nos dois primeiros anos de vida) ou tardias (após os dois anos).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são algumas manifestações clínicas da sífilis congênita precoce?",
+    "options": [
+      "Dentes de Hutchinson e tíbia em 'lâmina de sabre'.",
+      "Apenas fronte 'olímpica' e nariz 'em sela'.",
+      "Prematuridade, baixo peso, hepatomegalia, esplenomegalia, lesões cutâneas (como condiloma lata, rash maculopapular), periostite e rinite serossanguinolenta",
+      "Apenas ceratite intersticial e surdez neurossensorial.",
+      "Apenas desenvolvimento de gomas sifilíticas na pele."
+    ],
+    "correctIndex": 2,
+    "explanation": "A sífilis congênita precoce pode se manifestar com prematuridade, baixo peso ao nascer, hepatomegalia, esplenomegalia, lesões cutâneas (exemplos: condiloma lata, rash maculopapular), periostite, anormalidades radiográficas, pseudoparalisia dos membros, sofrimento respiratório com ou sem pneumonia, rinite serossanguinolenta, febre, icterícia, anemia e linfadenopatia generalizada. As outras opções listam principalmente manifestações da sífilis congênita tardia ou adquirida.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são exemplos de estigmas ou manifestações da sífilis congênita tardia?",
+    "options": [
+      "Rash maculopapular e condiloma plano.",
+      "Hepatoesplenomegalia e icterícia persistente.",
+      "Tíbia em 'lâmina de sabre', dentes de Hutchinson, nariz 'em sela' e ceratite intersticial",
+      "Rinite serossanguinolenta e pseudoparalisia dos membros.",
+      "Prematuridade e baixo peso ao nascer."
+    ],
+    "correctIndex": 2,
+    "explanation": "A sífilis congênita tardia, cujos sinais e sintomas surgem após os dois anos de idade, pode deixar estigmas como tíbia em 'lâmina de sabre', articulações de Clutton, fronte 'olímpica', nariz 'em sela', dentes incisivos medianos superiores deformados (dentes de Hutchinson), molares em 'amora', mandíbula curta, arco palatino elevado, ceratite intersticial, perda auditiva sensorial e dificuldade no aprendizado. As outras opções descrevem manifestações da sífilis congênita precoce.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Como é realizado o diagnóstico laboratorial direto da sífilis para identificação do *Treponema pallidum*?",
+    "options": [
+      "Apenas por testes sorológicos como VDRL e FTA-abs.",
+      "Através de cultura da bactéria em meios específicos.",
+      "Pela pesquisa direta de treponemas em material colhido de lesões, utilizando microscopia de campo escuro",
+      "Por meio de testes de biologia molecular em amostras de sangue.",
+      "Apenas por biópsia de tecido e análise histopatológica."
+    ],
+    "correctIndex": 2,
+    "explanation": "O diagnóstico laboratorial para identificação do *Treponema pallidum* pode ser feito pela pesquisa direta de treponemas. A microscopia direta de campo escuro é a maneira mais rápida e eficaz para a observação do treponema móvel, utilizando material colhido de lesões suspeitas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os principais objetivos da vigilância epidemiológica da sífilis adquirida e em gestantes?",
+    "options": [
+      "Apenas monitorar os efeitos adversos do tratamento.",
+      "Identificar casos para subsidiar ações de prevenção e controle da sífilis e sífilis congênita, e monitorar o perfil epidemiológico e tendências",
+      "Apenas registrar o número de testes realizados.",
+      "Controlar a distribuição de penicilina nas unidades de saúde.",
+      "Apenas investigar a origem geográfica dos casos."
+    ],
+    "correctIndex": 1,
+    "explanation": "Os objetivos da vigilância epidemiológica da sífilis adquirida e em gestantes incluem: identificar os casos para subsidiar as ações de prevenção e de controle da sífilis e da sífilis congênita; monitorar o perfil epidemiológico da sífilis adquirida e em gestante e suas tendências; monitorar a sífilis adquirida de acordo com seu estadiamento; e desencadear a investigação das fontes de infecção e transmissão comuns.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Como é definido o tratamento adequado da sífilis em gestante para fins de prevenção da sífilis congênita (Situação 1 da definição de caso)?",
+    "options": [
+      "Qualquer esquema antibiótico completado durante a gestação.",
+      "Tratamento completo para o estágio clínico com penicilina benzatina, iniciado até 30 dias antes do parto",
+      "Uso de doxiciclina por 15 dias, a qualquer momento da gestação.",
+      "Uma dose única de penicilina benzatina, independentemente do estágio clínico.",
+      "Tratamento apenas do parceiro sexual."
+    ],
+    "correctIndex": 1,
+    "explanation": "Para fins de definição de caso de sífilis congênita (Situação 1), o tratamento adequado da gestante é definido como o tratamento completo para o estágio clínico da sífilis com penicilina benzatina, e que tenha sido iniciado até 30 dias antes do parto. Gestantes que não se enquadram nesses critérios são consideradas como tratadas de forma inadequada.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é um dos critérios laboratoriais para definir sífilis congênita em uma criança com menos de 13 anos (Situação 2 da definição de caso)?",
+    "options": [
+      "Teste não treponêmico reagente na mãe apenas no primeiro trimestre.",
+      "Títulos de testes não treponêmicos do lactente menores que os da mãe.",
+      "Títulos de testes não treponêmicos ascendentes em pelo menos 2 diluições no seguimento da criança exposta",
+      "Teste treponêmico não reagente na criança após 12 meses.",
+      "VDRL reagente no líquor da mãe."
+    ],
+    "correctIndex": 2,
+    "explanation": "Na Situação 2 da definição de caso para sífilis congênita em crianças menores de 13 anos, uma das condições é a presença de títulos de testes não treponêmicos ascendentes em pelo menos 2 diluições no seguimento da criança exposta. Outros critérios incluem manifestações clínicas com teste não treponêmico reagente, títulos do lactente significativamente maiores que os da mãe ao nascimento, testes não treponêmicos ainda reagentes após 6 meses em crianças tratadas, ou testes treponêmicos reagentes após 18 meses sem diagnóstico prévio.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A notificação de casos confirmados de sífilis adquirida ou em gestante é compulsória? Em caso afirmativo, qual o prazo e para onde deve ser notificada?",
+    "options": [
+      "Não, a notificação é opcional e serve apenas para controle interno da unidade de saúde.",
+      "Sim, é de notificação compulsória imediata (em até 24 horas) apenas para o Ministério da Saúde.",
+      "Sim, é de notificação compulsória regular (em até sete dias) à vigilância epidemiológica",
+      "Sim, apenas se o paciente for menor de idade, e a notificação é feita ao Conselho Tutelar.",
+      "Não para sífilis adquirida, apenas para sífilis em gestante, e o prazo é mensal."
+    ],
+    "correctIndex": 2,
+    "explanation": "Todo caso confirmado como sífilis adquirida ou em gestante é de notificação compulsória regular, devendo ser notificado à vigilância epidemiológica em até sete dias. A notificação é registrada no Sistema de Informação de Agravos de Notificação (Sinan).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quando se recomenda a testagem para sífilis em mulheres que manifestam a intenção de engravidar, como parte das estratégias de prevenção?",
+    "options": [
+      "Apenas durante o primeiro trimestre de uma gestação confirmada.",
+      "Apenas se houver histórico de múltiplas parcerias sexuais.",
+      "Antes da gravidez",
+      "Apenas no momento do parto.",
+      "Não há recomendação de testagem antes da gravidez."
+    ],
+    "correctIndex": 2,
+    "explanation": "Como estratégia de prevenção da sífilis em gestantes e da sífilis congênita, recomenda-se a testagem para sífilis em mulheres que manifestem a intenção de engravidar, antes da gravidez. Também é crucial testar parcerias sexuais e iniciar o tratamento imediatamente após o diagnóstico.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a importância do rastreamento para sífilis em pessoas assintomáticas?",
+    "options": [
+      "Não é importante, pois a sífilis sempre apresenta sintomas claros.",
+      "Serve apenas para identificar a pessoa infectada, sem implicações para a comunidade.",
+      "Permite o diagnóstico precoce e a redução da morbimortalidade, além de identificar uma rede de transmissão, já que uma IST como a sífilis está ligada a ela",
+      "É útil apenas em populações de baixo risco socioeconômico.",
+      "O rastreamento em assintomáticos tem baixa eficácia e alto custo."
+    ],
+    "correctIndex": 2,
+    "explanation": "O rastreamento para sífilis em pessoas assintomáticas é importante para realizar o diagnóstico precoce e reduzir a morbimortalidade. Diferentemente de outros rastreamentos, como a mamografia, a identificação de uma IST como a sífilis sempre aponta para uma rede de transmissão. Se não diagnosticada e tratada, a infecção se perpetua na comunidade e expõe a pessoa à reinfecção se medidas preventivas não forem adotadas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente apresenta uma lesão ulcerada única, indolor, com base endurecida na região genital, acompanhada de linfonodos inguinais aumentados e indolores. Qual estágio da sífilis é mais compatível com este quadro e qual exame direto poderia confirmar o agente etiológico a partir da lesão?",
+    "options": [
+      "Sífilis secundária; Teste VDRL no soro.",
+      "Sífilis terciária (goma); Biópsia da lesão e cultura.",
+      "Sífilis primária (cancro duro); Microscopia de campo escuro do material colhido da úlcera",
+      "Sífilis latente; FTA-abs no soro.",
+      "Herpes genital; Cultura viral da secreção da vesícula."
+    ],
+    "correctIndex": 2,
+    "explanation": "A descrição da lesão (úlcera única, indolor, com base endurecida) e a linfadenopatia regional indolor são características clássicas do cancro duro da sífilis primária. A pesquisa direta do *Treponema pallidum* por meio da microscopia de campo escuro do exsudato colhido da lesão é um método rápido e eficaz para confirmação nesse estágio.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Considerando a FIGURA 1 sobre as taxas de sífilis no Brasil (2012-2022), qual tendência geral pode ser observada para a sífilis adquirida e sífilis em gestantes, e qual a implicação disso para a sífilis congênita?",
+    "options": [
+      "As taxas de sífilis adquirida e em gestantes diminuíram consistentemente, levando a uma queda na sífilis congênita.",
+      "As taxas permaneceram estáveis, sem impacto significativo na sífilis congênita.",
+      "Observa-se um aumento geral nas taxas de sífilis adquirida e em gestantes ao longo do período, o que contribui para a tendência de aumento também na taxa de incidência de sífilis congênita",
+      "A sífilis em gestantes aumentou, mas a sífilis adquirida diminuiu, resultando em estabilidade da sífilis congênita.",
+      "Todas as formas de sífilis apresentaram uma queda acentuada a partir de 2020."
+    ],
+    "correctIndex": 2,
+    "explanation": "O gráfico da FIGURA 1 mostra um aumento geral nas taxas de detecção de sífilis adquirida e de sífilis em gestantes no Brasil entre 2012 e 2022. Essa tendência de aumento nas infecções em adultos e gestantes está diretamente relacionada com a persistência ou aumento da taxa de incidência de sífilis congênita, uma vez que a transmissão vertical ocorre da gestante não tratada ou inadequadamente tratada para o feto/recém-nascido.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Uma gestante está no segundo trimestre e seu exame VDRL resultou em 1:64. Ela não relata lesões genitais prévias. De acordo com o QUADRO 2 (esquemas terapêuticos), qual seria o estadiamento mais provável para fins de tratamento e qual o esquema terapêutico de primeira linha, assumindo que não é possível determinar o tempo de infecção?",
+    "options": [
+      "Sífilis primária; Benzilpenicilina benzatina 2,4 milhões UI, dose única.",
+      "Sífilis secundária; Doxiciclina 100mg por 15 dias.",
+      "Sífilis latente com duração desconhecida (considerada tardia); Benzilpenicilina benzatina 2,4 milhões UI, IM, semanal, por 3 semanas",
+      "Neurosífilis; Penicilina G cristalina endovenosa por 14 dias.",
+      "Sífilis terciária cardiovascular; Ceftriaxona 2g IV/dia por 10-14 dias."
+    ],
+    "correctIndex": 2,
+    "explanation": "Na ausência de sinais e sintomas de sífilis primária ou secundária e sem informação clara sobre o tempo de infecção, uma gestante com VDRL de 1:64 deve ser classificada como sífilis latente com duração desconhecida, que para fins de tratamento é manejada como sífilis tardia. O esquema terapêutico de primeira linha para sífilis tardia (incluindo latente com duração desconhecida) é Benzilpenicilina benzatina 2,4 milhões UI, intramuscular, semanalmente (1,2 milhão UI em cada glúteo), por 3 semanas, totalizando 7,2 milhões UI. Doxiciclina é contraindicada em gestantes.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um recém-nascido de mãe com sífilis não tratada durante a gestação apresenta VDRL no sangue periférico com título quatro vezes maior que o título materno, coletados simultaneamente no momento do parto. Segundo os critérios de definição de caso para Sífilis Congênita (Situação 2), como este recém-nascido seria classificado?",
+    "options": [
+      "Não classificado como sífilis congênita, pois o VDRL materno pode ser um falso positivo.",
+      "Classificado como sífilis congênita",
+      "Aguardar 6 meses para repetir o VDRL antes de classificar.",
+      "Classificado como exposto à sífilis, mas não infectado.",
+      "Tratar apenas a mãe, o recém-nascido não necessita de intervenção."
+    ],
+    "correctIndex": 1,
+    "explanation": "De acordo com a Situação 2 dos critérios de definição de caso para sífilis congênita, uma criança com menos de 13 anos é classificada como tendo sífilis congênita se apresentar títulos de teste não treponêmicos (como o VDRL) no sangue periférico que sejam maiores que os da mãe em pelo menos 2 diluições (ou seja, quatro vezes maiores), em amostras coletadas simultaneamente no momento do parto.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Na FIGURA 13, que mostra a distribuição percentual de gestantes diagnosticadas com sífilis por trimestre gestacional, se uma região apresentar consistentemente uma alta proporção de diagnósticos no 3º trimestre, qual seria uma implicação importante para a prevenção da sífilis congênita?",
+    "options": [
+      "Isso indica que o pré-natal está sendo realizado de forma ideal, com múltiplos testes.",
+      "Significa que a maioria das infecções ocorre tardiamente na gestação.",
+      "Sugere uma falha na captação precoce da gestante no pré-natal ou na testagem oportuna no 1º trimestre, o que aumenta o risco de transmissão vertical e de consequências mais graves para o feto, pois o tratamento pode não ser iniciado a tempo de prevenir a infecção congênita",
+      "Indica que o tratamento no 3º trimestre é mais eficaz para prevenir a sífilis congênita.",
+      "Não há implicação relevante, desde que o diagnóstico seja feito antes do parto."
+    ],
+    "correctIndex": 2,
+    "explanation": "Uma alta proporção de diagnósticos de sífilis em gestantes ocorrendo apenas no 3º trimestre (conforme os dados apresentados na FIGURA 13) sugere oportunidades perdidas de diagnóstico e tratamento precoces. O ideal é que o diagnóstico ocorra no 1º trimestre para que o tratamento seja instituído o mais cedo possível, minimizando o risco e a gravidade da transmissão vertical da sífilis. Um diagnóstico tardio limita o tempo para tratamento eficaz antes do parto.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um recém-nascido apresenta lesões eritemato-descamativas em mãos e pés, ascite, icterícia e hepatoesplenomegalia, conforme descrito no caso clínico. Sua mãe teve VDRL 1:256 no momento do parto. Qual é a conduta mais apropriada para este recém-nascido, considerando o diagnóstico provável?",
+    "options": [
+      "Observação clínica, pois os sintomas podem ser de outra condição e o VDRL materno pode ser residual.",
+      "Iniciar tratamento para sífilis congênita com penicilina cristalina endovenosa, realizar investigação complementar (LCR, radiografia de ossos longos) e notificar o caso",
+      "Administrar apenas uma dose de penicilina benzatina e alta hospitalar.",
+      "Coletar VDRL do recém-nascido e aguardar resultado antes de qualquer intervenção.",
+      "Tratar apenas a mãe e realizar seguimento sorológico do recém-nascido sem tratamento inicial."
+    ],
+    "correctIndex": 1,
+    "explanation": "O recém-nascido apresenta sinais e sintomas clássicos de sífilis congênita precoce (lesões cutâneas, ascite, icterícia, hepatoesplenomegalia), e a mãe tem sorologia fortemente reagente para sífilis. Diante de um quadro clínico tão sugestivo, a conduta é iniciar o tratamento para sífilis congênita com penicilina cristalina endovenosa (esquema para neurossífilis ou sífilis congênita grave até que se afaste o acometimento do SNC), realizar investigação complementar para avaliar a extensão da doença (como análise do LCR, se possível, e radiografia de ossos longos), e notificar compulsoriamente o caso.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Analisando a ficha de notificação de 'SÍFILIS EM GESTANTE' do SINAN (descrita no material), por que é crucial registrar informações sobre o tratamento do parceiro sexual da gestante e o motivo para o não tratamento, se aplicável?",
+    "options": [
+      "Apenas para fins estatísticos sobre o comportamento sexual da população.",
+      "Para responsabilizar legalmente o parceiro em caso de sífilis congênita.",
+      "Porque o tratamento inadequado ou a ausência de tratamento do parceiro aumenta significativamente o risco de reinfecção da gestante, comprometendo a eficácia do seu tratamento e a prevenção da sífilis congênita",
+      "Para determinar se a gestante tem direito a benefícios sociais específicos.",
+      "Essa informação não é relevante para o controle da sífilis na gestante."
+    ],
+    "correctIndex": 2,
+    "explanation": "Registrar na ficha de notificação de sífilis em gestante se o parceiro foi tratado concomitantemente e o motivo para o não tratamento é fundamental para a vigilância e controle. Se o parceiro sexual não for tratado, a gestante corre um alto risco de ser reinfectada, mesmo após ter completado seu próprio tratamento. Isso anularia os esforços para prevenir a sífilis congênita e perpetuaria a cadeia de transmissão da infecção.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um adolescente de 16 anos é diagnosticado com sífilis secundária, apresentando pápulas palmoplantares e placas mucosas. Qual a principal orientação que deve ser dada em relação à transmissibilidade e prevenção para suas parcerias sexuais?",
+    "options": [
+      "Ele só transmitirá a doença se tiver cancro duro ativo; as lesões secundárias não são infectantes.",
+      "A sífilis só é transmitida por sangue, então não há risco para parcerias sexuais se não houver troca de fluidos sanguíneos.",
+      "As lesões da sífilis secundária (pápulas, placas mucosas, condilomas planos) são ricas em treponemas e altamente infecciosas; é crucial comunicar e testar as parcerias sexuais recentes, tratar os infectados e usar preservativos consistentemente para prevenir a transmissão",
+      "Após a primeira dose de penicilina, ele já não transmite mais a infecção, podendo retomar a atividade sexual sem precauções.",
+      "Apenas as parcerias futuras precisam ser orientadas, as anteriores não correm risco."
+    ],
+    "correctIndex": 2,
+    "explanation": "As lesões da sífilis secundária, como pápulas palmoplantares, placas mucosas e condilomas planos, são altamente contagiosas devido à grande quantidade de *Treponema pallidum*. É fundamental orientar o paciente sobre a importância de comunicar suas parcerias sexuais recentes para que também sejam testadas e, se necessário, tratadas. O uso consistente de preservativos é uma medida preventiva essencial. A transmissibilidade só diminui significativamente após o tratamento adequado e a resolução das lesões infecciosas.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Observando a imagem da tíbia em 'lâmina de sabre' e dos 'dentes de Hutchinson', em qual forma clínica da sífilis essas alterações são características e o que elas representam?",
+    "options": [
+      "Sífilis primária; são manifestações agudas da infecção inicial.",
+      "Sífilis secundária; são lesões cutâneas disseminadas.",
+      "Sífilis terciária adquirida; são gomas ósseas e dentárias.",
+      "Sífilis congênita tardia; são estigmas resultantes da cicatrização de lesões produzidas pelo treponema durante o desenvolvimento",
+      "Neurosífilis; são manifestações do acometimento do sistema nervoso central nos ossos e dentes."
+    ],
+    "correctIndex": 3,
+    "explanation": "A tíbia em 'lâmina de sabre' (curvatura anterior da tíbia) e os dentes de Hutchinson (incisivos medianos superiores deformados com entalhes) são estigmas clássicos da sífilis congênita tardia. Essas alterações ocorrem como resultado da infecção pelo *Treponema pallidum* durante o desenvolvimento fetal e infantil, levando a processos inflamatórios e cicatriciais que afetam a formação óssea e dentária.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Considerando o Exercício 3 (Prefeitura Municipal de Bauru - 2020), onde a gestante foi tratada na 30ª semana, mas o parceiro não foi tratado, e o RN nasceu sem sinais e com VDRL não reagente. Qual é a principal preocupação e a conduta correta para o RN, de acordo com as recomendações gerais de seguimento?",
+    "options": [
+      "O RN está curado e não necessita de seguimento, pois seu VDRL foi não reagente.",
+      "O RN deve ser tratado com ceftriaxona imediatamente devido ao não tratamento do parceiro da mãe.",
+      "A negatividade sorológica ao nascer não exclui a infecção congênita, especialmente com o histórico materno (parceiro não tratado implica risco de reinfecção materna). O RN precisa de seguimento clínico e laboratorial (VDRL seriado) para detectar possível soroconversão ou persistência de anticorpos",
+      "Apenas a mãe precisa ser re-tratada; o RN está seguro.",
+      "O RN deve receber uma dose profilática de penicilina benzatina e ser liberado do seguimento."
+    ],
+    "correctIndex": 2,
+    "explanation": "Mesmo com VDRL não reagente ao nascer, o fato de o parceiro da mãe não ter sido tratado representa um risco significativo de reinfecção materna e, consequentemente, de infecção congênita no RN que pode se manifestar ou ser detectada sorologicamente mais tarde. Portanto, a negatividade inicial não é conclusiva. O RN deve ser acompanhado com testes não treponêmicos seriados (com 1, 3, 6, 12 e 18 meses). Uma falha na queda esperada dos títulos ou uma positivação tardia indicaria a necessidade de investigação e tratamento para sífilis congênita.",
+    "type": "raciocínio"
+  }
+]

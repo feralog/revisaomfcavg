@@ -1,0 +1,392 @@
+[
+  {
+    "question": "Qual é a principal característica das doenças exantemáticas infecciosas agudas?",
+    "options": [
+      "Febre alta persistente",
+      "A presença de exantema",
+      "Comprometimento respiratório grave",
+      "Linfadenopatia generalizada",
+      "Sintomas gastrointestinais intensos"
+    ],
+    "correctIndex": 1,
+    "explanation": "A principal característica das doenças exantemáticas, também conhecidas como febres eruptivas, é o exantema, uma erupção cutânea. Febre, comprometimento respiratório, linfadenopatia ou sintomas gastrointestinais podem estar presentes, mas o exantema é o definidor.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual o agente etiológico do Sarampo?",
+    "options": [
+      "Um DNA vírus da família Herpesviridae",
+      "Um RNA vírus do gênero Rubivirus",
+      "Um RNA vírus do gênero Morbillivirus",
+      "Uma bactéria do gênero Streptococcus",
+      "Um fungo do gênero Candida"
+    ],
+    "correctIndex": 2,
+    "explanation": "O Sarampo é causado por um RNA vírus pertencente ao gênero Morbillivirus, da família Paramyxoviridae. O gênero Rubivirus causa a Rubéola. Herpesviridae, Streptococcus e Candida não são agentes etiológicos do sarampo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual o período de incubação do Sarampo, desde a exposição até o aparecimento do exantema?",
+    "options": [
+      "1 a 3 dias",
+      "4 a 6 dias",
+      "7 a 21 dias",
+      "22 a 30 dias",
+      "Mais de 30 dias"
+    ],
+    "correctIndex": 2,
+    "explanation": "O período de incubação do Sarampo varia entre 7 e 21 dias, desde a exposição ao vírus até o surgimento do exantema. Períodos mais curtos ou mais longos não são característicos da incubação do sarampo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Como ocorre primariamente a transmissão do Sarampo?",
+    "options": [
+      "Contato com sangue infectado",
+      "Picada de mosquito vetor",
+      "Ingestão de água ou alimentos contaminados",
+      "Contato direto com secreções nasofaríngeas",
+      "Contato com lesões de pele de um indivíduo infectado"
+    ],
+    "correctIndex": 3,
+    "explanation": "A transmissão do Sarampo ocorre de forma direta, por meio de secreções nasofaríngeas expelidas ao tossir, espirrar, falar ou respirar. Transmissão por sangue, vetores, alimentos ou contato direto com lesões cutâneas não são as formas primárias de transmissão do sarampo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o período de transmissibilidade do Sarampo?",
+    "options": [
+      "Apenas durante o período febril",
+      "Dois dias antes do exantema até dois dias após o seu desaparecimento",
+      "Seis dias antes do exantema até quatro dias após o início do exantema",
+      "Somente após o aparecimento das Manchas de Koplik",
+      "Durante todo o curso da doença, incluindo a convalescença"
+    ],
+    "correctIndex": 2,
+    "explanation": "O período de transmissibilidade do Sarampo inicia-se seis dias antes do exantema e dura até quatro dias após o seu aparecimento. O período de maior transmissibilidade ocorre de quatro dias antes a quatro dias após o início do exantema. As outras opções descrevem períodos incorretos ou incompletos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais vacinas são recomendadas para a prevenção do Sarampo no calendário básico de vacinação infantil?",
+    "options": [
+      "Vacina dupla viral aos 6 meses e reforço aos 12 meses",
+      "Vacina tríplice viral aos 12 meses e tetra viral aos 15 meses",
+      "Vacina monovalente para sarampo aos 9 meses",
+      "Vacina tetra viral aos 6 meses e tríplice viral aos 18 meses",
+      "Vacina quíntupla viral aos 12 meses"
+    ],
+    "correctIndex": 1,
+    "explanation": "A prevenção do Sarampo é feita com a vacina tríplice viral aos 12 meses e a vacina tetra viral aos 15 meses. As outras combinações e idades não correspondem ao esquema de prevenção padrão para o sarampo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual das seguintes manifestações clínicas é patognomônica do Sarampo, surgindo antes do exantema?",
+    "options": [
+      "Febre alta",
+      "Conjuntivite intensa",
+      "Manchas de Koplik",
+      "Coriza abundante",
+      "Tosse persistente"
+    ],
+    "correctIndex": 2,
+    "explanation": "As Manchas de Koplik, que são pequenas manchas brancas na mucosa oral, são consideradas patognomônicas do Sarampo e geralmente surgem antes do exantema. Febre, conjuntivite, coriza e tosse são sintomas comuns, mas não específicos como as Manchas de Koplik.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Como é caracterizada a fase exantemática do Sarampo?",
+    "options": [
+      "Exantema papulovesicular com início nos membros e progressão ascendente",
+      "Exantema maculopapular com início no rosto, progressão descendente e confluente",
+      "Exantema petequial generalizado desde o início",
+      "Exantema rubeoliforme não confluente com duração de 7 dias",
+      "Exantema escarlatiniforme com aspecto de lixa e descamação lamelar"
+    ],
+    "correctIndex": 1,
+    "explanation": "Na fase exantemática do Sarampo, o exantema é maculopapular, inicia-se no rosto e região retroauricular, progride de forma descendente para o tórax e membros, torna-se confluente, adquire coloração acastanhada e posteriormente descama. As outras descrições correspondem a outros tipos de exantemas ou a outras doenças.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a forma clínica mais grave e rara do Sarampo, caracterizada por intensa toxemia e exantema hemorrágico?",
+    "options": [
+      "Sarampo atípico",
+      "Sarampo modificado",
+      "Sarampo hemorrágico",
+      "Sarampo em imunocomprometidos",
+      "Sarampo congênito"
+    ],
+    "correctIndex": 2,
+    "explanation": "O Sarampo hemorrágico é uma forma clínica rara e a mais grave, cursando com intensa toxemia, febre alta, crises convulsivas, coma, exantema hemorrágico e outras hemorragias, sendo potencialmente fatal. O sarampo atípico ocorre em vacinados, e as outras opções não descrevem esta forma específica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em que grupo de indivíduos o Sarampo Atípico é mais frequentemente observado?",
+    "options": [
+      "Crianças não vacinadas menores de 1 ano",
+      "Idosos com comorbidades",
+      "Indivíduos previamente vacinados",
+      "Gestantes no primeiro trimestre",
+      "Indivíduos com imunodeficiência primária"
+    ],
+    "correctIndex": 2,
+    "explanation": "O Sarampo Atípico ocorre em indivíduos previamente vacinados e pode apresentar um quadro clínico grave, com febre alta, mialgia, dor abdominal, cefaleia e acometimento pulmonar. Não é característico de não vacinados ou dos outros grupos listados.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual o método laboratorial mais utilizado para o diagnóstico de Sarampo?",
+    "options": [
+      "Cultura viral em amostras de urina",
+      "RT-PCR em amostras de líquor",
+      "Sorologia (ELISA) para detecção de anticorpos IgM e IgG específicos",
+      "Biópsia de pele das lesões exantemáticas",
+      "Teste rápido de antígeno em swab nasal"
+    ],
+    "correctIndex": 2,
+    "explanation": "A sorologia, utilizando o método ELISA para detecção de anticorpos IgM específicos, soroconversão ou aumento de títulos de IgG, é o método mais utilizado para o diagnóstico laboratorial do Sarampo. RT-PCR é usado, mas a sorologia é a mais comum. Cultura, biópsia e teste rápido de antígeno não são os métodos primários ou mais comuns.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual o agente etiológico da Rubéola?",
+    "options": [
+      "Um RNA vírus do gênero Morbillivirus",
+      "Um DNA vírus da família Parvoviridae",
+      "Um RNA vírus do gênero Rubivirus",
+      "Uma bactéria do gênero Bordetella",
+      "Um protozoário do gênero Toxoplasma"
+    ],
+    "correctIndex": 2,
+    "explanation": "A Rubéola é causada por um vírus RNA do gênero Rubivirus, família Matonaviridae. O gênero Morbillivirus causa o Sarampo. Parvoviridae, Bordetella e Toxoplasma não são agentes etiológicos da rubéola.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual o período de incubação da Rubéola?",
+    "options": [
+      "3 a 5 dias",
+      "7 a 10 dias",
+      "12 a 23 dias",
+      "25 a 30 dias",
+      "Mais de 35 dias"
+    ],
+    "correctIndex": 2,
+    "explanation": "O período de incubação da Rubéola varia de 12 a 23 dias. Períodos mais curtos ou mais longos não são típicos da rubéola.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o período de transmissibilidade da Rubéola?",
+    "options": [
+      "Dois dias antes até dois dias após o início do exantema",
+      "Cinco dias antes até cinco dias após o início do exantema",
+      "Sete dias antes até sete dias após o início do exantema",
+      "Apenas durante a presença da febre",
+      "Dez dias antes até dez dias após o início do exantema"
+    ],
+    "correctIndex": 2,
+    "explanation": "O período de transmissibilidade da Rubéola é de sete dias antes a sete dias após o início do exantema. Os outros intervalos de tempo são incorretos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual manifestação clínica é frequentemente o sintoma mais precoce da Síndrome da Rubéola Congênita (SRC)?",
+    "options": [
+      "Catarata",
+      "Anomalias cardíacas",
+      "Microcefalia",
+      "Surdez",
+      "Glaucoma"
+    ],
+    "correctIndex": 3,
+    "explanation": "A surdez é frequentemente o sintoma mais precoce da Síndrome da Rubéola Congênita. Catarata, anomalias cardíacas e glaucoma também são manifestações da SRC, mas a surdez é destacada como a mais precoce.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Como é caracterizado o exantema na Rubéola?",
+    "options": [
+      "Maculopapular morbiliforme, confluente e com descamação",
+      "Maculopapular rubeoliforme, não confluente, sem descamação e com duração de 3 dias",
+      "Vesicular, pruriginoso e com distribuição centrípeta",
+      "Escarlatiniforme, com palidez perioral e Sinal de Pastia",
+      "Petequial, iniciando em extremidades e associado a plaquetopenia"
+    ],
+    "correctIndex": 1,
+    "explanation": "O exantema da Rubéola é maculopapular rubeoliforme, inicia-se na face e pescoço, é segmentar, não descama, não conflui e tem duração de aproximadamente 3 dias. As outras descrições não correspondem ao exantema típico da rubéola.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual sinal clínico, caracterizado por petéquias no palato mole, pode ser observado na Rubéola?",
+    "options": [
+      "Sinal de Koplik",
+      "Sinal de Pastia",
+      "Sinal de Forchheimer",
+      "Sinal de Romberg",
+      "Sinal de Nikolsky"
+    ],
+    "correctIndex": 2,
+    "explanation": "O Sinal de Forchheimer, que consiste em petéquias no palato mole, pode ser observado em pacientes com Rubéola. O Sinal de Koplik é do sarampo, e os outros sinais não são característicos da rubéola.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Para qual grupo o teste de avidez de IgG para Rubéola é especialmente importante no diagnóstico?",
+    "options": [
+      "Crianças menores de 1 ano",
+      "Idosos com múltiplas comorbidades",
+      "Gestantes",
+      "Indivíduos imunocomprometidos",
+      "Profissionais de saúde não vacinados"
+    ],
+    "correctIndex": 2,
+    "explanation": "O teste de avidez de IgG para Rubéola é particularmente útil em gestantes para ajudar a determinar a primo-infecção ou reinfecção, e o momento aproximado da infecção. Nos outros grupos, embora o diagnóstico seja importante, o teste de avidez tem uma relevância especial para gestantes devido aos riscos da rubéola congênita.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual o tipo de exantema caracterizado por eritema difuso, puntiforme, vermelho vivo, sem solução de continuidade e que poupa a região perioral?",
+    "options": [
+      "Morbiliforme",
+      "Rubeoliforme",
+      "Urticariforme",
+      "Escarlatiniforme",
+      "Papulovesicular"
+    ],
+    "correctIndex": 3,
+    "explanation": "O exantema escarlatiniforme é descrito como um eritema difuso, puntiforme, vermelho vivo, sem solução de continuidade (sem áreas de pele sã permeando), que poupa a região perioral e pode ter aspecto de lixa. As outras opções descrevem diferentes morfologias de exantemas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o tratamento principal recomendado tanto para o Sarampo quanto para a Rubéola não complicados?",
+    "options": [
+      "Antibióticos de amplo espectro",
+      "Antivirais específicos como Aciclovir",
+      "Corticosteroides sistêmicos",
+      "Tratamento de suporte",
+      "Imunoglobulina intravenosa para todos os casos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tanto para o Sarampo quanto para a Rubéola, o tratamento principal é de suporte, visando aliviar os sintomas e manter a hidratação e o conforto do paciente. Antivirais específicos não são rotineiramente usados, antibióticos não são eficazes contra vírus, e corticosteroides ou imunoglobulina são reservados para situações específicas ou complicações, não para todos os casos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente apresenta febre, coriza, tosse e conjuntivite há 3 dias. Ao exame, observam-se pequenas manchas brancacentas na mucosa jugal, próximas aos molares. Qual tipo de exantema é esperado que surja nas próximas 24-48 horas?",
+    "options": [
+      "Exantema rubeoliforme, róseo e discreto, iniciando na face.",
+      "Exantema maculopapular eritematoso, iniciando na face e região retroauricular, com tendência à confluência.",
+      "Exantema papulovesicular generalizado e pruriginoso.",
+      "Exantema escarlatiniforme, difuso e com aspecto de lixa.",
+      "Exantema petequial, principalmente em extremidades."
+    ],
+    "correctIndex": 1,
+    "explanation": "A presença de febre, sintomas catarrais (coriza, tosse, conjuntivite) e, crucialmente, as manchas de Koplik (manchas brancacentas na mucosa jugal) são altamente sugestivas de Sarampo. O exantema do sarampo é maculopapular, inicia-se na face e região retroauricular, espalha-se de forma descendente e tende a confluir. O exantema rubeoliforme é mais discreto e típico da rubéola; o papulovesicular é de outras viroses como varicela; o escarlatiniforme é bacteriano; e o petequial sugere outras condições vasculares ou infecciosas graves.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Se um indivíduo não vacinado é exposto a um caso de Sarampo em um ambiente fechado, como uma creche, qual característica do vírus do Sarampo contribui significativamente para o alto risco de contágio nesse cenário?",
+    "options": [
+      "Sua capacidade de ser transmitido apenas por contato direto com lesões cutâneas.",
+      "Seu longo período de incubação, permitindo que muitos sejam expostos antes do diagnóstico.",
+      "Sua transmissão por dispersão de aerossóis com partículas virais, conferindo elevada contagiosidade em ambientes fechados.",
+      "Sua baixa taxa de ataque secundário em contatos domiciliares.",
+      "O fato de ser transmissível apenas após o aparecimento do exantema."
+    ],
+    "correctIndex": 2,
+    "explanation": "O vírus do Sarampo pode ser transmitido por dispersão de aerossóis com partículas virais em ambientes fechados, como escolas e creches, o que confere elevada contagiosidade. A transmissão não é apenas por contato com lesões. Embora o período de incubação seja relevante para a disseminação, a forma de transmissão por aerossóis é crucial para a alta contagiosidade em ambientes fechados. A taxa de ataque secundário é alta, não baixa. A transmissibilidade inicia-se antes do exantema.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Uma criança de 14 meses, com esquema vacinal em dia (recebeu a tríplice viral aos 12 meses), entra em contato com um caso confirmado de Sarampo. Qual a conduta mais apropriada em relação à profilaxia pós-exposição para esta criança, considerando apenas as informações fornecidas?",
+    "options": [
+      "Administrar imediatamente uma dose de imunoglobulina humana normal.",
+      "Antecipar a dose da vacina tetra viral.",
+      "Isolar a criança por 21 dias e observar sintomas.",
+      "Considerar que a criança está adequadamente protegida pela vacinação e apenas observar.",
+      "Iniciar tratamento antiviral profilático."
+    ],
+    "correctIndex": 3,
+    "explanation": "A criança recebeu a primeira dose da vacina tríplice viral aos 12 meses, conforme o calendário. A vacinação é a principal medida de prevenção. Embora a segunda dose (com a tetra viral) seja aos 15 meses, a primeira dose já confere um grau significativo de proteção. A imunoglobulina é para contactantes imunodeprimidos ou situações específicas. Antecipar a tetra viral pode ser uma estratégia em surtos, mas a observação com base na proteção esperada pela primeira dose é uma conduta razoável inicial. Tratamento antiviral profilático não é padrão para sarampo. Isolar sem sintomas, sendo vacinada, não seria a primeira medida.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Uma gestante no primeiro trimestre apresenta febre baixa, linfadenopatia retroauricular e um exantema maculopapular róseo que iniciou na face e se espalhou rapidamente, sem confluência e sem descamação. Qual a principal preocupação diagnóstica e por quê?",
+    "options": [
+      "Sarampo, devido ao risco de pneumonia na gestante.",
+      "Rubéola, devido ao alto risco de anomalias congênitas graves se a infecção ocorrer no primeiro trimestre.",
+      "Escarlatina, devido ao risco de febre reumática.",
+      "Varicela, devido ao risco de varicela congênita.",
+      "Dengue, devido ao risco de complicações hemorrágicas."
+    ],
+    "correctIndex": 1,
+    "explanation": "O quadro clínico descrito (febre baixa, linfadenopatia retroauricular, exantema rubeoliforme) é altamente sugestivo de Rubéola. A principal preocupação em gestantes, especialmente no primeiro trimestre, é a Síndrome da Rubéola Congênita (SRC), pois a infecção materna pode resultar em aborto, morte fetal ou graves anomalias congênitas, como surdez, catarata e problemas cardíacos. Sarampo pode ser grave, mas a SRC é a maior preocupação teratogênica aqui. Escarlatina é bacteriana e tem outras complicações. Varicela e Dengue têm apresentações e riscos distintos.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente apresenta um exantema maculopapular eritematoso, com lesões pequenas que se confluem, permeadas por áreas de pele íntegra. Qual tipo específico de exantema maculopapular melhor descreve essa apresentação?",
+    "options": [
+      "Escarlatiniforme, caracterizado por eritema difuso e aspecto de lixa.",
+      "Rubeoliforme, com pápulas menores, coloração rósea e geralmente não confluente.",
+      "Morbiliforme, com máculo-pápulas eritematosas que podem se confluir, permeadas por pele íntegra.",
+      "Urticariforme, com pápulo-eritema de contornos irregulares, similar a urticária.",
+      "Papulovesicular, com presença de pápulas e vesículas."
+    ],
+    "correctIndex": 2,
+    "explanation": "O exantema morbiliforme é descrito como pequenas máculo-pápulas eritematosas, avermelhadas, que podem se confluir (juntar), sendo permeadas por pele íntegra. O escarlatiniforme é difuso e áspero. O rubeoliforme tem pápulas menores, róseas e tipicamente não conflui. O urticariforme assemelha-se a placas de urticária. O papulovesicular envolve lesões com líquido.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente previamente vacinado contra sarampo desenvolve febre alta, mialgia intensa e um exantema macular que progride para vesicular e petequial, com início nos membros e progressão ascendente. Qual diagnóstico deve ser fortemente considerado?",
+    "options": [
+      "Reinfecção por Rubéola com manifestações atípicas.",
+      "Sarampo hemorrágico clássico.",
+      "Uma reação alérgica grave à vacina.",
+      "Sarampo atípico.",
+      "Varicela em paciente vacinado."
+    ],
+    "correctIndex": 3,
+    "explanation": "O Sarampo atípico ocorre em indivíduos previamente vacinados e pode apresentar um quadro clínico grave com febre alta, mialgia, e um exantema variável que pode ser macular, vesicular, petequial e ter progressão ascendente. O Sarampo hemorrágico clássico não costuma ter esse padrão em vacinados nem a progressão ascendente do rash. Reações à vacina são geralmente mais brandas. Reinfecção por rubéola teria outro perfil de rash. Varicela em vacinado é geralmente mais leve.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Considerando a descrição da fase exantemática do Sarampo, que inclui exantema maculopapular com início no rosto e região retroauricular, distribuição descendente e confluência, qual outro achado visual, se presente, corroboraria fortemente o diagnóstico de Sarampo?",
+    "options": [
+      "Presença de petéquias no palato mole (Sinal de Forchheimer).",
+      "Linfadenopatia occipital e retroauricular dolorosa.",
+      "Vesículas claras agrupadas sobre base eritematosa.",
+      "Manchas de Koplik na mucosa oral, se ainda presentes.",
+      "Descamação fina e furfurácea iniciando após o desaparecimento do exantema."
+    ],
+    "correctIndex": 3,
+    "explanation": "As Manchas de Koplik, descritas como enantema patognomônico do sarampo, localizadas na mucosa oral, são um achado visual que, se presente junto com o exantema característico, corrobora fortemente o diagnóstico. O Sinal de Forchheimer é da rubéola. Linfadenopatia é comum em várias viroses, mas a localização occipital é mais típica da rubéola. Vesículas são de outras doenças, como varicela. A descamação é posterior ao exantema do sarampo, mas as manchas de Koplik são concomitantes ou anteriores.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Por que a identificação de genótipos virais do Sarampo é considerada essencial, especialmente na fase de eliminação da doença?",
+    "options": [
+      "Para determinar a gravidade da infecção em cada paciente.",
+      "Para guiar a escolha do tratamento antiviral específico.",
+      "Para monitorar a circulação do vírus, confirmar surtos e identificar variantes genéticas, auxiliando no rastreamento da origem das infecções.",
+      "Para diferenciar rapidamente o Sarampo de outras doenças exantemáticas com base apenas no genótipo.",
+      "Para avaliar a eficácia da vacina em tempo real."
+    ],
+    "correctIndex": 2,
+    "explanation": "Na fase de eliminação do Sarampo, a confirmação laboratorial e a identificação de genótipos virais são cruciais para monitorar a circulação do vírus (confirmando casos), confirmar surtos e identificar variantes genéticas. Isso ajuda a entender as cadeias de transmissão e se o vírus é importado ou autóctone. Não serve para determinar gravidade individual, guiar tratamento antiviral (que é de suporte), diferenciar de outras doenças apenas pelo genótipo sem outros dados, ou avaliar eficácia da vacina em tempo real dessa forma.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um adolescente apresenta febre baixa, mal-estar, conjuntivite e um exantema maculopapular róseo, discreto, que iniciou na face e disseminou-se para o tronco e membros em 24 horas, sem confluência. Apresenta também linfonodos palpáveis e dolorosos na região posterior do pescoço e atrás das orelhas. Qual é a hipótese diagnóstica mais provável e qual complicação é mais comum em mulheres jovens com esta condição?",
+    "options": [
+      "Sarampo; otite média aguda.",
+      "Rubéola; artralgia ou artrite.",
+      "Escarlatina; glomerulonefrite difusa aguda.",
+      "Mononucleose infecciosa; ruptura esplênica.",
+      "Dengue; plaquetopenia severa."
+    ],
+    "correctIndex": 1,
+    "explanation": "O quadro de febre baixa, pródromos leves em adolescente (mal-estar, conjuntivite), exantema rubeoliforme (maculopapular róseo, discreto, início facial, disseminação rápida, não confluente) e linfadenopatia retroauricular e cervical é característico da Rubéola. Em mulheres jovens, a artralgia é uma manifestação comum, podendo evoluir para artrite. Sarampo teria sintomas catarrais mais intensos e exantema diferente. Escarlatina tem outro tipo de rash e complicações. Mononucleose e Dengue apresentam outros quadros clínicos predominantes.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um exantema descrito como \"morbiliforme com pápulas menores e coloração rósea\" corresponde a qual subtipo de exantema maculopapular?",
+    "options": [
+      "Escarlatiniforme, que é difuso e vermelho vivo.",
+      "Urticariforme, com lesões de contornos irregulares.",
+      "Rubeoliforme.",
+      "Morbiliforme clássico, que tende a ser mais eritematoso e confluente que a descrição.",
+      "Petequial, que envolve extravasamento de sangue."
+    ],
+    "correctIndex": 2,
+    "explanation": "O exantema rubeoliforme é definido como um tipo de exantema morbiliforme, mas com pápulas menores e uma coloração tipicamente rósea. O escarlatiniforme é diferente, sendo difuso e vermelho vivo. O urticariforme simula urticas. O morbiliforme clássico, embora seja a categoria maior, a descrição específica de pápulas menores e cor rósea aponta para o rubeoliforme. O petequial não é maculopapular da mesma forma.",
+    "type": "raciocínio"
+  }
+]

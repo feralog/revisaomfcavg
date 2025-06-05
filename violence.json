@@ -1,0 +1,392 @@
+[
+  {
+    "question": "Quais grupos são especialmente atingidos de forma continuada pela violência intrafamiliar?",
+    "options": [
+      "Apenas homens adultos e jovens.",
+      "Apenas casais em conflito.",
+      "Mulheres, crianças, adolescentes, idosos e portadores de deficiência.",
+      "Apenas indivíduos em situação de rua.",
+      "Apenas profissionais de saúde em seu ambiente de trabalho."
+    ],
+    "correctIndex": 2,
+    "explanation": "A violência intrafamiliar é um problema social que atinge, de forma continuada, especialmente mulheres, crianças, adolescentes, idosos e portadores de deficiência.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a definição de violência física intrafamiliar?",
+    "options": [
+      "Ameaças e humilhações constantes.",
+      "Obrigar a atos sexuais contra a vontade.",
+      "Uso da força física que causa ou tenta causar dano não acidental, podendo provocar lesões internas, externas ou ambas.",
+      "Roubo ou destruição de bens pessoais.",
+      "Isolamento social e privação da liberdade."
+    ],
+    "correctIndex": 2,
+    "explanation": "Violência física é o uso da força física que causa ou tenta causar dano não acidental, podendo provocar lesões internas, externas ou ambas. Exemplos incluem tapas, empurrões, socos, mordidas, chutes e queimaduras.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que caracteriza a violência sexual, segundo a definição apresentada?",
+    "options": [
+      "Apenas o estupro com penetração forçada.",
+      "Qualquer tipo de contato físico não consensual.",
+      "Ação na qual uma pessoa em relação de poder obriga outra ao ato sexual contra sua vontade, ou a expõe a interações sexuais que propiciem sua vitimização.",
+      "Insultos e desvalorização relacionados à sexualidade da vítima.",
+      "Apenas o assédio sexual em ambiente de trabalho."
+    ],
+    "correctIndex": 2,
+    "explanation": "Violência sexual é uma ação na qual uma pessoa em relação de poder obriga outra ao ato sexual contra sua vontade, ou a expõe a interações sexuais que propiciem sua vitimização. Inclui diversas formas como carícias não desejadas, penetração forçada, exposição a material pornográfico, entre outras.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual das seguintes ações é um exemplo de violência psicológica?",
+    "options": [
+      "Empurrões e tapas.",
+      "Forçar relações sexuais.",
+      "Insultos, humilhação, desvalorização, chantagem, isolamento e ridicularização.",
+      "Recusa de pagar pensão alimentícia.",
+      "Queimaduras e cortes."
+    ],
+    "correctIndex": 2,
+    "explanation": "Violência psicológica inclui ações que causam dano à autoestima, identidade ou desenvolvimento da pessoa, como insultos, humilhação, desvalorização, chantagem, isolamento, ridicularização, manipulação afetiva, exploração, negligência, ameaças e privação arbitrária da liberdade.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que é definido como violência econômica no contexto intrafamiliar?",
+    "options": [
+      "Apenas a recusa em dividir as despesas domésticas.",
+      "Atos destrutivos ou omissões que afetam a saúde emocional e a sobrevivência dos membros da família, como roubo ou destruição de bens.",
+      "Discordâncias sobre como o dinheiro da família deve ser gasto.",
+      "Apenas a falta de pagamento de pensão alimentícia.",
+      "Controle excessivo sobre os gastos do parceiro(a)."
+    ],
+    "correctIndex": 1,
+    "explanation": "Violência econômica envolve atos destrutivos ou omissões que afetam a saúde emocional e a sobrevivência dos membros da família, como roubo, destruição de bens pessoais, recusa de pagar pensão alimentícia e uso dos recursos econômicos de pessoa idosa ou incapaz, deixando-a sem provimentos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a definição de estupro apresentada no material?",
+    "options": [
+      "Qualquer contato físico de natureza sexual não desejado.",
+      "Apenas a penetração vaginal forçada utilizando o pênis.",
+      "Todo ato de penetração oral, anal ou vaginal, utilizando o pênis ou objetos e cometido à força ou sob ameaça, submetendo a vítima ao uso de drogas ou quando esta for incapaz de ter julgamento adequado.",
+      "Assédio verbal com conotação sexual explícita.",
+      "Exibicionismo e exposição a material pornográfico."
+    ],
+    "correctIndex": 2,
+    "explanation": "Estupro é definido como todo ato de penetração oral, anal ou vaginal, utilizando o pênis ou objetos e cometido à força ou sob ameaça, submetendo a vítima ao uso de drogas ou quando esta for incapaz de ter julgamento adequado.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que é violência institucional?",
+    "options": [
+      "Violência cometida por instituições financeiras contra seus clientes.",
+      "Aquela exercida nos/pelos próprios serviços públicos, por ação ou omissão, podendo abranger desde a falta de acesso à má qualidade dos serviços e abusos de poder.",
+      "Violência entre colegas de trabalho em uma instituição privada.",
+      "Apenas a violência física ocorrida dentro de presídios.",
+      "Conflitos entre diferentes instituições governamentais."
+    ],
+    "correctIndex": 1,
+    "explanation": "A violência institucional é aquela exercida nos/pelos próprios serviços públicos, por ação ou omissão. Ela pode incluir desde a dimensão mais ampla da falta de acesso à má qualidade dos serviços, até abusos cometidos em virtude das relações de poder desiguais entre usuários e profissionais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são alguns fatores de risco específicos para a violência intrafamiliar contra crianças?",
+    "options": [
+      "Ser filho único e ter bom desempenho escolar.",
+      "Pais com alto nível de escolaridade e estabilidade financeira.",
+      "Filhos não desejados, hiperatividade, deficiências físicas ou mentais.",
+      "Residir em área urbana com boa infraestrutura.",
+      "Participação em muitas atividades extracurriculares."
+    ],
+    "correctIndex": 2,
+    "explanation": "Fatores de risco específicos para a violência intrafamiliar contra crianças incluem serem filhos não desejados, apresentarem hiperatividade, ou terem deficiências físicas ou mentais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as fases do ciclo da violência contra a mulher?",
+    "options": [
+      "Negação, Raiva, Barganha, Depressão e Aceitação.",
+      "Conflito, Agressão, Arrependimento e Culpa.",
+      "Aumento da Tensão, Incidente Agudo, Lua-de-Mel e Recomeço do Ciclo.",
+      "Descoberta, Confronto, Resolução e Paz.",
+      "Isolamento, Abuso Verbal, Abuso Físico e Separação."
+    ],
+    "correctIndex": 2,
+    "explanation": "O ciclo da violência contra a mulher é descrito com as seguintes fases: Aumento da Tensão (pequenos incidentes de violência frequentes), Incidente Agudo (episódio grave de violência), Lua-de-Mel (período de arrependimento do agressor e promessas) e Recomeço do Ciclo (retorno gradual da tensão e repetição da violência).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os três pilares da atuação do profissional de saúde ao lidar com situações de violência intrafamiliar?",
+    "options": [
+      "Diagnóstico, Medicação e Alta hospitalar.",
+      "Identificação, Acolhimento e Encaminhamento.",
+      "Investigação, Punição e Reabilitação.",
+      "Observação, Registro e Arquivamento.",
+      "Prevenção, Intervenção e Monitoramento."
+    ],
+    "correctIndex": 1,
+    "explanation": "Ao lidar com situações de violência intrafamiliar, os profissionais de saúde devem atuar em três frentes principais: Identificação (observar sinais físicos, comportamentais e emocionais), Acolhimento (oferecer orientações e suporte), e Encaminhamento (mobilizar a rede de serviços especializados).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual medida específica é essencial para a prevenção da gravidez pós-estupro e deve ser iniciada em até 72 horas?",
+    "options": [
+      "Profilaxia para HIV (PEP).",
+      "Profilaxia para ISTs bacterianas.",
+      "Anticoncepção de Emergência (ACE).",
+      "Imunoprofilaxia para Hepatite B.",
+      "Aconselhamento psicológico imediato."
+    ],
+    "correctIndex": 2,
+    "explanation": "A Anticoncepção de Emergência (ACE) é uma medida essencial para a prevenção da gravidez indesejada após um estupro. Para garantir sua eficácia, a primeira dose deve ser iniciada preferencialmente o mais rápido possível, até o limite de 72 horas após o coito desprotegido.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são alguns fatores que contribuem para comportamentos violentos masculinos, segundo o material?",
+    "options": [
+      "Alto nível de escolaridade e estabilidade emocional.",
+      "Participação em atividades comunitárias e paternidade ativa.",
+      "Normas culturais que associam masculinidade à agressividade, histórico de violência na família de origem e uso abusivo de álcool e outras drogas.",
+      "Comunicação aberta no relacionamento e igualdade de gênero.",
+      "Ausência de histórico de violência e boa rede de apoio social."
+    ],
+    "correctIndex": 2,
+    "explanation": "Fatores que contribuem para comportamentos violentos masculinos incluem normas culturais que associam masculinidade à agressividade, histórico de violência na família de origem e uso abusivo de álcool e outras drogas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as 'Cinco Regras da Masculinidade' descritas no material?",
+    "options": [
+      "Ser sensível, comunicativo, colaborativo, provedor e fiel.",
+      "Ser competitivo, sexualmente potente, ter autocontrole, ser um bom provedor e fazer-se respeitar.",
+      "Ser humilde, paciente, compreensivo, trabalhador e carinhoso.",
+      "Ser atlético, inteligente, rico, influente e popular.",
+      "Ser independente, estoico, racional, dominador e protetor."
+    ],
+    "correctIndex": 1,
+    "explanation": "As 'Cinco Regras da Masculinidade' descritas são: Ser competitivo (não ter medo, vencer); Ser sexualmente potente (conquistar e manter mulheres); Ter autocontrole (não mostrar fraqueza ou emotividade); Ser um bom provedor (sustentar a família); e Fazer-se respeitar (não ser contestado por uma mulher diante de outros homens).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual o primeiro passo na abordagem da violência intrafamiliar, segundo o material?",
+    "options": [
+      "Punir o agressor imediatamente.",
+      "Encaminhar o caso para a justiça.",
+      "Garantir a segurança e proteção dos membros da família.",
+      "Iniciar terapia de casal.",
+      "Realizar uma investigação detalhada sobre as causas da violência."
+    ],
+    "correctIndex": 2,
+    "explanation": "Na abordagem da violência intrafamiliar, o primeiro passo é sempre garantir a segurança e proteção dos membros da família.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os três níveis de prevenção da violência intrafamiliar que visam romper o ciclo entre gerações?",
+    "options": [
+      "Prevenção primária, secundária e terciária.",
+      "Prevenção individual, grupal e comunitária.",
+      "Sociedade, instituições e família/indivíduo.",
+      "Prevenção legal, médica e psicológica.",
+      "Prevenção escolar, ocupacional e recreativa."
+    ],
+    "correctIndex": 2,
+    "explanation": "As ações de prevenção da violência intrafamiliar devem ocorrer em três níveis: sociedade, instituições e família/indivíduo, com o objetivo principal de romper o ciclo da violência entre gerações.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são alguns dos principais fatores de risco para tentativa de suicídio?",
+    "options": [
+      "Alto nível de escolaridade e otimismo.",
+      "Transtornos mentais, histórico familiar de suicídio, isolamento social, condições socioeconômicas precárias e abuso de substâncias.",
+      "Forte rede de apoio social e estabilidade financeira.",
+      "Prática regular de esportes e alimentação saudável.",
+      "Casamento estável e satisfação profissional."
+    ],
+    "correctIndex": 1,
+    "explanation": "Os principais fatores de risco para tentativa de suicídio incluem: transtornos mentais (como depressão), histórico familiar de suicídio, isolamento social, condições socioeconômicas precárias (como desemprego), e abuso de substâncias (álcool e drogas).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o prazo máximo para a notificação imediata de casos de tentativa de suicídio e violência sexual?",
+    "options": [
+      "7 dias.",
+      "48 horas.",
+      "24 horas após o atendimento.",
+      "No final do mês do atendimento.",
+      "Apenas quando o caso é encerrado."
+    ],
+    "correctIndex": 2,
+    "explanation": "A notificação imediata, como nos casos de tentativa de suicídio e violência sexual, deve ser realizada em até 24 horas após o atendimento.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a importância da notificação compulsória de casos de violência?",
+    "options": [
+      "Apenas para punir os agressores.",
+      "Para dar visibilidade ao problema, fornecer dados epidemiológicos para políticas públicas, permitir intervenção e cuidado, e garantir proteção e direitos às vítimas.",
+      "Somente para controle estatístico, sem impacto nas vítimas.",
+      "Para identificar profissionais de saúde negligentes.",
+      "Apenas para casos de violência contra crianças."
+    ],
+    "correctIndex": 1,
+    "explanation": "A notificação compulsória de violência é importante para dar visibilidade à magnitude e gravidade das violências, fornecer dados epidemiológicos que subsidiem políticas públicas, permitir a intervenção nos cuidados em saúde e atenção integral às vítimas, e proteger e garantir direitos através da rede de atenção e proteção.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são exemplos de LGBTIfobia institucional no setor de saúde?",
+    "options": [
+      "Oferecer atendimento prioritário para pessoas LGBTI+.",
+      "Utilizar linguagem neutra em todos os formulários.",
+      "Pressuposição de ISTs em certos grupos sem avaliação de risco, não reconhecimento da identidade de gênero de pessoas trans, desconsideração de práticas sexuais de mulheres lésbicas/bissexuais e quebra de sigilo.",
+      "Criar alas hospitalares exclusivas para pacientes LGBTI+.",
+      "Encaminhar todos os pacientes LGBTI+ para atendimento psicológico especializado."
+    ],
+    "correctIndex": 2,
+    "explanation": "Exemplos de LGBTIfobia institucional na saúde incluem: pressuposição de ISTs em homens gays, travestis e mulheres transexuais sem avaliação prévia de risco; não reconhecimento da identidade de gênero de travestis, mulheres transexuais e homens trans no atendimento; desconsideração das práticas sexuais na atenção a mulheres lésbicas e bissexuais; e quebra de sigilo sobre orientação sexual e/ou identidade de gênero.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Segundo o fluxograma do Pronto-Socorro para casos de violência, qual é o primeiro passo após a chegada do paciente?",
+    "options": [
+      "Realizar Boletim de Ocorrência.",
+      "Prescrição de profilaxias.",
+      "Acolhimento Humanizado.",
+      "Acionar o atendimento psicossocial.",
+      "Preenchimento da ficha de notificação (SINAN)."
+    ],
+    "correctIndex": 2,
+    "explanation": "O fluxograma de atendimento no Pronto-Socorro para casos de violência indica que o processo se inicia com o \"Acolhimento Humanizado\" da vítima. Este primeiro contato é fundamental para estabelecer confiança e direcionar os próximos passos do atendimento.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Uma idosa de 75 anos, dependente para atividades diárias, é trazida ao serviço de saúde pelo cuidador familiar. Ela apresenta desidratação, higiene precária e escaras. O cuidador relata que ela 'dá muito trabalho'. Qual tipo de violência é mais provável e qual a abordagem inicial do profissional de saúde?",
+    "options": [
+      "Abuso financeiro; verificar as contas bancárias da idosa.",
+      "Violência física; procurar por hematomas recentes.",
+      "Negligência; avaliar a situação de cuidado, garantir a segurança da idosa e considerar a notificação, além de oferecer suporte e orientação ao cuidador e à família.",
+      "Abuso psicológico; questionar a idosa sobre humilhações.",
+      "Violência sexual; realizar exame ginecológico detalhado."
+    ],
+    "correctIndex": 2,
+    "explanation": "Os sinais de desidratação, desnutrição (implícita pela negligência), higiene precária e escaras são indicativos de negligência contra a pessoa idosa. A abordagem inicial do profissional de saúde deve incluir a avaliação da situação para confirmar a suspeita, garantir a segurança imediata da idosa, considerar a notificação compulsória e oferecer suporte, orientação e, se necessário, intervenção junto ao cuidador e à família para melhorar as condições de cuidado.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Uma mulher relata ao profissional de saúde que seu parceiro, após um episódio de agressão física intensa (incidente agudo), demonstrou grande arrependimento, comprou presentes e prometeu mudar. Qual fase do ciclo da violência ela está descrevendo e qual a provável próxima etapa se o ciclo não for interrompido?",
+    "options": [
+      "Aumento da Tensão; a próxima fase é o incidente agudo.",
+      "Lua-de-Mel; a próxima fase é o recomeço do ciclo com gradual aumento da tensão.",
+      "Incidente Agudo; a próxima fase é a Lua-de-Mel.",
+      "Recomeço do Ciclo; a próxima fase é a estabilização da relação.",
+      "Fase de Resolução; o ciclo foi interrompido."
+    ],
+    "correctIndex": 1,
+    "explanation": "O comportamento do parceiro (arrependimento, presentes, promessas de mudança) após um episódio de agressão caracteriza a fase da \"Lua-de-Mel\" no ciclo da violência. Se o ciclo não for interrompido, a tendência é que haja um \"Recomeço do Ciclo\", com o retorno gradual da tensão, levando a um novo incidente agudo, muitas vezes com intensidade crescente.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um adolescente LGBTI+ relata sofrer bullying constante na escola e restrição de autonomia em casa devido à sua orientação sexual e identidade de gênero. Quais são os prováveis impactos na saúde mental desse adolescente e como a LGBTIfobia institucional poderia agravar seu sofrimento ao buscar ajuda?",
+    "options": [
+      "Nenhum impacto significativo, pois adolescentes são resilientes.",
+      "Apenas impactos físicos como automutilação.",
+      "Sofrimento psíquico, risco de transtornos mentais, uso abusivo de álcool/drogas. A LGBTIfobia institucional, como não reconhecimento de sua identidade ou quebra de sigilo, poderia desencorajá-lo a buscar ajuda ou invalidar sua experiência, piorando o quadro.",
+      "Apenas empobrecimento e dificuldades sociais, sem afetar a saúde mental.",
+      "Fortalecimento da identidade e maior engajamento em grupos de apoio."
+    ],
+    "correctIndex": 2,
+    "explanation": "A LGBTIfobia manifestada como bullying e restrição de autonomia pode causar graves danos à saúde mental do adolescente, incluindo sofrimento psíquico, desenvolvimento de transtornos mentais e aumento do risco de uso abusivo de álcool e outras drogas. Se, ao buscar ajuda nos serviços de saúde, ele encontrar LGBTIfobia institucional (por exemplo, desrespeito à sua identidade de gênero ou quebra de sigilo sobre sua orientação sexual), isso pode agravar seu sofrimento, gerar desconfiança nos serviços e dificultar o acesso ao cuidado necessário.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um profissional de saúde suspeita que uma criança está sofrendo violência física intencional, pois as lesões apresentadas não condizem com o relato do responsável. Qual a primeira etapa na abordagem diagnóstica, conforme orientado no material?",
+    "options": [
+      "Confrontar o responsável imediatamente e ameaçar com denúncia policial.",
+      "Realizar múltiplos exames de imagem para documentar todas as lesões.",
+      "Avaliar criticamente se a lesão está de acordo com o relato e se poderia ter sido provocada por violência intencional, considerando o diagnóstico diferencial.",
+      "Medicar a criança para dor e agendar retorno em uma semana.",
+      "Encaminhar a criança diretamente para um abrigo, sem investigação adicional."
+    ],
+    "correctIndex": 2,
+    "explanation": "Diante da suspeita de violência infantil, a primeira etapa na abordagem diagnóstica envolve um questionamento crítico por parte da equipe de saúde: avaliar se a lesão apresentada é compatível com a história relatada e se há a possibilidade de ter sido provocada intencionalmente. É fundamental também considerar o diagnóstico diferencial, ou seja, outras patologias que poderiam causar achados semelhantes, antes de concluir pela violência e tomar as medidas cabíveis.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Ao atender um homem que perpetrou violência doméstica, qual objetivo terapêutico NÃO está alinhado com as recomendações para o atendimento a agressores?",
+    "options": [
+      "Auxiliá-lo a compreender a gravidade de seu comportamento.",
+      "Justificar suas ações com base na rigidez dos papéis de gênero.",
+      "Identificar a existência de violência nas relações anteriores e na família de origem.",
+      "Levá-lo a compreender quais situações provocam o comportamento violento.",
+      "Encorajá-lo a responsabilizar-se por seus pensamentos e comportamentos."
+    ],
+    "correctIndex": 1,
+    "explanation": "Embora a rigidez dos papéis de gênero possa ajudar a entender o contexto da violência, não se deve usar isso para justificar o comportamento violento do agressor. Os objetivos no atendimento a agressores incluem ajudá-los a compreender a gravidade de seus atos, identificar padrões de violência, reconhecer gatilhos e, crucialmente, responsabilizá-los por seus pensamentos e comportamentos.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Uma mulher vítima de violência sexual procura atendimento 48 horas após o ocorrido. Quais medidas profiláticas específicas devem ser consideradas prioritariamente, de acordo com o material?",
+    "options": [
+      "Apenas aconselhamento psicológico e agendamento de retorno.",
+      "Profilaxia para ISTs (sífilis, gonorreia), HIV-Aids e prevenção da gravidez indesejada (Anticoncepção de Emergência - ACE).",
+      "Apenas imunoprofilaxia para Hepatite B.",
+      "Realização de Boletim de Ocorrência como única medida imediata.",
+      "Apenas tratamento para lesões físicas visíveis."
+    ],
+    "correctIndex": 1,
+    "explanation": "Em situações de violência sexual, medidas específicas devem ser adotadas nas primeiras 72 horas. Estas incluem a profilaxia de doenças sexualmente transmissíveis (ISTs) como sífilis e gonorreia, a profilaxia para HIV-Aids (PEP), e a prevenção da gravidez indesejada através da Anticoncepção de Emergência (ACE). A imunoprofilaxia para Hepatite B também é considerada.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Considerando as estatísticas de subnotificação da violência intrafamiliar (2% para abuso sexual infantil intrafamiliar, 15-20% para violência contra mulheres adultas), qual a principal implicação para os profissionais de saúde?",
+    "options": [
+      "Os profissionais devem focar apenas nos casos denunciados, pois são os mais graves.",
+      "A baixa notificação indica que a violência intrafamiliar não é um problema tão prevalente.",
+      "Os profissionais devem estar especialmente atentos para identificar casos suspeitos mesmo na ausência de denúncia explícita, pois a maioria dos casos permanece oculta. A notificação compulsória, quando indicada, torna-se ainda mais crucial para dar visibilidade ao problema.",
+      "A notificação não é importante, pois os dados não refletem a realidade.",
+      "Os profissionais devem aguardar que a vítima decida denunciar antes de qualquer intervenção ou notificação."
+    ],
+    "correctIndex": 2,
+    "explanation": "As altas taxas de subnotificação da violência intrafamiliar significam que a maioria dos casos não chega ao conhecimento oficial. Isso reforça a importância de os profissionais de saúde terem uma postura ativa na identificação de sinais e sintomas sugestivos de violência, mesmo quando a vítima não relata explicitamente o abuso. A notificação compulsória dos casos suspeitos ou confirmados é uma ferramenta essencial para dar visibilidade à real magnitude do problema e permitir o acionamento da rede de proteção.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um profissional de saúde preenche a ficha de notificação de violência (SINAN) e se depara com os campos 'Nome Social', 'Orientação Sexual' e 'Identidade de Gênero'. Qual a relevância desses campos para a vigilância e o cuidado em saúde?",
+    "options": [
+      "São campos opcionais e de pouca relevância para a saúde pública.",
+      "Servem apenas para identificar a vítima para fins de contato futuro.",
+      "Permitem conhecer melhor o perfil das pessoas em situação de violência, identificar vulnerabilidades específicas da população LGBTI+ à violência (incluindo LGBTIfobia) e subsidiar políticas públicas mais inclusivas e direcionadas.",
+      "São utilizados exclusivamente para encaminhamento a grupos de apoio específicos.",
+      "A coleta dessas informações é uma forma de discriminação."
+    ],
+    "correctIndex": 2,
+    "explanation": "A inclusão de campos como 'Nome Social', 'Orientação Sexual' e 'Identidade de Gênero' na ficha de notificação de violência é fundamental para dar visibilidade às violências sofridas pela população LGBTI+, muitas vezes motivadas por LGBTIfobia. Esses dados permitem entender melhor as vulnerabilidades específicas desse grupo, subsidiar o planejamento de ações de prevenção e cuidado mais adequadas e inclusivas, e monitorar a ocorrência de violência motivada por preconceito, contribuindo para a formulação de políticas públicas eficazes.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Ao atender uma pessoa que expressa ideias suicidas, qual das seguintes atitudes do profissional da atenção primária NÃO condiz com uma abordagem adequada?",
+    "options": [
+      "Realizar escuta qualificada, oferecendo acolhimento empático e sem julgamentos.",
+      "Minimizar o sofrimento da pessoa, dizendo que \"é só uma fase ruim\" e que \"logo passa\".",
+      "Avaliar o risco suicida utilizando instrumentos validados e documentar adequadamente.",
+      "Referenciar para serviços especializados quando necessário, garantindo a continuidade do cuidado.",
+      "Manter seguimento longitudinal, com contato regular e monitoramento da evolução do quadro."
+    ],
+    "correctIndex": 1,
+    "explanation": "Minimizar o sofrimento de uma pessoa que expressa ideação suicida é uma atitude inadequada e pode ser prejudicial. A abordagem profissional correta na atenção primária envolve escuta qualificada e empática, sem julgamentos; avaliação sistemática do risco; encaminhamento para serviços especializados se necessário, assegurando a continuidade do cuidado; e seguimento longitudinal. Desvalorizar os sentimentos da pessoa pode aumentar seu isolamento e desesperança.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Por que é importante para o profissional de saúde, ao notificar um caso de violência, estar ciente das estratégias de 'Comunicação Protegida' e 'Suporte Institucional'?",
+    "options": [
+      "Para garantir que a vítima receba uma indenização financeira rapidamente.",
+      "Para proteger o profissional de saúde de possíveis retaliações ou ameaças por parte do agressor ou de outros envolvidos, assegurando que a notificação possa ser feita de forma segura.",
+      "Para que o profissional possa se isentar de qualquer responsabilidade futura pelo caso.",
+      "Para que a notificação seja mantida em segredo absoluto, inclusive da rede de proteção.",
+      "Apenas para seguir um protocolo burocrático, sem impacto real na segurança."
+    ],
+    "correctIndex": 1,
+    "explanation": "A notificação de casos de violência, embora seja um dever legal e ético, pode expor o profissional a riscos. A 'Comunicação Protegida', como o uso de um informe sintético que não identifique diretamente o notificador, e o 'Suporte Institucional', que garante apoio e proteção contra retaliações, são estratégias essenciais para assegurar que os profissionais possam cumprir seu papel de notificar de forma segura, sem temer por sua integridade física ou profissional. Isso é crucial para que o sistema de vigilância e proteção funcione efetivamente.",
+    "type": "raciocínio"
+  }
+]

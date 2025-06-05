@@ -1,0 +1,392 @@
+[
+  {
+    "question": "Quais são os principais agentes etiológicos das hepatites virais?",
+    "options": [
+      "Apenas os vírus da hepatite A, B e C.",
+      "Vírus da hepatite A (HAV), vírus da hepatite B (HBV), vírus da hepatite C (HCV), vírus da hepatite D (HDV) e vírus da hepatite E (HEV).",
+      "Apenas os vírus transmitidos por via parenteral (HBV, HCV, HDV).",
+      "Vírus Epstein-Barr, Citomegalovírus e Herpesvírus.",
+      "Coronavírus, Rotavírus e Norovírus."
+    ],
+    "correctIndex": 1,
+    "explanation": "As hepatites virais são causadas por diferentes vírus hepatotrópicos, que incluem o vírus da hepatite A (HAV), o vírus da hepatite B (HBV), o vírus da hepatite C (HCV), o vírus da hepatite D (HDV) e o vírus da hepatite E (HEV). As outras opções listam combinações incompletas ou outros tipos de vírus.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o principal reservatório dos vírus da hepatite A, B, C e D?",
+    "options": [
+      "Apenas primatas não humanos.",
+      "Suínos, roedores e aves.",
+      "O ser humano.",
+      "Mosquitos e carrapatos.",
+      "Água e alimentos contaminados."
+    ],
+    "correctIndex": 2,
+    "explanation": "Para os vírus da hepatite A (HAV), hepatite B (HBV), hepatite C (HCV) e hepatite D (HDV), o principal reservatório é o ser humano. Para o vírus da hepatite E (HEV), além do ser humano, suínos, roedores e aves também podem ser reservatórios.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as fases clínicas típicas de uma hepatite viral aguda?",
+    "options": [
+      "Fase assintomática, fase de replicação viral e fase de cura.",
+      "Fase prodrômica (sintomas inespecíficos), fase ictérica e fase de convalescença.",
+      "Fase de incubação, fase crônica e fase de cirrose.",
+      "Fase febril, fase de exantema e fase de descamação.",
+      "Fase catarral, fase paroxística e fase de convalescença."
+    ],
+    "correctIndex": 1,
+    "explanation": "As manifestações clínicas de uma hepatite viral aguda geralmente seguem três fases: a fase prodrômica, com sintomas inespecíficos; a fase ictérica, marcada pelo aparecimento da icterícia e melhora de sintomas sistêmicos (embora os gastrointestinais possam piorar); e a fase de convalescença, com a recuperação gradual.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que caracteriza a hepatite fulminante?",
+    "options": [
+      "Uma infecção crônica leve que dura muitos anos.",
+      "Uma forma de hepatite que afeta apenas crianças.",
+      "Insuficiência hepática aguda com icterícia, coagulopatia e encefalopatia hepática em até 8 semanas, com alta letalidade.",
+      "Uma infecção viral que se resolve espontaneamente sem deixar sequelas.",
+      "Presença de cálculos biliares obstruindo o ducto hepático."
+    ],
+    "correctIndex": 2,
+    "explanation": "A hepatite fulminante é uma complicação rara e grave das hepatites virais, caracterizada pelo desenvolvimento de insuficiência hepática aguda (com icterícia, coagulopatia e encefalopatia hepática) em um intervalo de até 8 semanas. É uma condição potencialmente fatal, com elevada letalidade (40-80% dos casos), e pode ser causada por todos os cinco tipos de vírus da hepatite.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais vírus da hepatite são conhecidos por causar hepatite crônica?",
+    "options": [
+      "Apenas os vírus da hepatite A (HAV) e E (HEV).",
+      "Apenas o vírus da hepatite B (HBV).",
+      "Os vírus da hepatite B (HBV), C (HCV) e D (HDV), e raramente o vírus E (HEV).",
+      "Apenas o vírus da hepatite C (HCV).",
+      "Todos os cinco tipos de vírus da hepatite (A, B, C, D, E) causam cronicidade com a mesma frequência."
+    ],
+    "correctIndex": 2,
+    "explanation": "A hepatite crônica pode ser causada pelos vírus da hepatite B (HBV), C (HCV) e D (HDV). O vírus da hepatite E (HEV) também pode causar hepatite crônica, mas com maior raridade, geralmente em imunocomprometidos. O vírus da hepatite A (HAV) não causa infecção crônica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a principal medida de prevenção para a hepatite A, além da vacinação?",
+    "options": [
+      "Uso de preservativos em todas as relações sexuais.",
+      "Rastreamento sorológico em bancos de sangue.",
+      "Saneamento básico e tratamento da água.",
+      "Não compartilhamento de agulhas e seringas.",
+      "Tratamento antiviral profilático."
+    ],
+    "correctIndex": 2,
+    "explanation": "Além da vacinação, a principal medida de prevenção para a hepatite A está relacionada a melhorias nas condições de higiene e saneamento básico, incluindo o acesso à água tratada, uma vez que a transmissão do HAV é predominantemente fecal-oral.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual marcador sorológico define o diagnóstico de hepatite A aguda?",
+    "options": [
+      "Anti-HAV IgG",
+      "Anti-HAV total",
+      "HAV-RNA",
+      "Anti-HAV IgM",
+      "Antígeno de superfície do HAV (HAsAg)"
+    ],
+    "correctIndex": 3,
+    "explanation": "A presença do marcador Anti-HAV IgM define o diagnóstico de hepatite aguda A. Este anticorpo é detectado a partir do segundo dia do início dos sintomas e desaparece após cerca de 3 meses. O Anti-HAV IgG indica infecção passada ou vacinação. HAV-RNA é o material genético viral.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual marcador da hepatite B indica imunidade contra o vírus, seja por infecção prévia curada ou por vacinação?",
+    "options": [
+      "HBsAg",
+      "HBeAg",
+      "Anti-HBc IgM",
+      "Anti-HBs",
+      "Anti-HBc IgG"
+    ],
+    "correctIndex": 3,
+    "explanation": "O Anti-HBs (anticorpo contra o antígeno de superfície do HBV) indica imunidade contra o vírus da hepatite B. Sua presença pode significar que a pessoa foi vacinada com sucesso ou que teve uma infecção passada pelo HBV e se curou, desenvolvendo imunidade.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A presença do HBsAg por mais de quantos meses é indicativa de cronificação da Hepatite B?",
+    "options": [
+      "1 mês",
+      "3 meses",
+      "6 meses",
+      "9 meses",
+      "12 meses"
+    ],
+    "correctIndex": 2,
+    "explanation": "O HBsAg (antígeno de superfície do vírus da Hepatite B) é um marcador da presença da proteína viral. Se o HBsAg permanecer detectável (positivo) por um período superior a 6 meses, isso é indicativo da cronificação da infecção pela Hepatite B.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o esquema de vacinação contra hepatite B recomendado para crianças, integrado à vacina Pentavalente?",
+    "options": [
+      "Uma dose ao nascer e um reforço aos 12 meses.",
+      "Três doses: aos 2, 4 e 6 meses de idade.",
+      "Quatro doses: ao nascer, aos 2 meses, aos 4 meses e aos 6 meses de idade.",
+      "Duas doses com intervalo de 6 meses, a partir de 1 ano de idade.",
+      "Dose única ao nascer."
+    ],
+    "correctIndex": 2,
+    "explanation": "A vacinação contra hepatite B para crianças inclui uma dose ao nascer (preferencialmente nas primeiras horas de vida) e mais três doses aos 2, 4 e 6 meses de idade, geralmente como parte da vacina Pentavalente. A vacina Pentavalente protege contra difteria, tétano, coqueluche, Haemophilus influenzae tipo B e hepatite B.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual marcador é utilizado para diagnosticar a infecção pelo vírus da hepatite C (HCV) e também para avaliar a resposta ao tratamento (cura)?",
+    "options": [
+      "Apenas Anti-HCV IgM.",
+      "HCV-RNA (material genético do vírus).",
+      "Apenas Anti-HCV IgG.",
+      "Antígeno de superfície do HCV (HCVsAg).",
+      "Transaminases (TGO/TGP)."
+    ],
+    "correctIndex": 1,
+    "explanation": "O HCV-RNA, que é o material genético do vírus da hepatite C, é fundamental para complementar o diagnóstico da infecção (especialmente em fases precoces ou para confirmar infecção ativa em Anti-HCV positivos) e é o principal marcador para definir a cura após o tratamento, conhecida como Resposta Virológica Sustentada (RVS), quando o HCV-RNA se torna indetectável.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a principal manifestação clínica da hepatite C, ocorrendo na maioria dos pacientes infectados?",
+    "options": [
+      "Hepatite aguda sintomática grave.",
+      "Hepatite fulminante.",
+      "Hepatite crônica, com cerca de 80% dos pacientes cronificando.",
+      "Resolução espontânea da infecção sem sintomas.",
+      "Icterícia prolongada por mais de 6 meses."
+    ],
+    "correctIndex": 2,
+    "explanation": "A principal manifestação da hepatite C é a sua tendência à cronificação, com aproximadamente 80% dos pacientes infectados desenvolvendo hepatite crônica. A fase aguda da hepatite C é, na maioria das vezes, assintomática ou oligossintomática. A hepatite crônica C é uma causa importante de cirrose e carcinoma hepatocelular.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A infecção pelo vírus da hepatite D (HDV) requer obrigatoriamente a coinfecção ou superinfecção com qual outro vírus da hepatite?",
+    "options": [
+      "Vírus da hepatite A (HAV)",
+      "Vírus da hepatite B (HBV)",
+      "Vírus da hepatite C (HCV)",
+      "Vírus da hepatite E (HEV)",
+      "Citomegalovírus (CMV)"
+    ],
+    "correctIndex": 1,
+    "explanation": "O vírus da hepatite D (HDV) é um vírus defectivo que necessita obrigatoriamente da presença do vírus da hepatite B (HBV) para a sua replicação e para causar infecção. Especificamente, ele utiliza o antígeno de superfície do HBV (HBsAg).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em qual região do Brasil se concentra a maioria dos casos notificados de hepatite D?",
+    "options": [
+      "Região Sul",
+      "Região Sudeste",
+      "Região Centro-Oeste",
+      "Região Nordeste",
+      "Região Norte (Bacia Amazônica)"
+    ],
+    "correctIndex": 4,
+    "explanation": "Aproximadamente 75% dos casos notificados de hepatite D no Brasil encontram-se na região Norte, sendo a Bacia Amazônica uma área endêmica para o HBV, o que favorece a circulação do HDV, especialmente em populações rurais e indígenas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual marcador sorológico é específico para o diagnóstico de hepatite E em indivíduos infectados recentemente?",
+    "options": [
+      "Anti-HEV IgG",
+      "Anti-HEV total",
+      "HEV-RNA",
+      "Anti-HEV IgM",
+      "Antígeno de superfície do HEV (HEsAg)"
+    ],
+    "correctIndex": 3,
+    "explanation": "O Anti-HEV IgM é o marcador sorológico específico para o diagnóstico de hepatite E em indivíduos infectados recentemente. Ele se torna reagente de 4 a 5 dias após o início dos sintomas e desaparece de 4 a 5 meses depois. O Anti-HEV IgG indica infecção passada.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A detecção de material genético ou antígenos virais por um período superior a quantos meses após o diagnóstico inicial caracteriza a cronicidade das hepatites B, C ou D?",
+    "options": [
+      "1 mês",
+      "3 meses",
+      "6 meses",
+      "12 meses",
+      "24 meses"
+    ],
+    "correctIndex": 2,
+    "explanation": "A cronicidade das hepatites virais B, C e D é caracterizada pela detecção persistente de material genético viral (como HBV-DNA, HCV-RNA, HDV-RNA) ou antígenos virais (como HBsAg) por um período superior a 6 meses após o diagnóstico inicial da infecção.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a conduta de profilaxia para um recém-nascido de mãe HBsAg positiva?",
+    "options": [
+      "Apenas vacinação contra hepatite B nas primeiras horas de vida.",
+      "Apenas administração de Imunoglobulina Humana Anti-Hepatite B (HBIG).",
+      "Vacinação contra hepatite B mais administração de Imunoglobulina Humana Anti-Hepatite B (HBIG), preferencialmente nas primeiras horas de vida.",
+      "Iniciar Tenofovir para o recém-nascido por 1 mês.",
+      "Adiar a vacinação até os 2 meses de idade."
+    ],
+    "correctIndex": 2,
+    "explanation": "Para todo recém-nascido de mãe HBsAg positiva, a profilaxia da transmissão vertical da hepatite B inclui a administração da primeira dose da vacina contra hepatite B e da Imunoglobulina Humana Anti-Hepatite B (HBIG), ambas preferencialmente nas primeiras 12-24 horas de vida.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que significa o termo 'Resposta Virológica Sustentada' (RVS) no tratamento da hepatite C?",
+    "options": [
+      "Redução dos sintomas clínicos por mais de 6 meses.",
+      "Normalização das transaminases por 12 semanas.",
+      "Ausência de HCV-RNA detectável no sangue após um determinado período do término do tratamento (geralmente 12 ou 24 semanas), indicando cura da infecção.",
+      "Desenvolvimento de anticorpos Anti-HCV protetores.",
+      "Negativação do HBeAg e aparecimento do Anti-HBe."
+    ],
+    "correctIndex": 2,
+    "explanation": "No tratamento da hepatite C, a cura é definida pela Resposta Virológica Sustentada (RVS). Isso significa que o HCV-RNA (material genético do vírus) não é mais detectável no sangue do paciente após um período específico do término do tratamento (12 semanas para antivirais de ação direta ou 24 semanas para esquemas mais antigos com Interferon).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Para qual tipo de hepatite viral NÃO existe vacina disponível atualmente?",
+    "options": [
+      "Hepatite A",
+      "Hepatite B",
+      "Hepatite C",
+      "Hepatite E (em alguns países, mas não amplamente disponível no Brasil)",
+      "Hepatite D (indiretamente prevenida pela vacina da Hepatite B)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Atualmente, não existe vacina disponível contra a hepatite C. Vacinas estão disponíveis para hepatite A e hepatite B (que indiretamente previne a hepatite D). Uma vacina para hepatite E existe em alguns países, mas não tem uso disseminado globalmente ou no Brasil no contexto do PNI.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Além do ser humano, quais outros reservatórios são conhecidos para o vírus da hepatite E (HEV)?",
+    "options": [
+      "Apenas aves domésticas.",
+      "Apenas primatas e morcegos.",
+      "Suínos, roedores e aves.",
+      "Peixes e frutos do mar.",
+      "O HEV tem reservatório exclusivamente humano."
+    ],
+    "correctIndex": 2,
+    "explanation": "O vírus da hepatite E (HEV) tem como reservatório o ser humano, mas também pode infectar outras espécies animais, como suínos, roedores e aves, que podem atuar como fontes de infecção para humanos (transmissão zoonótica).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente apresenta HBsAg positivo, HBeAg positivo, Anti-HBc IgM positivo e Anti-HBs negativo. Qual o diagnóstico mais provável para este perfil sorológico da Hepatite B?",
+    "options": [
+      "Hepatite B crônica inativa.",
+      "Vacinação bem-sucedida para Hepatite B.",
+      "Hepatite B aguda.",
+      "Contato prévio com HBV com evolução para cura.",
+      "Fase de janela imunológica da Hepatite B."
+    ],
+    "correctIndex": 2,
+    "explanation": "Este perfil sorológico (HBsAg+, HBeAg+, Anti-HBc IgM+, Anti-HBs-) é característico de Hepatite B aguda. O HBsAg positivo indica infecção. O HBeAg positivo sugere alta replicação viral. O Anti-HBc IgM positivo é o marcador clássico da fase aguda da infecção. A ausência de Anti-HBs indica que não há imunidade (nem por cura nem por vacina).",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um indivíduo apresenta os seguintes resultados para hepatite C: Anti-HCV positivo e HCV-RNA negativo. Qual das seguintes interpretações é a mais adequada?",
+    "options": [
+      "Hepatite C aguda em fase inicial, antes da detecção do RNA.",
+      "Hepatite C crônica com alta replicação viral.",
+      "Nunca teve contato com o vírus da hepatite C.",
+      "Hepatite C curada (espontaneamente ou após tratamento) ou um resultado Anti-HCV falso positivo.",
+      "Infecção aguda por Hepatite C com incapacidade de produzir anticorpos."
+    ],
+    "correctIndex": 3,
+    "explanation": "Um resultado de Anti-HCV positivo indica exposição ao vírus da hepatite C. Se o HCV-RNA (que detecta o vírus propriamente dito) está negativo, isso sugere que não há infecção ativa no momento. As possibilidades incluem: cura da hepatite C (seja espontânea, que é rara, ou após tratamento bem-sucedido) ou, menos comumente, um resultado Anti-HCV falso positivo. Uma investigação adicional, incluindo a repetição do HCV-RNA, pode ser necessária para confirmar a ausência de viremia.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Por que a investigação da hepatite D deve ser prioritariamente realizada em indivíduos HBsAg positivos que residam ou tenham estado em áreas endêmicas como a Bacia Amazônica?",
+    "options": [
+      "Porque o HDV é mais virulento nessas regiões, infectando mesmo sem o HBV.",
+      "Porque o HDV só consegue se replicar na presença do HBsAg (vírus da hepatite B), e a Bacia Amazônica é uma região onde a hepatite B também é endêmica, favorecendo a coinfecção ou superinfecção pelo HDV.",
+      "Porque o clima da Bacia Amazônica facilita a transmissão do HDV por vetores.",
+      "Porque a vacina contra hepatite B não é eficaz contra as cepas de HBV presentes na Amazônia, aumentando o risco para HDV.",
+      "Porque a hepatite D é uma forma leve de hepatite B, comum em áreas rurais."
+    ],
+    "correctIndex": 1,
+    "explanation": "O vírus da hepatite D (HDV) é um vírus defectivo que depende da presença do antígeno de superfície do vírus da hepatite B (HBsAg) para sua replicação e infecção. A Bacia Amazônica é uma área endêmica tanto para HBV quanto para HDV. Portanto, indivíduos que são HBsAg positivos (portadores crônicos de hepatite B ou com infecção aguda por HBV) e que vivem ou estiveram nessas áreas endêmicas têm um risco aumentado de estarem coinfectados ou superinfectados pelo HDV.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um profissional de saúde realizou o esquema completo de vacinação para hepatite B e, 60 dias após a última dose, seu Anti-HBs foi de 5 UI/mL. Qual a interpretação e conduta mais provável?",
+    "options": [
+      "Imunidade excelente, não necessita de mais doses.",
+      "Resposta vacinal inadequada (Anti-HBs < 10 UI/mL); geralmente se recomenda um novo esquema vacinal completo (mais 3 doses) e reavaliação do Anti-HBs.",
+      "Indica infecção aguda por hepatite B.",
+      "O profissional deve receber imunoglobulina imediatamente.",
+      "O resultado é inconclusivo e deve ser repetido em 1 ano."
+    ],
+    "correctIndex": 1,
+    "explanation": "Um título de Anti-HBs maior que 10 UI/mL é considerado protetor e indica resposta adequada à vacinação contra hepatite B. Um resultado de 5 UI/mL é inferior a 10 UI/mL, indicando uma resposta vacinal inadequada. Para profissionais de saúde, que têm maior risco de exposição, a conduta geralmente envolve a repetição do esquema vacinal completo (mais três doses) e uma nova testagem para Anti-HBs 30-60 dias após a última dose do novo esquema.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Se um surto de hepatite com icterícia e sintomas gastrointestinais ocorre em uma creche onde as condições de higiene são precárias, qual tipo de hepatite viral seria o mais provável de estar causando o surto e por quê?",
+    "options": [
+      "Hepatite C, devido à alta taxa de cronicidade.",
+      "Hepatite B, transmitida pelo contato com sangue durante brincadeiras.",
+      "Hepatite A, pois sua transmissão é fecal-oral e está associada a condições sanitárias inadequadas e higiene deficiente, comuns em surtos em instituições como creches.",
+      "Hepatite D, pois crianças são mais suscetíveis à coinfecção.",
+      "Hepatite E, pois o reservatório inclui animais que podem estar próximos à creche."
+    ],
+    "correctIndex": 2,
+    "explanation": "A hepatite A é transmitida primariamente pela via fecal-oral. Surtos em ambientes como creches, onde crianças pequenas têm contato próximo e as práticas de higiene podem ser mais difíceis de manter consistentemente, são característicos da hepatite A, especialmente se houver condições sanitárias inadequadas. As outras hepatites têm vias de transmissão diferentes (parenteral, sexual) que não se encaixam tão bem nesse cenário de surto em creche com higiene precária.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente diagnosticado com hepatite C crônica pergunta sobre a possibilidade de reinfecção após um tratamento bem-sucedido (RVS). Qual informação sobre a imunidade na hepatite C é correta?",
+    "options": [
+      "A cura da hepatite C com RVS confere imunidade permanente contra todas as cepas do HCV.",
+      "A sorologia Anti-HCV reagente após a cura indica imunidade protetora.",
+      "A infecção ou a cura da hepatite C não conferem imunidade protetora contra reinfecção pelo HCV. Indivíduos curados podem ser reinfectados se expostos novamente ao vírus.",
+      "Apenas a vacinação contra hepatite C (quando disponível) poderá conferir imunidade duradoura.",
+      "Reinfecção só é possível se o paciente também tiver coinfecção com HBV."
+    ],
+    "correctIndex": 2,
+    "explanation": "Na hepatite C, nem a infecção natural resolvida nem a cura obtida por tratamento conferem imunidade protetora duradoura contra uma nova infecção pelo HCV. Isso significa que uma pessoa que foi curada da hepatite C pode ser reinfectada se for exposta novamente ao vírus. A presença de Anti-HCV reagente após a cura indica apenas contato prévio, não imunidade.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Uma gestante no terceiro trimestre apresenta HBsAg positivo e alta carga viral de HBV. Qual a principal intervenção, além da profilaxia do recém-nascido, para reduzir o risco de transmissão vertical da hepatite B?",
+    "options": [
+      "Realizar cesariana eletiva em todos os casos.",
+      "Suspender o aleitamento materno.",
+      "Administrar imunoglobulina para a gestante mensalmente.",
+      "Considerar o uso de terapia antiviral para a mãe (ex: Tenofovir) a partir do terceiro trimestre (geralmente 28ª semana) para diminuir a carga viral materna.",
+      "Vacinar a gestante com doses extras de vacina contra hepatite B."
+    ],
+    "correctIndex": 3,
+    "explanation": "Para gestantes com HBsAg positivo e alta viremia (alta carga viral de HBV), uma estratégia importante para reduzir o risco de transmissão vertical, além da vacinação e imunoglobulina para o recém-nascido, é a administração de terapia antiviral para a mãe, como o Tenofovir. Este tratamento é geralmente iniciado a partir do terceiro trimestre (por volta da 28ª semana de gestação) e continuado por um período após o parto, com o objetivo de reduzir significativamente a carga viral materna no momento do parto, diminuindo assim a chance de infecção do bebê.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Por que o diagnóstico etiológico de uma hepatite aguda geralmente não pode ser feito apenas com base em dados clínicos e epidemiológicos, sendo necessários exames laboratoriais específicos?",
+    "options": [
+      "Porque todas as hepatites virais apresentam exatamente os mesmos sintomas e evolução.",
+      "Porque os sintomas prodrômicos (como mal-estar, náuseas, febre baixa) e mesmo a icterícia são inespecíficos e podem ocorrer em diversas hepatites virais e outras condições hepáticas. Apenas exames sorológicos e/ou moleculares específicos podem identificar o agente etiológico.",
+      "Porque os dados epidemiológicos são irrelevantes para o diagnóstico de hepatites.",
+      "Porque os testes laboratoriais são mais baratos e rápidos que a avaliação clínica.",
+      "Apenas em casos de hepatite fulminante o diagnóstico clínico é suficiente."
+    ],
+    "correctIndex": 1,
+    "explanation": "As manifestações clínicas da fase aguda das diferentes hepatites virais são muito semelhantes e inespecíficas (anorexia, náuseas, mal-estar, icterícia, etc.). Assim, apenas com base nos sintomas e dados epidemiológicos gerais (exceto em situações de surtos bem definidos de hepatite A, por exemplo), não é possível determinar com certeza qual vírus está causando a hepatite. São necessários exames laboratoriais específicos (marcadores sorológicos e/ou moleculares para cada tipo de vírus) para estabelecer a etiologia correta.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente apresenta Anti-HBc IgG positivo, HBsAg negativo e Anti-HBs positivo. Qual a interpretação mais provável desse perfil sorológico da hepatite B?",
+    "options": [
+      "Hepatite B aguda.",
+      "Hepatite B crônica ativa.",
+      "Indivíduo nunca exposto ao HBV nem vacinado.",
+      "Contato prévio com o vírus da hepatite B com desenvolvimento de imunidade (cura) OU vacinação bem-sucedida se Anti-HBc IgG fosse o único marcador (mas aqui o Anti-HBc IgG indica infecção natural prévia). Como HBsAg é negativo, indica resolução da infecção.",
+      "Infecção crônica pelo HBV com baixa replicação viral."
+    ],
+    "correctIndex": 3,
+    "explanation": "Este perfil sorológico (Anti-HBc IgG positivo, HBsAg negativo, Anti-HBs positivo) indica que o indivíduo teve uma infecção passada pelo vírus da hepatite B e desenvolveu imunidade, ou seja, curou-se. O Anti-HBc IgG positivo mostra que houve contato com o vírus selvagem (não é induzido pela vacina). O HBsAg negativo significa que não há infecção ativa. O Anti-HBs positivo confirma a presença de anticorpos protetores. Se apenas o Anti-HBs fosse positivo (e Anti-HBc IgG negativo), poderia ser apenas vacinação, mas a presença do Anti-HBc IgG aponta para infecção natural prévia resolvida.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual a importância de se realizar o teste para Anti-HBs em profissionais de saúde após o esquema vacinal completo para hepatite B?",
+    "options": [
+      "Não é necessário, pois a vacina tem 100% de eficácia em todos os indivíduos.",
+      "Apenas para cumprir uma exigência burocrática, sem relevância clínica.",
+      "Para verificar a soroconversão e confirmar se foi atingido um nível de anticorpos protetores (geralmente Anti-HBs > 10 UI/mL), garantindo que o profissional está adequadamente imunizado, dado o maior risco de exposição ocupacional ao HBV.",
+      "Para diagnosticar uma possível infecção crônica pelo HBV causada pela vacina.",
+      "Para determinar se o profissional precisa de doses de reforço anuais, independentemente do resultado."
+    ],
+    "correctIndex": 2,
+    "explanation": "Profissionais de saúde têm um risco aumentado de exposição ocupacional ao vírus da hepatite B. A realização do teste para Anti-HBs (geralmente 30 a 60 dias após a última dose do esquema vacinal) é importante para confirmar se houve uma resposta imunológica adequada à vacina, ou seja, se foram produzidos anticorpos em níveis considerados protetores (tipicamente > 10 UI/mL). Se a resposta for inadequada, podem ser necessárias doses adicionais de vacina ou um esquema de revacinação.",
+    "type": "raciocínio"
+  }
+]

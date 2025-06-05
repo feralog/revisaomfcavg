@@ -1,0 +1,392 @@
+[
+  {
+    "question": "Qual é a principal forma de transmissão dos vírus da dengue, chikungunya e Zika em humanos?",
+    "options": [
+      "Transfusão de sangue contaminado.",
+      "Transmissão vertical da gestante para o feto.",
+      "Via vetorial, pela picada de fêmeas de Aedes aegypti infectadas.",
+      "Contato direto com secreções de uma pessoa infectada.",
+      "Ingestão de água ou alimentos contaminados."
+    ],
+    "correctIndex": 2,
+    "explanation": "Embora os três arbovírus (dengue, chikungunya e Zika) possam ser transmitidos por via vertical e transfusional, a principal forma de transmissão é a vetorial, que ocorre pela picada de fêmeas do mosquito Aedes aegypti infectadas, no ciclo humano-vetor-humano.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o agente etiológico da dengue e quantos sorotipos ele possui?",
+    "options": [
+      "Vírus chikungunya (CHIKV), com um único sorotipo.",
+      "Vírus Zika (ZIKV), com múltiplos genótipos.",
+      "Vírus dengue (DENV), que possui quatro sorotipos.",
+      "Vírus da febre amarela, da família Flaviviridae.",
+      "Alphavirus, causador de encefalites equinas."
+    ],
+    "correctIndex": 2,
+    "explanation": "A dengue é causada pelo vírus dengue (DENV), um arbovírus que possui quatro sorotipos conhecidos (DENV-1, DENV-2, DENV-3 e DENV-4). O CHIKV causa chikungunya e o ZIKV causa Zika.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Além da transmissão vetorial, quais outros modos de transmissão são conhecidos para o vírus Zika (ZIKV)?",
+    "options": [
+      "Apenas por via aérea e contato com fômites.",
+      "Exclusivamente por transmissão vertical durante o parto.",
+      "Transfusão de sangue, transplante de órgãos e transmissão sexual.",
+      "Apenas por ingestão de alimentos crus contaminados.",
+      "Contato com animais silvestres infectados."
+    ],
+    "correctIndex": 2,
+    "explanation": "O vírus Zika (ZIKV), além da transmissão vetorial, pode ser transmitido por transfusão de sangue e transplante de órgãos, e também por via sexual.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quanto tempo, em média, um ovo de *Aedes aegypti* demora para se transformar em um mosquito adulto?",
+    "options": [
+      "1 a 2 dias.",
+      "3 a 5 dias.",
+      "7 a 10 dias.",
+      "15 a 20 dias.",
+      "Mais de 30 dias."
+    ],
+    "correctIndex": 2,
+    "explanation": "De acordo com o ciclo de vida do *Aedes aegypti* ilustrado, um ovo demora entre 7 e 10 dias para se tornar um mosquito adulto. As larvas se convertem em pupas em 5 dias, e as pupas demoram de 2 a alguns dias (o texto cita 'e dias', que pode ser interpretado como poucos dias, mas o total é de 7-10 dias) para se transformarem em mosquitos adultos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual arbovirose tem a transmissão vertical (gestante-feto) associada a um amplo espectro de malformações no feto, incluindo aborto?",
+    "options": [
+      "Dengue, cujos relatos são comuns e sempre graves.",
+      "Chikungunya, que frequentemente causa infecção neonatal leve.",
+      "Zika, que pode ser transmitida em diferentes idades gestacionais e resultar em malformações.",
+      "Febre amarela, devido à sua alta letalidade.",
+      "Mayaro, transmitida por mosquitos Haemagogus."
+    ],
+    "correctIndex": 2,
+    "explanation": "A transmissão vertical do vírus Zika (ZIKV) pode ocorrer em diferentes idades gestacionais e está associada a um amplo espectro de malformações no feto, incluindo aborto. A transmissão vertical de dengue é rara, e a de chikungunya, embora possa causar infecção neonatal grave se a gestante estiver virêmica no periparto, é considerada rara antes da 22ª semana de gestação.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Conforme a Portaria n.º 1.061/2020, dengue, chikungunya e Zika são doenças de notificação compulsória. A quem deve ser notificado todo caso suspeito e/ou confirmado?",
+    "options": [
+      "Apenas ao Ministério da Saúde, em Brasília.",
+      "Diretamente à Organização Mundial da Saúde (OMS).",
+      "Ao Serviço de Vigilância Epidemiológica da Secretaria Municipal de Saúde (SMS).",
+      "Apenas aos hospitais de referência para doenças infecciosas.",
+      "Ao conselho regional de medicina do estado."
+    ],
+    "correctIndex": 2,
+    "explanation": "Dengue, chikungunya e Zika são doenças de notificação compulsória. Todo caso suspeito e/ou confirmado deve ser obrigatoriamente notificado ao Serviço de Vigilância Epidemiológica da Secretaria Municipal de Saúde (SMS).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o prazo para o encerramento oportuno dos casos notificados de dengue, chikungunya e Zika?",
+    "options": [
+      "Até 7 dias após a notificação.",
+      "Até 30 dias após a notificação.",
+      "Até 60 dias após a data da notificação.",
+      "Até 90 dias após a notificação.",
+      "Não há prazo definido para o encerramento."
+    ],
+    "correctIndex": 2,
+    "explanation": "Os casos de dengue, chikungunya e Zika devem ser encerrados oportunamente em até 60 dias após a data da notificação.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as medidas individuais recomendadas para controle da transmissão dos vírus durante o período de viremia do paciente?",
+    "options": [
+      "Apenas isolamento domiciliar completo.",
+      "Uso de telas e repelentes pelo paciente.",
+      "Vacinação imediata de todos os contatos.",
+      "Aplicação de adulticida dentro da residência do paciente.",
+      "Tratamento antiviral específico para reduzir a viremia."
+    ],
+    "correctIndex": 1,
+    "explanation": "Para controle da transmissão dos vírus, orienta-se que o paciente adote medidas individuais durante o período de viremia, como o uso de telas e repelentes, a fim de evitar novas transmissões, especialmente para familiares e vizinhos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que é vigilância entomológica no contexto das arboviroses?",
+    "options": [
+      "O monitoramento dos sintomas dos pacientes infectados.",
+      "A contagem de casos confirmados em uma determinada região.",
+      "Uma atividade baseada em indicadores para detectar a presença, distribuição e densidade de vetores, estimando riscos de transmissão.",
+      "O desenvolvimento de novas vacinas contra os arbovírus.",
+      "A aplicação de inseticidas em larga escala de forma preventiva."
+    ],
+    "correctIndex": 2,
+    "explanation": "Vigilância entomológica é uma atividade baseada em indicadores que visa detectar a presença, a distribuição geográfica e a densidade de vetores (como o *Aedes aegypti*) no tempo e no espaço, permitindo assim estimar os riscos de transmissão de patógenos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as três fases clínicas que a dengue pode apresentar?",
+    "options": [
+      "Incubação, sintomática e crônica.",
+      "Aguda, subaguda e de longa duração.",
+      "Febril, crítica e de recuperação.",
+      "Leve, moderada e grave.",
+      "Viral, bacteriana e fúngica."
+    ],
+    "correctIndex": 2,
+    "explanation": "A dengue pode apresentar três fases clínicas distintas: a fase febril, a fase crítica e a fase de recuperação.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são alguns dos sinais de alarme da dengue que indicam possível piora clínica e evolução para choque?",
+    "options": [
+      "Apenas febre alta e dor de cabeça intensa.",
+      "Exantema pruriginoso e conjuntivite.",
+      "Dor abdominal intensa e contínua, vômitos persistentes, acúmulo de líquidos, hipotensão postural, letargia/irritabilidade, hepatomegalia, sangramento de mucosa e aumento progressivo do hematócrito.",
+      "Artralgia intensa e rigidez matinal.",
+      "Tosse seca persistente e dificuldade para engolir."
+    ],
+    "correctIndex": 2,
+    "explanation": "Os sinais de alarme da dengue incluem: dor abdominal intensa (referida ou à palpação) e contínua; vômitos persistentes; acúmulo de líquidos (ascite, derrame pleural, derrame pericárdico); hipotensão postural e/ou lipotímia; letargia e/ou irritabilidade; hepatomegalia maior do que 2 cm abaixo do rebordo costal; sangramento de mucosa; e aumento progressivo do hematócrito.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais métodos diretos são utilizados para o diagnóstico laboratorial da dengue nos primeiros dias da doença (1º ao 5º dia)?",
+    "options": [
+      "Apenas pesquisa de anticorpos IgM por ELISA.",
+      "Pesquisa de vírus (isolamento viral) e pesquisa de genoma viral por RT-PCR (NS1).",
+      "Apenas Teste de neutralização por redução de placas (PRNT).",
+      "Apenas pesquisa de antígeno NS1 por ELISA.",
+      "Hemograma completo e contagem de plaquetas."
+    ],
+    "correctIndex": 1,
+    "explanation": "Nos primeiros dias da dengue (1º ao 5º dia), os métodos diretos de diagnóstico laboratorial incluem a pesquisa de vírus (isolamento viral por inoculação em células) e a pesquisa de genoma do vírus da dengue por transcrição reversa seguida de reação em cadeia da polimerase (RT-PCR), que pode detectar o antígeno NS1.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as três fases em que a doença causada pelo vírus chikungunya pode evoluir no paciente?",
+    "options": [
+      "Leve, moderada e grave.",
+      "Incubação, sintomática e de resolução.",
+      "Febril ou aguda, pós-aguda e crônica.",
+      "Artrítica, neurológica e dermatológica.",
+      "Infecção primária, latência e reativação."
+    ],
+    "correctIndex": 2,
+    "explanation": "A doença causada pelo vírus chikungunya pode evoluir em três fases no paciente: a fase febril ou aguda, a fase pós-aguda e a fase crônica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a principal característica da fase aguda da chikungunya?",
+    "options": [
+      "Exantema pruriginoso como sintoma predominante.",
+      "Febre alta de início súbito (>38,5°C) e surgimento de intensa poliartralgia.",
+      "Sintomas neurológicos como meningoencefalite.",
+      "Ausência de febre, mas com artrite persistente.",
+      "Apenas sintomas gastrointestinais como vômitos e diarreia."
+    ],
+    "correctIndex": 1,
+    "explanation": "A fase aguda (ou febril) da chikungunya é caracterizada principalmente por febre alta de início súbito (geralmente acima de 38,5°C) e o surgimento de intensa poliartralgia (dor em múltiplas articulações). Estes são frequentemente acompanhados de dorsalgia, exantema, cefaleia, mialgia e fadiga.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais medicamentos são contraindicados na fase aguda da chikungunya?",
+    "options": [
+      "Apenas paracetamol e dipirona.",
+      "Anti-inflamatórios não esteroides (AINEs), corticosteroides e ácido acetilsalicílico (AAS).",
+      "Apenas anti-histamínicos para o prurido.",
+      "Todos os tipos de analgésicos opioides.",
+      "Antibióticos de amplo espectro."
+    ],
+    "correctIndex": 1,
+    "explanation": "Na fase aguda da chikungunya, os anti-inflamatórios não esteroides (AINEs) e os corticosteroides não devem ser utilizados. O ácido acetilsalicílico (AAS) também é contraindicado devido ao risco de síndrome de Reye e de sangramento. O tratamento é focado em analgesia e suporte.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Além da transmissão vetorial, quais outras formas de transmissão do vírus Zika são conhecidas?",
+    "options": [
+      "Apenas por via aérea.",
+      "Sexual, pós-transfusional e vertical (transplacentária).",
+      "Apenas por contato com animais infectados.",
+      "Ingestão de água não tratada.",
+      "Contato casual como aperto de mãos."
+    ],
+    "correctIndex": 1,
+    "explanation": "As formas de transmissão do vírus Zika incluem a vetorial (principal), sexual, pós-transfusional e vertical (transplacentária).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é uma consequência grave associada à infecção pelo vírus Zika, especialmente em gestantes?",
+    "options": [
+      "Desenvolvimento de artrite crônica incapacitante.",
+      "Alta taxa de letalidade em adultos saudáveis.",
+      "Potencial teratogênico, associado a casos graves de malformações congênitas, como microcefalia.",
+      "Evolução frequente para choque hemorrágico.",
+      "Insuficiência renal crônica."
+    ],
+    "correctIndex": 2,
+    "explanation": "O vírus Zika é potencialmente teratogênico e sua infecção durante a gestação está associada a casos graves de malformações congênitas, sendo a microcefalia uma das mais conhecidas. Gestantes, mesmo assintomáticas, podem transmitir o vírus ao feto, podendo resultar em aborto espontâneo, óbito fetal ou malformações congênitas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em que amostras e período é recomendada a pesquisa de genoma do vírus Zika por RT-PCR?",
+    "options": [
+      "Apenas no sangue, do 6º ao 10º dia de sintomas.",
+      "No sangue do 1º ao 5º dia de sintomas, e na urina do 1º ao 15º dia de sintomas.",
+      "Apenas na urina, após o 10º dia de sintomas.",
+      "No líquido cefalorraquidiano, em qualquer fase da doença.",
+      "No sangue e na urina, apenas após o 15º dia de sintomas."
+    ],
+    "correctIndex": 1,
+    "explanation": "Para o diagnóstico laboratorial da infecção pelo vírus Zika por métodos diretos, a pesquisa de genoma viral por RT-PCR é recomendada no sangue do 1º ao 5º dia do início dos sintomas, e na urina do 1º ao 15º dia do início dos sintomas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a principal orientação de tratamento para casos sintomáticos de Zika?",
+    "options": [
+      "Uso de antivirais específicos como Oseltamivir.",
+      "Administração de corticosteroides para reduzir a inflamação.",
+      "Repouso relativo, estímulo à ingestão de líquidos, administração de paracetamol ou dipirona para dor/febre, e não administrar ácido acetilsalicílico.",
+      "Internação hospitalar imediata para todos os casos suspeitos.",
+      "Uso de anti-inflamatórios não esteroides (AINEs) para alívio da artralgia."
+    ],
+    "correctIndex": 2,
+    "explanation": "Para os quadros sintomáticos de Zika, o tratamento é de suporte e inclui repouso relativo enquanto durar a febre e estímulo à ingestão de líquidos. Para dor ou febre, podem ser administrados paracetamol ou dipirona. É importante não administrar ácido acetilsalicílico. Anti-histamínicos podem ser usados para prurido.",
+    "type": "conteudista"
+  },
+  {
+    "question": "De acordo com o QUADRO 1, quais são algumas manifestações neurológicas que podem ocorrer em formas atípicas de chikungunya?",
+    "options": [
+      "Apenas cefaleia e mialgia.",
+      "Meningoencefalite, encefalopatia, convulsão, síndrome de Guillain-Barré, síndrome cerebelar, paresias, paralisias e neuropatias.",
+      "Apenas dor retro-orbital e fotofobia.",
+      "Apenas perda de memória e dificuldade de concentração.",
+      "Apenas tontura e vertigem."
+    ],
+    "correctIndex": 1,
+    "explanation": "O QUADRO 1, que lista manifestações de formas atípicas de chikungunya, detalha que no sistema nervoso podem ocorrer: meningoencefalite, encefalopatia, convulsão, síndrome de Guillain-Barré, síndrome cerebelar, paresias, paralisias e neuropatias.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente chega à unidade de saúde com febre há 4 dias, dor de cabeça, dor muscular e dor atrás dos olhos. A Prova do Laço é positiva. Segundo o QUADRO 3 de estadiamento clínico da dengue, em qual grupo este paciente provavelmente se enquadraria inicialmente, se não houver sinais de alarme ou comorbidades?",
+    "options": [
+      "Grupo A.",
+      "Grupo B.",
+      "Grupo C.",
+      "Grupo D.",
+      "Não se aplica, pois a Prova do Laço positiva já indica gravidade."
+    ],
+    "correctIndex": 1,
+    "explanation": "O QUADRO 3 descreve o Grupo B como pacientes com sangramento de pele espontâneo (petéquias) ou induzido (prova do laço positiva), ausência de sinais de alarme e pode ou não ter comorbidades/grupos de risco. Se o paciente não tem sinais de alarme e não se enquadra em grupos específicos com comorbidades ou risco social, mas tem Prova do Laço positiva (que é um sinal de sangramento induzido), ele se encaixaria no Grupo B. O Grupo A é para ausência de manifestações hemorrágicas e prova do laço negativa.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Analisando as informações sobre o ciclo de vida do *Aedes aegypti* (ovo, larva, pupa), qual é a importância de eliminar recipientes com água parada para o controle vetorial?",
+    "options": [
+      "Apenas para evitar que os mosquitos adultos bebam água.",
+      "Porque os mosquitos adultos depositam seus ovos em locais secos, e a água os destrói.",
+      "Porque as fases de ovo, larva e pupa do mosquito são aquáticas; eliminar água parada interrompe o ciclo de desenvolvimento do vetor antes que ele se torne adulto e capaz de transmitir doenças.",
+      "A água parada atrai predadores naturais do *Aedes aegypti*.",
+      "Para reduzir a umidade do ar, que é essencial para a sobrevivência do mosquito adulto."
+    ],
+    "correctIndex": 2,
+    "explanation": "O ciclo de vida do *Aedes aegypti* tem fases aquáticas cruciais: os ovos são depositados em recipientes com água e a incubação ocorre em meio aquoso; as larvas vivem na água; e as pupas também vivem na água antes de se transformarem em mosquitos adultos. Portanto, a eliminação de recipientes que acumulam água parada é uma medida fundamental de controle vetorial, pois interrompe o ciclo de vida do mosquito, impedindo que ovos eclodam e que larvas e pupas se desenvolvam até a fase adulta, que é a responsável pela transmissão das arboviroses.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Uma gestante no primeiro trimestre apresenta exantema maculopapular pruriginoso, febre baixa e conjuntivite não purulenta. Qual arbovirose deve ser fortemente considerada devido ao risco de malformações congênitas, e qual a principal recomendação de acompanhamento?",
+    "options": [
+      "Dengue; realizar Prova do Laço e monitorar sinais de alarme.",
+      "Chikungunya; focar no manejo da dor articular e avaliar risco de cronificação.",
+      "Zika; investigar a infecção (RT-PCR/sorologia) e realizar acompanhamento pré-natal rigoroso com ultrassonografias para monitorar o desenvolvimento fetal devido ao risco de microcefalia e outras malformações.",
+      "Febre amarela; verificar cartão vacinal e avaliar risco de doença grave.",
+      "Mayaro; tratamento sintomático e repouso."
+    ],
+    "correctIndex": 2,
+    "explanation": "Os sintomas de exantema maculopapular pruriginoso, febre e conjuntivite não purulenta são compatíveis com Zika. Dada a associação conhecida do vírus Zika com malformações congênitas graves, como a microcefalia, quando a infecção ocorre durante a gestação, esta arbovirose deve ser fortemente considerada. O acompanhamento deve incluir a confirmação diagnóstica e um rigoroso monitoramento pré-natal, com atenção especial ao desenvolvimento neurológico e morfológico do feto através de exames de imagem.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Considerando o gráfico de 'Nº DE CASOS PROVÁVEIS DE DENGUE POR SEMANA EPIDEMIOLÓGICA, BRASIL, 2023 E 2024', que mostra um aumento acentuado de casos em 2024 em comparação com 2023 nas primeiras semanas, qual é a principal implicação para os serviços de saúde?",
+    "options": [
+      "Redução da necessidade de leitos hospitalares e insumos.",
+      "Menor necessidade de campanhas de prevenção, pois a população já está ciente.",
+      "Necessidade de intensificar as ações de controle vetorial, preparar os serviços de saúde para um aumento na demanda por atendimento, diagnóstico e manejo de casos, e reforçar a vigilância epidemiológica para identificar áreas de maior risco.",
+      "A situação é considerada normal e não requer medidas adicionais.",
+      "Focar apenas no tratamento de casos graves, negligenciando os leves."
+    ],
+    "correctIndex": 2,
+    "explanation": "Um aumento acentuado no número de casos prováveis de dengue no início de 2024 em comparação com o ano anterior, como descrito no gráfico, indica um cenário de alerta epidemiológico. Isso implica uma necessidade urgente de os serviços de saúde se prepararem para uma maior demanda por atendimento, incluindo diagnóstico rápido e manejo clínico adequado para evitar formas graves e óbitos. Além disso, é crucial intensificar as medidas de controle vetorial para reduzir a transmissão e fortalecer a vigilância epidemiológica para monitorar a situação e direcionar as ações.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente apresenta febre alta e poliartralgia intensa e simétrica, principalmente em mãos e pés, que piora pela manhã. Os sintomas começaram há 10 dias. Qual arbovirose é mais característica deste quadro e qual exame laboratorial seria mais indicado para confirmação diagnóstica neste momento?",
+    "options": [
+      "Dengue; pesquisa de antígeno NS1.",
+      "Zika; RT-PCR em amostra de urina.",
+      "Chikungunya; pesquisa de anticorpos IgM/IgG por ELISA.",
+      "Febre amarela; isolamento viral.",
+      "Mayaro; teste de inibição da hemoaglutinação (IH)."
+    ],
+    "correctIndex": 2,
+    "explanation": "Febre alta de início súbito e poliartralgia intensa, simétrica, especialmente em articulações distais (mãos, pés), com rigidez matinal, são manifestações muito características da chikungunya. Como os sintomas iniciaram há 10 dias, o paciente está na transição da fase aguda para a pós-aguda. Neste período (após o 6º dia), a pesquisa de anticorpos IgM e/ou IgG por métodos sorológicos como o ELISA é o mais indicado para o diagnóstico. A pesquisa de NS1 (dengue) e RT-PCR para Zika ou Chikungunya seriam mais úteis nos primeiros dias da doença.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Analisando as informações sobre o tratamento da dengue, por que é crucial o reconhecimento precoce dos sinais de alarme e o manejo adequado da reposição volêmica?",
+    "options": [
+      "Para permitir o uso de antivirais específicos, que só funcionam se administrados precocemente.",
+      "Porque os sinais de alarme indicam a necessidade de tratamento com antibióticos para prevenir coinfecções bacterianas.",
+      "Porque os sinais de alarme (como dor abdominal intensa, vômitos persistentes, acúmulo de líquidos) indicam o início da fase crítica com aumento da permeabilidade capilar e extravasamento plasmático, que pode levar ao choque. A reposição volêmica adequada e precoce é a base do tratamento para prevenir a evolução para formas graves e óbito.",
+      "Para justificar a realização da Prova do Laço, que só pode ser feita na presença de sinais de alarme.",
+      "Apenas para classificar o paciente no Grupo D, que necessita de UTI."
+    ],
+    "correctIndex": 2,
+    "explanation": "Os sinais de alarme na dengue marcam o início da fase crítica, caracterizada pelo aumento da permeabilidade capilar e extravasamento de plasma. Essa condição pode levar rapidamente ao choque hipovolêmico se não for manejada adequadamente. O reconhecimento precoce desses sinais e a pronta instituição da reposição volêmica, conforme o estadiamento do paciente, são fundamentais para prevenir a evolução para formas graves da doença, como o choque da dengue, e reduzir a mortalidade.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Considerando a ficha de investigação do SINAN para Dengue e Chikungunya, qual a importância de preencher o campo 'Local Provável de Infecção (LPI)'?",
+    "options": [
+      "Apenas para fins de registro burocrático, sem utilidade prática.",
+      "Para determinar o tipo de tratamento que o paciente receberá.",
+      "Para identificar as áreas geográficas onde está ocorrendo a transmissão (identificar se o caso é autóctone ou importado), o que é crucial para direcionar as ações de vigilância epidemiológica e controle vetorial.",
+      "Para definir se o caso será classificado como Dengue ou Chikungunya.",
+      "Para calcular o custo do tratamento do paciente para o sistema de saúde."
+    ],
+    "correctIndex": 2,
+    "explanation": "A informação sobre o Local Provável de Infecção (LPI) na ficha de investigação do SINAN é de extrema importância para a vigilância epidemiológica. Ela permite identificar se o caso é autóctone (adquirido no município de residência) ou importado, mapear as áreas de transmissão ativa dos arbovírus e, consequentemente, direcionar e priorizar as ações de controle vetorial (como controle casa a casa no perímetro do LPI) e outras medidas de saúde pública para interromper a cadeia de transmissão.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente com suspeita de dengue está no 7º dia de doença e apresenta melhora da febre, mas começa a sentir dor abdominal intensa e contínua, e o hematócrito apresenta aumento progressivo. Qual fase da dengue ele está entrando e qual a principal preocupação?",
+    "options": [
+      "Fase de recuperação; preocupação com bradicardia.",
+      "Fase febril tardia; preocupação com persistência da febre.",
+      "Fase crítica; preocupação com extravasamento plasmático e possível evolução para choque.",
+      "Reinfecção por outro sorotipo da dengue; preocupação com a segunda febre.",
+      "Fase prodrômica de outra arbovirose."
+    ],
+    "correctIndex": 2,
+    "explanation": "O declínio da febre (defervescência), geralmente entre o terceiro e o sétimo dia, marca o início da fase crítica da dengue. O surgimento de sinais de alarme, como dor abdominal intensa e contínua e o aumento progressivo do hematócrito (indicando hemoconcentração por extravasamento plasmático), são característicos desta fase. A principal preocupação é a ocorrência de extravasamento plasmático significativo, que pode levar ao choque da dengue.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "De acordo com as notícias apresentadas no início do material, qual informação relevante sobre a transmissão de arbovírus pelo *Aedes aegypti* é destacada, além da picada de mosquitos já infectados?",
+    "options": [
+      "O mosquito só se infecta ao picar humanos na fase crônica da doença.",
+      "O *Aedes aegypti* pode nascer já infectado por vírus como o da zika ou da chikungunya.",
+      "A transmissão ocorre apenas se o mosquito picar mais de uma pessoa.",
+      "Os mosquitos machos são os principais transmissores.",
+      "O vírus só é transmitido em temperaturas acima de 30°C."
+    ],
+    "correctIndex": 1,
+    "explanation": "Uma das notícias destacadas no início do material, do Jornal Nacional, informa que uma pesquisa mostrou que o *Aedes aegypti* pode nascer já infectado por vírus como o da zika ou da chikungunya. Isso sugere a possibilidade de transmissão transovariana (da fêmea para os ovos), o que tem implicações importantes para o controle vetorial e a persistência dos vírus na natureza.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Por que o ácido acetilsalicílico (AAS) é contraindicado no tratamento da chikungunya e também deve ser evitado na dengue?",
+    "options": [
+      "Porque causa dependência química rapidamente.",
+      "Porque interfere na ação dos analgésicos comuns como paracetamol e dipirona.",
+      "Pelo risco de sangramento (devido à sua ação antiplaquetária) e, no caso da chikungunya, também pelo risco de síndrome de Reye em crianças. Na dengue, o risco de hemorragias já é uma preocupação.",
+      "Porque é ineficaz para o alívio da dor articular nessas doenças.",
+      "Porque pode mascarar os sintomas neurológicos graves."
+    ],
+    "correctIndex": 2,
+    "explanation": "O ácido acetilsalicílico (AAS) é contraindicado na fase aguda da chikungunya devido ao risco de síndrome de Reye (uma condição grave que afeta cérebro e fígado, especialmente em crianças com infecções virais) e pelo risco de sangramento. Na dengue, onde já existe um risco de manifestações hemorrágicas devido à plaquetopenia e ao extravasamento plasmático, o uso de AAS (que interfere na função plaquetária e pode aumentar o sangramento) também é desaconselhado.",
+    "type": "raciocínio"
+  }
+]
